@@ -1,0 +1,943 @@
+{
+  "foundational": [
+    {
+      "id": "andres-sicard",
+      "name": "Andrés Sicard Currea",
+      "country": "Colombia",
+      "flag": {
+        "code": "co",
+        "alt": "Bandera de Colombia"
+      },
+      "email": "asicardc@unal.edu.co",
+      "bio": [
+        "Doctor en ciencias de la información y la comunicación ULL-esp. Diseñador industrial UJTL- .co. Profesor asociado a la escuela de Diseño Industrial Facultad de Artes. Sede Bogotá. Universidad Nacional de Colombia. Cofundador y coordinador general de la RedLaDA. Director del grupo de investigación Saberes Implícitos adscrito al instituto de investigaciones tecnológicas de Facultad de Artes. Co-coordinador del proyecto aula viva de saberes y conocimiento tradicional del programa Saber y vida del instituto IEPRI de la facultad de Ciencias humanas de la UNC."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678458526/redlada/foundational/andres-sicard_tlmiwa.webp"
+    },
+    {
+      "id": "beatriz-galan",
+      "name": "Beatriz Galán",
+      "country": "Argentina",
+      "flag": {
+        "code": "ar",
+        "alt": "Bandera de Argentina"
+      },
+      "email": "ceprodide@fadu.uba.ar",
+      "bio": [
+        "Profesora, Investigadora con orientación en Diseño de Productos. Universidad de Buenos Aires.",
+        "El cambio de paradigma alimentario es el trasfondo sobre el cuál el diseño puede desarrollar un aporte desde los aspectos funcionales, ergonómicos , estéticos y simbólicos. La iniciativa de constitución de la RedLaDA, nos encuentra trabajando en diversos frentes relacionados a la experiencia alimentaria. Por un aspecto nuestra area de referencia, la ciudad de Buenos Aires es un escenario don de las industrias culturales, desarrolladas bajo las políticas de diseño, tanto públicas como privadas, ofrecen la oportunidad de poner en valor las ofertas locales en ésta materia. La diversidad cultural de las comunidades con sus culturas alimentarias, se da de una manera densa, en una oferta que encuentra fácilmente la llegada a un mercado urbano informado y sensible. El diseño ha acompañado con empresas emergentes de diseño para la gastronomía, especialmente en el diseño de experiencias.",
+        "Por otra parte, lo que llamamos cambio del paradigma alimentario, es un movimiento multiforme, que alienta diversos cluster productivos de alimentos en baja escala, en el cinturón de las grandes ciudades, y aún , penetra a las ciudades con el concepto de huerta urbana afectando a la naturaleza de la ciudad misma. Este cambio trata de acercar al habitante urbano al habitante/productor, crea sistemas de comercialización alternativos, esfuerzos de apoyo desde las políticas de estado para certificar las características agroecológicas, y demanda una gran cantidad de artefactos , nuevos, que abastecen todo el ciclo de productos, desde su procesamiento (pequeñas máquinas herramientas), hasta su venta y consumo.",
+        "Este cambio, nos encuentra comprometidos como cátedra y como centro de investigación de la Universidad pública, junto a otras instituciones en el desarrollo de un conjunto de innovaciones, en el sector alimentario, de carácter sistémicas (abarcan diseño de y para la información, consumo, comercialización y producción), acumulativas, (no basadas en procesos sociales en marcha ), genuinas ( basadas en las capacidades locales), y sustentables (que respeten la diversidad de recursos naturales y culturales de nuestra región)."
+      ],
+      "website": ["https://www.ceprodide.com.ar"],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678458478/redlada/foundational/beatriz-galan_v28p3b.webp"
+    },
+    {
+      "id": "carina-strata",
+      "name": "Carina Strata",
+      "country": "Uruguay",
+      "flag": {
+        "code": "uy",
+        "alt": "Bandera de Uruguay"
+      },
+      "email": "cstrata@farq.edu.uy",
+      "bio": ["Profesora de Proyecto en Facultad de Arquitectura - UDELAR."],
+      "website": ["https://www.farq.edu.uy"],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678458478/redlada/foundational/carina-strata_hhywsy.webp"
+    },
+    {
+      "id": "daniel-bergara",
+      "name": "Daniel Bergara",
+      "country": "Uruguay",
+      "flag": {
+        "code": "uy",
+        "alt": "Bandera de Uruguay"
+      },
+      "email": "danielbergara@gmail.com",
+      "bio": [
+        "Soy Diseñador Industrial recibido en la primer cohorte del Centro de Diseño Industrial (CDI), ex director de la EUCD/ Facultad de Arquitectura/ UdelaR, hoy Docente de Diseño y Creatividad III en la misma institución.",
+        "Socio del estudio \"Diseño Básico\". Integro el equipo de Ciencia Viva, primer museo participativo de Ciencia y Tecnología del Uruguay. Fundador del Conglomerado de Diseño del Uruguay y en 2009 de la Cámara de Diseño del Uruguay, siendo su primer presidente (2009-2010).",
+        "Integrante de la Red de Popularización de la Ciencia y la Tecnología en América Latina y el Caribe. y miembro fundador de la Red Latinoamericana de Food Design. También formo parte del grupo fundacional de la RedLaDA (Red Latinoamericana de Diseño y Alimentos).",
+        "Maestrando en Economía Social de la Universidad Nacional de General Sarmiento en el Cono Urbano, Bs As, Tesis en Curso.",
+        "El food design, la economía social y solidaria y los sistemas tecnológicos sociales ponen foco a mis actividades desde las epistemologías del sur."
+      ],
+      "website": ["https://www.instagram.com/_dbasico/"],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678458478/redlada/foundational/daniel-bergara_wcmqzc.webp"
+    },
+    {
+      "id": "francesca-zampollo",
+      "name": "Francesca Zampollo",
+      "country": "Italia",
+      "flag": {
+        "code": "it",
+        "alt": "Bandera de Italia"
+      },
+      "email": "francesca.zampollo@gmail.com",
+      "bio": [
+        "Francesca es una galardonada diseñadora de Alimentos, con su producto más exitoso, el snack de chocolate \"Unico\", diseñado para el balneario Venchi, en producción desde 2006. Francesca tiene un Doctorado en Teoría del Diseño para el Diseño de Alimentos. Ella participa regularmente en conferencias académicas y ha publicado varios artículos académicos.",
+        "En 2009 Francesca ha fundado the International Food Design Society, y desde entonces se organizó the First International Symposium on Food Experience Design(noviembre de 2010) y la Conferencia Internacional sobre el Diseño de Alimentos y Diseño para la Alimentación (junio de 2012), que fue la primera conferencia académica sobre Food Design.",
+        "En 2012-2013 fue profesora a tiempo parcial en la Universidad Metropolitana de Londres, donde ella era la líder del estudio de Meaningful Food, un estudio de Diseño de Alimentos diseñado para el producto y estudiantes de diseño de muebles."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678458478/redlada/foundational/francesa-zampollo_shtxkt.webp"
+    },
+    {
+      "id": "gaston-rodriguez",
+      "name": "Gastón Rodríguez Lepera",
+      "country": "Uruguay",
+      "flag": {
+        "code": "uy",
+        "alt": "Bandera de Uruguay"
+      },
+      "email": "gaston.rodriguezlepera@gmail.com",
+      "bio": ["Diseñador Industrial, EUCD, Universidad de la República."],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678458478/redlada/foundational/gaston-rodriguez_wizlgf.webp"
+    },
+    {
+      "id": "macarena-harispe",
+      "name": "Macarena Harispe",
+      "country": "Uruguay",
+      "flag": {
+        "code": "uy",
+        "alt": "Bandera de Uruguay"
+      },
+      "email": "macarena@toc.com.uy",
+      "bio": [],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678458478/redlada/foundational/macarena-harispe_d8xizj.webp"
+    },
+    {
+      "id": "mario-ivetta",
+      "name": "Mario Emilio Ivetta",
+      "country": "Uruguay",
+      "flag": {
+        "code": "uy",
+        "alt": "Bandera de Uruguay"
+      },
+      "email": "marioivetta@gmail.com",
+      "bio": [
+        "Diseñador Industrial. Especialista en enseñanza de la educación superior. Profesor Titular de Introducción al Diseño Industrial B (FAUD-UNC). Director del Centro de Investigación en Diseño Industrial Córdoba (FAUD-UNC).",
+        "Food Design es una actividad proyectual que incide sobre procesos y productos relacionados con la comida y la alimentación. Del mismo modo que para otras disciplinas proyectuales, el resultado de la actividad disciplinar y profesional del Food Design no es un mero conjunto de productos, sino un escenario en el que se desarrollan las relaciones y prácticas entre las personas; mediatizadas y optimizadas por aquellos.",
+        "Mediante esta expresión disciplinar, se aporta un significativo enriquecimiento de miradas sobre la comida y una ampliación de visiones sobre los alimentos, los cuales implicarán importantes redefiniciones de muchas prácticas y contextos sociales, culturales y científicos.",
+        "La Carrera de Diseño Industrial y el Centro de Investigación en Diseño Industrial Córdoba de la Facultad de Arquitectura, Urbanismo y Diseño de la Universidad Nacional de Córdoba son espacios institucionales de estudio, reflexión y proposición óptimos para el desarrollo de conceptos, metodologías y actitudes en el desarrollo de esta disciplina."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678458478/redlada/foundational/mario-ivetta_jjz9aj.webp"
+    },
+    {
+      "id": "marta-ramirez",
+      "name": "Marta Ramirez",
+      "country": "Colombia",
+      "flag": {
+        "code": "co",
+        "alt": "Bandera de Colombia"
+      },
+      "email": "martai.ramirezsilva@gmail.com",
+      "bio": [
+        "Crecí entre sartenes y fogones. Mi madre enseñó culinaria desde siempre y tuvo, paralelo al oficio de la crianza, una microempresa de Catering en casa.",
+        "Así que con el tiempo, con esta gran inspiración familiar y contagiada de esta inquietud ancestral sobre el tema de la comida, me convertí, además de cocinera amateur pero siempre dispuesta, en una infatigable buscadora de temas asociados, no solo a la práctica de cocinar, sino a la filosofía que encierra la palabra comida y a todo ese vasto e infinito mundo que involucra el acto de alimentarse más allá del evento fisiológico: como ritual, como determinante cultural, como vestigio del tiempo, como eje principal de la actividad humana.",
+        "Como diseñadora y “vidrio pensadora”, término que acuñé a partir del material en el que me expreso, el vidrio, he desarrollado múltiples diseños para la mesa. Me valgo del término “Foodjects, creado en España para titular una exposición sobre gastronomía y diseño, para cobijar dentro de este el trabajo que he desarrollado con el vidrio bajo la etiqueta “Joyas para la mesa”, inspirada en los rituales de poner la mesa, vestirla y engalanarla, de la misma manera que se adorna el cuerpo para resaltar sus encantos."
+      ],
+      "website": ["https://www.martaramirezglassign.com/"],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678458478/redlada/foundational/marta-ramirez_dj1ktj.webp"
+    },
+    {
+      "id": "matilde-lombardi",
+      "name": "Matilde Lombardi",
+      "country": "Uruguay",
+      "flag": {
+        "code": "uy",
+        "alt": "Bandera de Uruguay"
+      },
+      "email": "matildel.lombardi@gmail.com",
+      "bio": [
+        "Su trayecto profesional se fue haciendo desde su gusto personal por lo estético y el dialogo con el medio. En esta búsqueda recorrió caminos variados desde la investigación artística y la puesta en escena, el ámbito académico, el diseño promocional, y el circuito comercial e industrial.",
+        "Desde 2013 desarrolla Materiateca Viva, plataforma de innovación sustentable en materiales blandos. En 2014 funda Cultura Food Design junto con la redLaFD, con la cual realiza exposiciones culturales en distintos ámbitos y países.",
+        "Actualmente, diseña, investiga y desarrolla alimentos visuales, desde su visión como artista y emprendedora, en Buenos Aires, donde vive y trabaja desde el 2017."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678458478/redlada/foundational/matilde-lombardi_rnw5sm.webp"
+    },
+    {
+      "id": "pedro-reissig",
+      "name": "Pedro Reissig",
+      "country": "Argentina",
+      "flag": {
+        "code": "ar",
+        "alt": "Bandera de Argentina"
+      },
+      "email": "preissig@gmail.com",
+      "bio": [
+        "Doctorado, Universidad de Buenos Aires / Arquitecto, Pratt Institute, NY.",
+        "Es muy motivante encontrar la conexión entre cosas que hasta entonces parecían independientes. Esto mismo me pasó con el diseño y la comida, cada uno iba por su lado hasta que poco a poco se fueron uniendo naturalmente. Mi trabajo como diseñador e investigador es en food morphology (la forma de los alimentos).",
+        "También desarrollo trabajo académico como investigador y docente, creando contenidos y masa crítica en Food Design por medio de diseño curricular, cursos, talleres y conferencias. Una parte de esto último está reflejada en la “cocina estructural”, una plataforma pedagógica original para unir materiales, forma y tecnología a través del diseño y usando la cocina como lab de innovación.",
+        "Es una forma de apropiarse y divertirse con la comida mientras se aprende a diseñar. Pienso que uno come lo que es, más que uno es lo que come."
+      ],
+      "website": [
+        "http://www.fdxe.org/",
+        "http://www.foodmorphology.com/",
+        "http://www.fdna.org/"
+      ],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678458479/redlada/foundational/pedro-reissig_echubf.webp"
+    },
+    {
+      "id": "ricardo-yudi",
+      "name": "Ricardo Yudi",
+      "country": "Brasil",
+      "flag": {
+        "code": "br",
+        "alt": "Bandera de Brasil"
+      },
+      "email": "ricardo.yudi@gmail.com",
+      "bio": [
+        "Ricardo Yudi é professor de Gastronomia na Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA). Possui graduação em Gastronomia, mestrado em Design Estratégico e cursa o doutorado em Design (UNISINOS). Co-fundador da Rede Latinoamericana de Food Design (redLaFD), food designer no s3foodlab e sócio do empreendimento JUSTO.",
+        "Seu sonho é poder conectar as mais diversas áreas do conhecimento com a alimentação do futuro.Quando se planeja algo para o futuro, não se busca adivinhar o que vai acontecer, mas sim, poder criar estratégias para diferentes cenários. A alimentação só será para o futuro se ela for para todos, se contemplar todos os seres humanos.",
+        "O patamar da alimentação hoje não é inclusivo, ele é cada vez mais restrito, hiper-especializado e o acesso não é universal. Para uns alimentação é experiência enquanto que para outros é sobrevivência."
+      ],
+      "website": ["https://www.s3foodlab.com/"],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678458502/redlada/foundational/ricardo-yudi_lkfott.webp"
+    }
+  ],
+  "core": [
+    {
+      "id": "daniel-bergara",
+      "name": "Daniel Bergara",
+      "country": "Uruguay",
+      "flag": {
+        "code": "uy",
+        "alt": "Bandera de Uruguay"
+      },
+      "email": "danielbergara@gmail.com",
+      "bio": [
+        "Soy Diseñador Industrial recibido en la primer cohorte del Centro de Diseño Industrial (CDI), ex director de la EUCD/ Facultad de Arquitectura/ UdelaR, hoy Docente de Diseño y Creatividad III en la misma institución.",
+        "Socio del estudio \"Diseño Básico\". Integro el equipo de Ciencia Viva, primer museo participativo de Ciencia y Tecnología del Uruguay. Fundador del Conglomerado de Diseño del Uruguay y en 2009 de la Cámara de Diseño del Uruguay, siendo su primer presidente (2009-2010).",
+        "Integrante de la Red de Popularización de la Ciencia y la Tecnología en América Latina y el Caribe. y miembro fundador de la Red Latinoamericana de Food Design. También formo parte del grupo fundacional de la RedLaDA (Red Latinoamericana de Diseño y Alimentos).",
+        "Maestrando en Economía Social de la Universidad Nacional de General Sarmiento en el Cono Urbano, Bs As, Tesis en Curso.",
+        "El food design, la economía social y solidaria y los sistemas tecnológicos sociales ponen foco a mis actividades desde las epistemologías del sur."
+      ],
+      "website": ["https://www.instagram.com/_dbasico/"],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678458478/redlada/foundational/daniel-bergara_wcmqzc.webp",
+      "active": true
+    },
+    {
+      "id": "malena-pasin",
+      "name": "Malena Pasin",
+      "country": "Argentina",
+      "flag": {
+        "code": "ar",
+        "alt": "Bandera de Argentina"
+      },
+      "email": "malena.pasin@gmail.com",
+      "bio": [
+        "Soy Diseñadora Industrial y Especialista en Metodología de la Investigación Científica, docente e investigadora en grado y posgrado en áreas de Metodología de la investigación. Actualmente, estoy a cargo del CEPRODIDE, centro de investigación en diseño de la Facultad de Arquitectura, Diseño y Urbanismo de la UBA (Argentina) que desarrolla temáticas vinculadas a diseño y desarrollo. El food design, además de atravesar mi vida cotidiana y personal, se involucra con mis experiencias docentes, donde observo y difundo casos sobre Diseño y Alimentos enfocando en los actores involucrados, el momento de aplicación del diseño en la cadena de valor y qué estrategias proyectuales se habilitan, de acuerdo a cada marco conceptual. Participo en la RedLaFD desde el año 2013 y desde 2018, soy Líder de Nodos."
+      ],
+      "website": ["https://www.instagram.com/metodo_uba/"],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678460224/redlada/core/Malena_Pasin_pwbkky.webp",
+      "active": true
+    },
+    {
+      "id": "marianela-ruarte",
+      "name": "Marianela Ruarte",
+      "country": "Argentina",
+      "flag": {
+        "code": "ar",
+        "alt": "Bandera de Argentina"
+      },
+      "email": "marianelaeruarte@gmail.com",
+      "bio": [
+        "Vengo del ámbito de la Psicología (UNC- Córdoba) y de la Gastronomía, soy Gestora Cultural Independiente. Trabajo en el ámbito de la Economía Social, Solidaria, Popular y Feminista (ESSPyF), también trabajo como Tutora curricular de DOSESS-Caritas. Participo en diversos proyectos de extensión junto al Grupo REDESS (Redes de la Economía Social y Solidaria). Hoy estamos abordando un trabajo sobre saberes populares de la gastronomía Sanjuanina en trabajadores de la ESSPyF."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678460224/redlada/core/marianela_ruarte_xujaae.webp",
+      "active": true
+    },
+    {
+      "id": "andres-sicard",
+      "name": "Andrés Sicard Currea",
+      "country": "Colombia",
+      "flag": {
+        "code": "co",
+        "alt": "Bandera de Colombia"
+      },
+      "email": "asicardc@unal.edu.co",
+      "bio": [
+        "Doctor en ciencias de la información y la comunicación ULL-esp. Diseñador industrial UJTL- .co. Profesor asociado a la escuela de Diseño Industrial Facultad de Artes. Sede Bogotá. Universidad Nacional de Colombia. Cofundador y coordinador general de la RedLaDA. Director del grupo de investigación Saberes Implícitos adscrito al instituto de investigaciones tecnológicas de Facultad de Artes. Co-coordinador del proyecto aula viva de saberes y conocimiento tradicional del programa Saber y vida del instituto IEPRI de la facultad de Ciencias humanas de la UNC."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678458526/redlada/foundational/andres-sicard_tlmiwa.webp",
+      "active": true
+    },
+    {
+      "id": "pedro-reissig",
+      "name": "Pedro Reissig",
+      "country": "Argentina",
+      "flag": {
+        "code": "ar",
+        "alt": "Bandera de Argentina"
+      },
+      "email": "preissig@gmail.com",
+      "bio": [
+        "Doctorado, Universidad de Buenos Aires / Arquitecto, Pratt Institute, NY.",
+        "Es muy motivante encontrar la conexión entre cosas que hasta entonces parecían independientes. Esto mismo me pasó con el diseño y la comida, cada uno iba por su lado hasta que poco a poco se fueron uniendo naturalmente. Mi trabajo como diseñador e investigador es en food morphology (la forma de los alimentos).",
+        "También desarrollo trabajo académico como investigador y docente, creando contenidos y masa crítica en Food Design por medio de diseño curricular, cursos, talleres y conferencias. Una parte de esto último está reflejada en la “cocina estructural”, una plataforma pedagógica original para unir materiales, forma y tecnología a través del diseño y usando la cocina como lab de innovación.",
+        "Es una forma de apropiarse y divertirse con la comida mientras se aprende a diseñar. Pienso que uno come lo que es, más que uno es lo que come."
+      ],
+      "website": [
+        "http://www.fdxe.org/",
+        "http://www.foodmorphology.com/",
+        "http://www.fdna.org/"
+      ],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678458479/redlada/foundational/pedro-reissig_echubf.webp",
+      "active": true
+    },
+    {
+      "id": "matilde-lombardi",
+      "name": "Matilde Lombardi",
+      "country": "Uruguay",
+      "flag": {
+        "code": "uy",
+        "alt": "Bandera de Uruguay"
+      },
+      "email": "matildel.lombardi@gmail.com",
+      "bio": [
+        "Su trayecto profesional se fue haciendo desde su gusto personal por lo estético y el dialogo con el medio. En esta búsqueda recorrió caminos variados desde la investigación artística y la puesta en escena, el ámbito académico, el diseño promocional, y el circuito comercial e industrial.",
+        "Desde 2013 desarrolla Materiateca Viva, plataforma de innovación sustentable en materiales blandos. En 2014 funda Cultura Food Design junto con la redLaFD, con la cual realiza exposiciones culturales en distintos ámbitos y países.",
+        "Actualmente, diseña, investiga y desarrolla alimentos visuales, desde su visión como artista y emprendedora, en Buenos Aires, donde vive y trabaja desde el 2017."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678458478/redlada/foundational/matilde-lombardi_rnw5sm.webp",
+      "active": true
+    },
+    {
+      "id": "luiz-mileck",
+      "name": "Luiz Mileck",
+      "country": "Brasil",
+      "flag": {
+        "code": "br",
+        "alt": "Bandera de Brasil"
+      },
+      "email": "luizmileck@gmail.com",
+      "bio": [
+        "Nacido en Curitiba en 1986, Luiz Mileck es ingeniero mecánico por la Universidade Federal do Paraná (UFPR, 2010), Master Degree en Francia en ingeniería por la Université de Technologie de Compiègne (UTC Francia, 2009) y Maestro en Diseño de la Información por la UFPR en la temática Co-creación para las vivencias (2016).",
+        "Comenzó a emprender después de dejar Renault y hoy es socio fundador de la Vivah Vivências Gastronômicas (desde 2012), Loja do Produtor (desde 2018) e idealizador del living lab Coletivo Alimentar (desde 2015), participando activamente en el desarrollo de las empresas y proyectos encubados.",
+        "En 2014 obtuvo Mención Honorífica por la Asamblea Legislativa del Estado de Paraná por los hechos en el área de emprendedorismo y gastronomía. Actualmente se busca temas como Cultura Alimentaria y Food Design."
+      ],
+      "website": [
+        "http://coletivoalimentar.com.br/",
+        "http://vivahgastronomia.com.br/"
+      ],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678460224/redlada/core/luiz_mileck_hrjxzr.webp",
+      "active": true
+    },
+    {
+      "id": "silvana-juri",
+      "name": "Silvana Juri",
+      "country": "",
+      "flag": {
+        "code": "ar",
+        "alt": "Bandera de Argentina"
+      },
+      "email": "",
+      "bio": [],
+      "website": [],
+      "photo": "",
+      "active": true
+    },
+    {
+      "id": "diana-urdinola",
+      "name": "Diana Urdinola",
+      "country": "Colombia",
+      "flag": {
+        "code": "co",
+        "alt": "Bandera de Colombia"
+      },
+      "email": "",
+      "bio": [
+        "Diseñadora Industrial, Magíster en Lógica y Técnica de la Forma de la Universidad de Buenos Aires. Interesada en el estudio de los materiales y las formas para la generación de proyectos de diseño. Actualmente es docente investigadora de la Línea de Morfología Experimental y coordinadora del área Tecno Productiva del programa de Diseño Industrial de la Universidad Pontificia Bolivariana en Medellín. Allí lidera proyectos de investigación que buscan la generación de nuevas relaciones entre la morfología y los materiales. Recientemente ha desarrollado proyectos en los que se relacionan los alimentos y la morfología."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678460224/redlada/core/diana-urdinola_ukcb4x.webp",
+      "active": true
+    },
+    {
+      "id": "carolina-gutierrez",
+      "name": "Carolina Gutiérrez",
+      "country": "México",
+      "flag": {
+        "code": "mx",
+        "alt": "Bandera de México"
+      },
+      "email": "gutierrez.carolina96@uabc.edu.mx",
+      "bio": [
+        "Me apasionan los paisajes, la naturaleza y las historias de los ingredientes. Crecí muy cerca del ambiente de la cocina en familia, y disfrute de los paisajes endémicos de mi lugar de origen. Desde chica me despertó la curiosidad por investigar las recetas y jugar con los ingredientes que tenia a la mano. Mi desarrollo por la vida, se ha orientado a esos momentos y experiencias con otras personas, que han compartido su conocimiento y los sabores de sus lugares. Actualmente, sigo preparándome en el campo de la investigación en la alimentación y emprendiendo proyectos. Mi línea de investigación es sobre sistemas alimentarios tradicionales, colaborando con cocineras tradicionales y el paisaje alimentario en Ensenada, desde la perspectiva de sostenibilidad y patrimonio. Mi misión con esto es conectar el diálogo, la participación, las ideas y las historias a través del lenguaje del alimento para un bien común."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678460229/redlada/core/carolina-gutierrez_wjpmdq.webp",
+      "active": true
+    },
+    {
+      "id": "geraldine-ezquerra",
+      "name": "Geraldine Ezquerra",
+      "country": "Cuba",
+      "flag": {
+        "code": "cu",
+        "alt": "Bandera de Cuba"
+      },
+      "email": "geraldineezquerraq@gmail.com",
+      "bio": [
+        "Doctora en Ciencias Sociológicas y Máster en Coaching Nutricional. Emprendiendo mi propio negocio de coaching nutricional que tiene como servicio fundamental la formación en educación nutricional."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678460224/redlada/core/geraldine-ezquerra_r7twl3.webp",
+      "active": true
+    },
+    {
+      "id": "karina-weber",
+      "name": "Karina Weber",
+      "country": "",
+      "flag": {
+        "code": "ar",
+        "alt": "Bandera de Argentina"
+      },
+      "email": "",
+      "bio": [],
+      "website": [],
+      "photo": "",
+      "active": true
+    },
+    {
+      "id": "jhonn-alarcon",
+      "name": "Jhonn Manuel Alarcón Morales",
+      "country": "Ecuador",
+      "flag": {
+        "code": "ec",
+        "alt": "Bandera de Ecuador"
+      },
+      "email": "jalarcon@uazuay.edu.ec",
+      "bio": [
+        "Diseñador y Magíster en Comunicación y Marketing por la Universidad del Azuay y Cocinero Profesional por la Escuela de Gastronomía CECAEM en Cuenca, Ecuador. Candidato a Doctor en Diseño en la Universidad de Palermo en Buenos Aires, Argentina. Su área de investigación de tesis es el Food Design.",
+        "Desde el año 2012 hasta la actualidad labora como docente de la Universidad del Azuay en las escuelas de Diseño Gráfico, Diseño de Productos y Creación Teatral en las cátedras de taller de diseño, marketing, publicidad, emprendimiento y gestión de proyectos. También desempeña funciones como diseñador gráfico editorial en el Departamento de Comunicación y Publicaciones de la misma Universidad.",
+        "Sus habilidades las desarrolló al trabajar para varias empresas de la ciudad y en varios emprendimientos en las áreas del diseño gráfico y la gastronomía. Como profesional piensa que el diseño debe ser honesto y ético, y que aún falta mucho por hacer y también mucho por comer."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678460224/redlada/core/jhonn_alarcon_m3e7fc.webp",
+      "active": true
+    }
+  ],
+  "community": [
+    {
+      "id": "malena-pasin",
+      "name": "Malena Pasin",
+      "country": "Argentina",
+      "flag": {
+        "code": "ar",
+        "alt": "Bandera de Argentina"
+      },
+      "email": "malena.pasin@gmail.com",
+      "bio": [
+        "Soy Diseñadora Industrial y Especialista en Metodología de la Investigación Científica, docente e investigadora en grado y posgrado en áreas de Metodología de la investigación. Actualmente, estoy a cargo del CEPRODIDE, centro de investigación en diseño de la Facultad de Arquitectura, Diseño y Urbanismo de la UBA (Argentina) que desarrolla temáticas vinculadas a diseño y desarrollo. El food design, además de atravesar mi vida cotidiana y personal, se involucra con mis experiencias docentes, donde observo y difundo casos sobre Diseño y Alimentos enfocando en los actores involucrados, el momento de aplicación del diseño en la cadena de valor y qué estrategias proyectuales se habilitan, de acuerdo a cada marco conceptual. Participo en la RedLaFD desde el año 2013 y desde 2018, soy Líder de Nodos."
+      ],
+      "website": ["https://www.instagram.com/metodo_uba/"],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678460224/redlada/core/Malena_Pasin_pwbkky.webp",
+      "active": true
+    },
+    {
+      "id": "marianela-ruarte",
+      "name": "Marianela Ruarte",
+      "country": "Argentina",
+      "flag": {
+        "code": "ar",
+        "alt": "Bandera de Argentina"
+      },
+      "email": "marianelaeruarte@gmail.com",
+      "bio": [
+        "Vengo del ámbito de la Psicología (UNC- Córdoba) y de la Gastronomía, soy Gestora Cultural Independiente. Trabajo en el ámbito de la Economía Social, Solidaria, Popular y Feminista (ESSPyF), también trabajo como Tutora curricular de DOSESS-Caritas. Participo en diversos proyectos de extensión junto al Grupo REDESS (Redes de la Economía Social y Solidaria). Hoy estamos abordando un trabajo sobre saberes populares de la gastronomía Sanjuanina en trabajadores de la ESSPyF."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678460224/redlada/core/marianela_ruarte_xujaae.webp",
+      "active": true
+    },
+    {
+      "id": "andrea-stambuk",
+      "name": "Andrea Stambuk",
+      "country": "Bolivia",
+      "flag": {
+        "code": "bo",
+        "alt": "Bandera de Bolivia"
+      },
+      "email": "andrea.stambuk@gmail.com",
+      "bio": [
+        "Máster en Organización de Eventos, Protocolo y Turismo de Negocio, Ostelea School of Tourism and Hospitality Barcelona - Spain / Comunicadora Social, Universidad Católica Boliviana “San Pablo”. Soy esa especie que apuesta por la innovación y el desarrollo.",
+        "En mí día a día organizo eventos corporativos, pero nombré a mi empresa como una fábrica de experiencias, busco generar emociones que hacen que la gente viaje a través de su imaginación. Uno de mis productos estrella es el Food Event Design, donde el diseño, gastronomía y comunicación intervienen en los cinco sentidos de las personas para crear una experiencia única.",
+        "Actualmente estoy apostando por la revalorización del patrimonio cultural gastronómico en mi ciudad y el desarrollo del turismo de negocios a través de la gastronomía para el crecimiento económico que implica una educación en higiene y seguridad, alimentación inteligente (nutricional), revalorización de productos regionales, Slowfood, un ciclo sustentable articulado con la cultura, historia e innovación.",
+        "Me considero una persona comunicativa y creativa y cuando me apasiona algo siento que nada es imposible."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678475472/redlada/community/andrea-stambuk_ndpind.webp",
+      "active": true
+    },
+    {
+      "id": "apnuiq-de-la-rocha",
+      "name": "Apnuiq De la Rocha",
+      "country": "Bolivia",
+      "flag": {
+        "code": "bo",
+        "alt": "Bandera de Bolivia"
+      },
+      "email": "arieldelarochag@gmail.com",
+      "bio": [
+        "Activista. Impulsor de La Casa de les Ningunes (Comunidad urbana que propone Alternativas Sistémicas: transición y sostenibilidad desde hace 8 años). Estudié derecho y me especialicé en temáticas de Cambio Climático, Derechos de la Madre Tierra y Sistemas Alimentarios Sostenibles.",
+        "Actualmente trabajo en diferentes proyectos de Alimentación Sostenible y Consumo Responsable y soy miembro activo del Movimiento de Comida Consciente en Bolivia y del Movimiento Slow Food Internacional.",
+        "He participado en diferentes encuentros activistas a nivel internacional como: el Global Power Shift en Estambul – Turquía o el Terra Madre en Turín - Italia, y en los últimos siete años co-organicé diferentes actividades y campañas como: los Jueves de Comida Consciente en diferentes ciudades del país, la Campaña Octubre Verde, encuentros nacionales de activistas ambientales y en alimentación, Ferias y articulación con diferentes sectores del sistema alimentario, cinco versiones del Festival de Comida Consciente, entre otras.",
+        "Creo firmemente en la alimentación como una herramienta para la transformación social."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678475493/redlada/community/apniuq-de-la-rocha_varhhe.webp",
+      "active": true
+    },
+    {
+      "id": "nicole-szucs",
+      "name": "Nicole Szucs",
+      "country": "Bolivia",
+      "flag": {
+        "code": "bo",
+        "alt": "Bandera de Bolivia"
+      },
+      "email": "nix.bol@gmail.com",
+      "bio": [
+        "Soy una apasionada del tema de alimentación. Para mi, fue una manera de abordar las crisis mundiales desde algo tangible. Soy activista en alimentación consciente desde el 2012, co-fundadora del Movimiento de Comida Consciente. Realicé mis estudios de maestría en la Universidad para La Paz en Medio ambiente, desarrollo y paz, con especialización en Sistemas Sostenibles de Alimentación. Actualmente trabajo en el programa de Alimentación Sostenible para todas y todos de la Fundación Hivos."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678475493/redlada/community/nicole-szucs_nfb5v7.webp",
+      "active": true
+    },
+    {
+      "id": "luiz-mileck",
+      "name": "Luiz Mileck",
+      "country": "Brasil",
+      "flag": {
+        "code": "br",
+        "alt": "Bandera de Brasil"
+      },
+      "email": "luizmileck@gmail.com",
+      "bio": [
+        "Nacido en Curitiba en 1986, Luiz Mileck es ingeniero mecánico por la Universidade Federal do Paraná (UFPR, 2010), Master Degree en Francia en ingeniería por la Université de Technologie de Compiègne (UTC Francia, 2009) y Maestro en Diseño de la Información por la UFPR en la temática Co-creación para las vivencias (2016).",
+        "Comenzó a emprender después de dejar Renault y hoy es socio fundador de la Vivah Vivências Gastronômicas (desde 2012), Loja do Produtor (desde 2018) e idealizador del living lab Coletivo Alimentar (desde 2015), participando activamente en el desarrollo de las empresas y proyectos encubados.",
+        "En 2014 obtuvo Mención Honorífica por la Asamblea Legislativa del Estado de Paraná por los hechos en el área de emprendedorismo y gastronomía. Actualmente se busca temas como Cultura Alimentaria y Food Design."
+      ],
+      "website": [
+        "http://coletivoalimentar.com.br/",
+        "http://vivahgastronomia.com.br/"
+      ],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678460224/redlada/core/luiz_mileck_hrjxzr.webp",
+      "active": true
+    },
+    {
+      "id": "ricardo-yudi",
+      "name": "Ricardo Yudi",
+      "country": "Brasil",
+      "flag": {
+        "code": "br",
+        "alt": "Bandera de Brasil"
+      },
+      "email": "ricardo.yudi@gmail.com",
+      "bio": [
+        "Ricardo Yudi é professor de Gastronomia na Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA). Possui graduação em Gastronomia, mestrado em Design Estratégico e cursa o doutorado em Design (UNISINOS). Co-fundador da Rede Latinoamericana de Food Design (redLaFD), food designer no s3foodlab e sócio do empreendimento JUSTO.",
+        "Seu sonho é poder conectar as mais diversas áreas do conhecimento com a alimentação do futuro.Quando se planeja algo para o futuro, não se busca adivinhar o que vai acontecer, mas sim, poder criar estratégias para diferentes cenários. A alimentação só será para o futuro se ela for para todos, se contemplar todos os seres humanos.",
+        "O patamar da alimentação hoje não é inclusivo, ele é cada vez mais restrito, hiper-especializado e o acesso não é universal. Para uns alimentação é experiência enquanto que para outros é sobrevivência."
+      ],
+      "website": ["https://www.s3foodlab.com/"],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678458502/redlada/foundational/ricardo-yudi_lkfott.webp",
+      "active": true
+    },
+    {
+      "id": "filipe-costas",
+      "name": "Filipe Costas",
+      "country": "Brasil",
+      "flag": {
+        "code": "br",
+        "alt": "Bandera de Brasil"
+      },
+      "email": "fcampelo@unisinos.br",
+      "bio": [
+        "Graduado em Administração de Empresas pela Universidade Federal do Rio Grande do Sul (1992), mestrado em Administração pela Universidade Federal do Rio Grande do Sul (1996) e doutorado em Administração pela Universidade de São Paulo (2003) e especialização em Design Estratégico pela Universidade do Vale do Rio dos Sinos (2007). É professor e pesquisador do Programa de Pós-Graduação em Design, Mestrado Profissional em Nutrição e Alimentos e do Mestrado Profissional em Gestão e Negócios - Ênfase em Marketing e Mercados Globais da UNISINOS. Venho trabalhando com pesquisas e projetos nos campos de experiencia do usuário, food design e design para mudança de comportamento, em especial nos aspectos a nutrição e alimentação infantil."
+      ],
+      "website": [
+        "https://www.unisinos.br/pos/mestrado-academico/design/presencial/porto-alegre"
+      ],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678475493/redlada/community/felipe-costas_bhnygj.webp",
+      "active": true
+    },
+    {
+      "id": "karina-weber",
+      "name": "Karina Weber",
+      "country": "Brasil",
+      "flag": {
+        "code": "br",
+        "alt": "Bandera de Brasil"
+      },
+      "email": "",
+      "bio": [],
+      "website": [],
+      "photo": "",
+      "active": true
+    },
+    {
+      "id": "christian-ullmann",
+      "name": "Christian Ullmann",
+      "country": "Brasil",
+      "flag": {
+        "code": "br",
+        "alt": "Bandera de Brasil"
+      },
+      "email": "resudaca@gmail.com",
+      "bio": [
+        "Designer porteño, maker predigital, reside no Brasil desde 1996, consultor em design, inovação e gestão para a criação e desenvolvimento de produtos, projetos, sistemas e serviços\ncriador do curso de food design do instituto europeu de design São Paulo.",
+        "Coordenador de projetos para empresas, governos e instituições no Brasil e Latinoamérica, seus produtos e projetos e mobiliários receberam prêmios na Itália, Espanha, Brasil e Argentina professor de design para a sustentabilidade na graduação e na pós-graduação de diferentes institutos de ensino nacionais e internacionais a convite de Simone Mattar, atuou como coordenador de Design do Projeto Como Penso Como, iniciativa pioneira em Food Design no Brasil participou do Progetto Biologico Centro Studi Alessi, para a empresa italiana Alessi, na Itália e Grécia.",
+        "Em 2001, junto com Tania de Paula criaram o escritório iT Projetos – escritório de desenvolvimento de produtos e projetos com responsabilidade socioambiental. Dentro do universo da economia criativa e como estratégia de desenvolvimento, usamos as ferramentas do design para melhorar as interfaces entre cultura, criatividade, tradição, economia e tecnologia de baixo impacto ambiental e alto impacto social no mundo contemporâneo, promovendo atividades capazes de gerar renda, desenvolvimento local, valorização do território e cidadania.",
+        "Formado em Diseño Industrial pela Facultad de Arquitectura, Diseño y Urbanismo de la Universidad de Buenos Aires – Argentina."
+      ],
+      "website": ["https://itprojetos.wordpress.com/"],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678475492/redlada/community/christian-ullmann_cg5gct.webp",
+      "active": true
+    },
+    {
+      "id": "diego-labarca",
+      "name": "Diego Labarca",
+      "country": "Chile",
+      "flag": {
+        "code": "cl",
+        "alt": "Bandera de Chile"
+      },
+      "email": "dlabarca@procorp.cl",
+      "bio": [
+        "Psicólogo Universidad Diego Portales, Actualmente se desempeña como Director de Proyectos de Diseño de experiencia de servicio en Procorp-SAFFRON. Fue parte del equipo original del 1er Diplomado de Diseño de Servicios de la Pontíficie Universidad Católica de Chile el año 2015. Es experto en investigación aplicada al diseño de experiencias de servicio y desarrollo de co diseño de servicios. Ha liderado proyectos en el ámbito de la educación, de las telecomunicaciones, servicios básicos, transporte, alimentación, finanzas, entre otros."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678475493/redlada/community/diego-labarca_oo8qm6.webp",
+      "active": true
+    },
+    {
+      "id": "rodolfo-coronado",
+      "name": "Rodolfo Coronado",
+      "country": "Chile",
+      "flag": {
+        "code": "cl",
+        "alt": "Bandera de Chile"
+      },
+      "email": "rcoronador@inacap.cl",
+      "bio": [
+        "Master en Diseño, Gestión y Dirección de Proyectos (C), Diseñador Industrial, Director de la Escuela de Diseño y Comunicación (I) de INACAP."
+      ],
+      "website": ["https://portales.inacap.cl/"],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678475493/redlada/community/rodolfo-coronado_fsv9kz.webp",
+      "active": true
+    },
+    {
+      "id": "andres-sicard",
+      "name": "Andrés Sicard Currea",
+      "country": "Colombia",
+      "flag": {
+        "code": "co",
+        "alt": "Bandera de Colombia"
+      },
+      "email": "asicardc@unal.edu.co",
+      "bio": [
+        "Doctor en ciencias de la información y la comunicación ULL-esp. Diseñador industrial UJTL- .co. Profesor asociado a la escuela de Diseño Industrial Facultad de Artes. Sede Bogotá. Universidad Nacional de Colombia. Cofundador y coordinador general de la RedLaDA. Director del grupo de investigación Saberes Implícitos adscrito al instituto de investigaciones tecnológicas de Facultad de Artes. Co-coordinador del proyecto aula viva de saberes y conocimiento tradicional del programa Saber y vida del instituto IEPRI de la facultad de Ciencias humanas de la UNC."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678458526/redlada/foundational/andres-sicard_tlmiwa.webp",
+      "active": true
+    },
+    {
+      "id": "jennifer-marsiglia",
+      "name": "Jennifer Marsiglia Pastrana",
+      "country": "Colombia",
+      "flag": {
+        "code": "co",
+        "alt": "Bandera de Colombia"
+      },
+      "email": "jennifermarsigliapastrana@gmail.com",
+      "bio": [
+        "Psicóloga y tecnologa en gastronomia. Lidero iniciativas asociadas a la puesta en valor de la cocina tradicional en la Región Caribe colombiana, y el rol social, cultural, económico, turístico de los hacedores de las cocinas tradicionales creando escenarios de diálogo y experiencias de formación."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678717152/redlada/community/jennifer-marsiglia_iunuxf.webp",
+      "active": true
+    },
+    {
+      "id": "erika-imbett",
+      "name": "Erika Imbett",
+      "country": "Colombia",
+      "flag": {
+        "code": "co",
+        "alt": "Bandera de Colombia"
+      },
+      "email": "erikaimbett@itm.edu.co",
+      "bio": [
+        "Soy Doctorando en Pensamiento Complejo de Multiversidad y Doctorando en Filosofía de la Universidad de California, Magíster en Estudios de Ciencia, Tecnología, Sociedad + Innovación, Ingeniera en Diseño Industrial, miembro del grupo de investigación Artes y Humanidades del Instituto Tecnológico Metropolitano, docente del programa de Ingeniería en Diseño Industrial, investigadora de la línea Arte, Diseño y Nuevos Medios con énfasis en diseño solidario, cultura material, biónica y biomimética.",
+        "Actualmente soy líder del Semillero de Investigación Formativa en Diseño Solidario del ITM, quien consolidó como línea de investigación el Food Design, aquí se desarrollan proyectos que mejoran la calidad de vida de las comunidades vulnerables de Colombia desde el Diseño y los Alimentos. Hago parte del Nodo Medellín al lado de la Universidad pontificia Bolivariana, en el nodo se fomenta la exploración de formas, materiales, funciones y aplicaciones de estos desarrollos en comunidades reales."
+      ],
+      "website": ["https://www.itm.edu.co/"],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678717395/redlada/community/erika-imbett_qapqs7.webp",
+      "active": true
+    },
+    {
+      "id": "eduardo-naranjo",
+      "name": "José Eduardo Naranjo",
+      "country": "Colombia",
+      "flag": {
+        "code": "co",
+        "alt": "Bandera de Colombia"
+      },
+      "email": "jenaranjoc@unal.edu.co",
+      "bio": [
+        "El departamento de Diseño Industrial de la sede Palmira adelanta la consolidación de áreas estratégicas para el desarrollo del diseño en la región del Valle del Cauca y del sur occidente colombiano, es por esto que propone la integración del conocimiento y desarrollo del sector de los alimentos en la sede con el conocimiento en diseño para dar respuesta a las necesidades de la región, dada su vocación agrícola y agroindustrial como alternativa de desarrollo tanto productiva como social.",
+        "Las experiencias realizadas en la sede de Bogotá en el marco de la Especialización en Diseño y Desarrollo de Producto han permitido una aproximación al diseño de alimentos y a la construcción de las cadenas de valor de estos para mercados específicos desde la perspectiva académica;este proceso previo nos permite continuar con la generación de conocimiento en el tema, tras  la implementación del posgrado en la sede Palmira con un enfoque de territorio ycentrado en proyectos de desarrollo local.",
+        "La participación en la red nos permitirá procesos de transferencia e intercambio de conocimiento en el ámbito latinoamericano, finalidad última de la participación en esta del nodo Palmira."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678717548/redlada/community/eduardo-naranjo_tel5fa.webp",
+      "active": true
+    },
+    {
+      "id": "diana-urdinola",
+      "name": "Diana Urdinola",
+      "country": "Colombia",
+      "flag": {
+        "code": "co",
+        "alt": "Bandera de Colombia"
+      },
+      "email": "",
+      "bio": [
+        "Diseñadora Industrial, Magíster en Lógica y Técnica de la Forma de la Universidad de Buenos Aires. Interesada en el estudio de los materiales y las formas para la generación de proyectos de diseño. Actualmente es docente investigadora de la Línea de Morfología Experimental y coordinadora del área Tecno Productiva del programa de Diseño Industrial de la Universidad Pontificia Bolivariana en Medellín. Allí lidera proyectos de investigación que buscan la generación de nuevas relaciones entre la morfología y los materiales. Recientemente ha desarrollado proyectos en los que se relacionan los alimentos y la morfología."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678460224/redlada/core/diana-urdinola_ukcb4x.webp",
+      "active": true
+    },
+    {
+      "id": "pilar-fallas",
+      "name": "Pilar Fallas",
+      "country": "Costa Rica",
+      "flag": {
+        "code": "cr",
+        "alt": "Bandera de Costa Rica"
+      },
+      "email": "pilarfallas@gmail.com",
+      "bio": [
+        "Soy Ingeniera de Alimentos y Diseñadora de Producto.Trabajo como investigadora y docente del Centro Nacional de Ciencia y Tecnología de Alimentos, de la Universidad de Costa Rica. Me dedico a explorar constantemente la intersección entre la ciencia de alimentos y el diseño de productos. Actualmente lidero la creación de CITA Co-Lab, el primer estudio de diseño de alimentos en Costa Rica, donde apoyaremos a muchísimos emprendedores a transformar sus ideas de producto en verdaderas experiencias de producto, coordino el Laboratorio de Análisis Sensorial y Ciencias del Consumidor, apoyo varios proyectos de investigación y participo en la formación de estudiantes de la carrera de Ingeniería de Alimentos en temáticas de desarrollo de nuevos productos, análisis sensorial y ciencias del consumidor. Más allá de ver cada temática por separado, mi visión contempla un enfoque integral...¿Cómo todos estas líneas temáticas se integran con la finalidad de desarrollar una delicada e inolvidable experiencia de producto?"
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678718056/redlada/community/pilar-fallas_q9su4i.webp",
+      "active": true
+    },
+    {
+      "id": "geraldine-ezquerra",
+      "name": "Geraldine Ezquerra",
+      "country": "Cuba",
+      "flag": {
+        "code": "cu",
+        "alt": "Bandera de Cuba"
+      },
+      "email": "geraldineezquerraq@gmail.com",
+      "bio": [
+        "Doctora en Ciencias Sociológicas y Máster en Coaching Nutricional. Emprendiendo mi propio negocio de coaching nutricional que tiene como servicio fundamental la formación en educación nutricional."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678460224/redlada/core/geraldine-ezquerra_r7twl3.webp",
+      "active": true
+    },
+    {
+      "id": "jhonn-alarcon",
+      "name": "Jhonn Manuel Alarcón Morales",
+      "country": "Ecuador",
+      "flag": {
+        "code": "ec",
+        "alt": "Bandera de Ecuador"
+      },
+      "email": "jalarcon@uazuay.edu.ec",
+      "bio": [
+        "Diseñador y Magíster en Comunicación y Marketing por la Universidad del Azuay y Cocinero Profesional por la Escuela de Gastronomía CECAEM en Cuenca, Ecuador. Candidato a Doctor en Diseño en la Universidad de Palermo en Buenos Aires, Argentina. Su área de investigación de tesis es el Food Design.",
+        "Desde el año 2012 hasta la actualidad labora como docente de la Universidad del Azuay en las escuelas de Diseño Gráfico, Diseño de Productos y Creación Teatral en las cátedras de taller de diseño, marketing, publicidad, emprendimiento y gestión de proyectos. También desempeña funciones como diseñador gráfico editorial en el Departamento de Comunicación y Publicaciones de la misma Universidad.",
+        "Sus habilidades las desarrolló al trabajar para varias empresas de la ciudad y en varios emprendimientos en las áreas del diseño gráfico y la gastronomía. Como profesional piensa que el diseño debe ser honesto y ético, y que aún falta mucho por hacer y también mucho por comer."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678460224/redlada/core/jhonn_alarcon_m3e7fc.webp",
+      "active": true
+    },
+    {
+      "id": "catalina-manotas",
+      "name": "Catalina Manotas",
+      "country": "Ecuador",
+      "flag": {
+        "code": "ec",
+        "alt": "Bandera de Ecuador"
+      },
+      "email": "catalinamanotas@gmail.com",
+      "bio": [
+        "Soy Diseñadora Industrial de la Universidad de Los Andes de Bogotá, Colombia. He trabajado en empresas de diseño y como diseñadora freelance. Me he desempeñado en varios cargos que tienen que ver con gestión de proyectos y manejo de clientes. Además del diseño, soy amante de la cocina. He participado en festivales, cursos y conferencias de cocina y en concursos de fotografía de alimentos. En los últimos tres años he comenzado a desarrollar nuevos proyectos en las áreas de Food Styling y fotografía de alimentos bajo mi propia marca llamada Foodalia.",
+        "Soy miembro de la Red Latinoamericana de Food Design con quienes organizamos en Bogotá el Segundo Encuentro Latinoamericano de Food Design 2014. Hace algunos años vivo y trabajo en Quito, Ecuador, país vecino donde he realizado algunos proyectos de Food Styling y donde tengo otros proyectos entre manos donde pueda fusionar mis dos pasiones: Diseño y Cocina.",
+        "Diseñadora de profesión, cocinera de corazón."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678718300/redlada/community/catalina-manotas_yiig0v.webp",
+      "active": true
+    },
+    {
+      "id": "leandro-porras",
+      "name": "Leandro Porras",
+      "country": "Guatemala",
+      "flag": {
+        "code": "gt",
+        "alt": "Bandera de Guatemala"
+      },
+      "email": "leandroporras@ufm.edu",
+      "bio": [
+        "Leandro es un estratega de la innovación en servicios que busca integrar equipos multi-disciplinarios para generar valor agregado. Un poliglota con experiencia en la industria de la hospitalidad que ha conocido el diseño de servicios desde la perspectiva de Europa Occidental, Asia Pacífico y Norte América.",
+        "Posee una Maestría en Service Design del Politécnico de Milano, Lic. En Administración de Hoteles y Restaurantes por la Universidad Rafael Landivar, cursos de Mercadeo Relacional Interactivo (CRM), Marketing y Dirección de Empresas por la Universidad del Istmo de Guatemala (UNIS Business School) y curso de Diseño de Productos y Servicios enfocados en el Cliente por la Universidad de Cornell NY.",
+        "Actualmente se desarrolla como consultor independiente en diseño de experiencias de servicios e innovación, trabajando con clientes en la industria financiera, salud, turismo, alimentación, retail, telecomunicaciones, manufactura, entre otros; imparte cursos de Diseño de Servicios e Investigación de Diseño en la UFM design y asesora a estudiantes de la Maestría en Diseño Estratégico e Innovación en la URL para su proyecto de graduación."
+      ],
+      "website": [
+        "https://www.linkedin.com/in/leandromporras/",
+        "https://twitter.com/lmaupm",
+        "https://www.instagram.com/lmaupm/"
+      ],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678718590/redlada/community/leandro-porras_jakaic.webp",
+      "active": true
+    },
+    {
+      "id": "carolina-gutierrez",
+      "name": "Carolina Gutiérrez",
+      "country": "México",
+      "flag": {
+        "code": "mx",
+        "alt": "Bandera de México"
+      },
+      "email": "gutierrez.carolina96@uabc.edu.mx",
+      "bio": [
+        "Me apasionan los paisajes, la naturaleza y las historias de los ingredientes. Crecí muy cerca del ambiente de la cocina en familia, y disfrute de los paisajes endémicos de mi lugar de origen. Desde chica me despertó la curiosidad por investigar las recetas y jugar con los ingredientes que tenia a la mano. Mi desarrollo por la vida, se ha orientado a esos momentos y experiencias con otras personas, que han compartido su conocimiento y los sabores de sus lugares. Actualmente, sigo preparándome en el campo de la investigación en la alimentación y emprendiendo proyectos. Mi línea de investigación es sobre sistemas alimentarios tradicionales, colaborando con cocineras tradicionales y el paisaje alimentario en Ensenada, desde la perspectiva de sostenibilidad y patrimonio. Mi misión con esto es conectar el diálogo, la participación, las ideas y las historias a través del lenguaje del alimento para un bien común."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678460229/redlada/core/carolina-gutierrez_wjpmdq.webp",
+      "active": true
+    },
+    {
+      "id": "monica-silva",
+      "name": "Mónica Silva",
+      "country": "México",
+      "flag": {
+        "code": "mx",
+        "alt": "Bandera de México"
+      },
+      "email": "msilva@cedim.edu.mx",
+      "bio": [
+        "Mónica Silva es especialista en investigación e innovación centrada en el entendimiento profundo de las personas y las comunidades. Su experiencia se expande hacia diversos rubros, habiendo trabajado para empresas de alimentos, tecnología, diseño de mobiliario, automotriz y de hospitalidad, como el Hospital de Affoltern am Albis, en Berna, Suiza, donde diseñó experiencias de salud centradas en la alimentación en el 2008.",
+        "Es actual directora del Departamento de Diseño Industrial del Centro de Estudios Superiores de Diseño de Monterrey, universidad líder en México enfocada al diseño, innovación y negocios, donde se ha desempeñado como académica y consultora de innovación para empresas como Garcomex, PepsiCo, Femsa, Google, Cemex y Sony.",
+        "Mónica es actual embajadora de Vive Cafeto, ONG para la cual colabora desde hace 4 años trabajando directamente con cafeticultores del sur del país. Sus metodologías aplicadas han recibido numerosos premios, entre ellos Premio Quórum y a! Diseño. Ha sido invitada a exponer en Harvard, UMASS y The New School en Nueva York. Funda su estudio L'avocat en 2016, colaborando con chefs, artistas, artesanos y diseñadores."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678718809/redlada/community/monica-silva_pbcedt.webp",
+      "active": true
+    },
+    {
+      "id": "sandra-ruiz",
+      "name": "Sandra Ruiz Díaz",
+      "country": "Paraguay",
+      "flag": {
+        "code": "py",
+        "alt": "Bandera de Paraguay"
+      },
+      "email": "dinproducto@arq.una.py",
+      "bio": [
+        "Nací en Asunción-Paraguay, soy Diseñadora Industrial egresada de la Facultad de Arquitectura, Diseño y Arte de la Universidad Nacional de Asunción en el 2011, realicé un MBA en Diseño de Interiores en el Centro Universitário Dinâmica das Cataratas en Foz de Iguazu-Brasil, una Especialización de Diseño de Muebles en la Facultad de Arquitectura, Diseño y Arte de la UNA dictado por profesores de la FADU-Argentina, actualmente cursando una Especialización en Didáctica Universitaria (FADA-UNA).",
+        "Mi vida profesional es una combinación entre lo académico y como profesional independiente; en el área académica soy Coordinadora del área de Diseño de Productos en la Carrera de Diseño Industrial (FADA-UNA) donde desarrollo cursos cortos de apoyo en las diferentes áreas del diseño y un seguimiento específico del área de diseño de productos y como Docente Universitaria de las cátedras Merchandising y Diseño de Productos II (FADA-UNA).",
+        "Como profesional independiente me especializo en trabajar en Retail Design con una visión objetiva desde la gestión y el estudio del comportamiento del consumidor, hasta el diseño del espacio y objetos para tiendas de autoservicios, restaurantes, mercados y tiendas de diferentes rubros."
+      ],
+      "website": [
+        "https://fada.una.py/",
+        "https://www.facebook.com/disenofada.una/"
+      ],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678719773/redlada/community/sandra-ruiz_qzv910.webp",
+      "active": true
+    },
+    {
+      "id": "fernando-paraguay",
+      "name": "",
+      "country": "Paraguay",
+      "flag": {
+        "code": "py",
+        "alt": "Bandera de Paraguay"
+      },
+      "email": "",
+      "bio": [],
+      "website": [],
+      "photo": "",
+      "active": true
+    },
+    {
+      "id": "agustina-vitola",
+      "name": "Agustina Vitola",
+      "country": "Uruguay",
+      "flag": {
+        "code": "uy",
+        "alt": "Bandera de Uruguay"
+      },
+      "email": "agustinavitola91@gmail.com",
+      "bio": [
+        "Estudio Antropología Social en la Facultad de Humanidades y Ciencias de la Educación (UdelaR) e investigo sobre la alimentación, la comida y la cocina en sus diferentes manifestaciones culturales. Realice mi tesis de grado en Antropología de la Alimentación, con una etnografía sobre el crudiveganismo en Uruguay.",
+        "He ejecutado diversos proyectos gastronómicos con la idea de aportar ingredientes, preparaciones y estéticas frescas y novedosas, que generen experiencias desafiantes a la vez que fomenten la alimentación saludable. Actualmente me desempeño como docente coordinadora en la cocina y el comedor de un liceo de Montevideo, donde trabajo con adolescentes transformando la práctica cotidiana de preparar el almuerzo en una potente herramienta educativa.",
+        "A través del Food Design logré unificar todas mis pasiones y conocimientos: mis estudios antropológicos, artísticos, mi amor a la cocina y el deseo de mejorar nuestros hábitos alimenticios."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678719987/redlada/community/agustina-vitola_hsulby.webp",
+      "active": true
+    },
+    {
+      "id": "gianny-lopez",
+      "name": "Gianny López",
+      "country": "Venezuela",
+      "flag": {
+        "code": "ve",
+        "alt": "Bandera de Venezuela"
+      },
+      "email": "giannylopez240@gmail.com",
+      "bio": [
+        "Diseñadora industrial. Diplomado de pedagogía. Docente en el Instituto de Diseño de Caracas en la asignatura de empaque, tecnología de los materiales y taller; Investigador en la Universidad José María Vargas, en la facultad de Arquitectura y Artes plásticas. Fundadora y Directora creativa del estudio Magno food design."
+      ],
+      "website": [],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678720144/redlada/community/gianny-lopez_gspayn.webp",
+      "active": true
+    },
+    {
+      "id": "luis-venezuela",
+      "name": "",
+      "country": "Venezuela",
+      "flag": {
+        "code": "ve",
+        "alt": "Bandera de Venezuela"
+      },
+      "email": "",
+      "bio": [],
+      "website": [],
+      "photo": "",
+      "active": true
+    },
+    {
+      "id": "margelis-venezuela",
+      "name": "",
+      "country": "Venezuela",
+      "flag": {
+        "code": "ve",
+        "alt": "Bandera de Venezuela"
+      },
+      "email": "",
+      "bio": [],
+      "website": [],
+      "photo": "",
+      "active": true
+    }
+  ]
+}
