@@ -1,0 +1,130 @@
+{
+  "alliances": [
+    {
+      "id": "alliances-prototype",
+      "name": "",
+      "image": {
+        "src": "",
+        "alt": ""
+      },
+      "website": ""
+    },
+    {
+      "id": "eucd",
+      "name": "Escuela universitaria Centro de Diseño - Universidad de la República - Uruguay",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730906/redlada/alliances/eucd_sihdhw.png",
+        "alt": "Logo escuela universitaria centro de diseño"
+      },
+      "website": "http://www.fadu.edu.uy/eucd/noticias/"
+    },
+    {
+      "id": "udelar",
+      "name": "Facultad de Arquitectura, Diseño y Urbanismo - Universidad de la República",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730903/redlada/alliances/udelar_fk9daj.png",
+        "alt": "Logo FADU-UDELAR"
+      },
+      "website": "http://www.fadu.edu.uy/"
+    },
+    {
+      "id": "universidad-de-la-republica-uruguay",
+      "name": "Universidad de la República - Uruguay",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730904/redlada/alliances/universidad-de-la-republica-uruguay_sswj8w.png",
+        "alt": "Logo universidad de la república"
+      },
+      "website": "https://udelar.edu.uy/portal/"
+    },
+    {
+      "id": "universidad-nacional-de-colombia",
+      "name": "Universidad Nacional de Colombia",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730900/redlada/alliances/universidad-nacional-de-colombia_ckum4h.png",
+        "alt": "Logo universidad nacional de colombia"
+      },
+      "website": "http://artes.bogota.unal.edu.co/"
+    },
+    {
+      "id": "red-academica-de-diseno-colombiana",
+      "name": "RAD - Red Académica de Diseño - Asociación colombiana",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730902/redlada/alliances/red-academica-de-diseno-colombiana_ilc6s2.png",
+        "alt": "Logo RAD Colombia"
+      },
+      "website": "https://radcolombia.org/web/"
+    },
+    {
+      "id": "fadu-uba",
+      "name": "Facultad de Arquitectura, Diseño y Urbanismo de la Universidad de Buenos Aires",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730906/redlada/alliances/fadu-uba_dy7vxr.png",
+        "alt": "Logo FADU-UBA"
+      },
+      "website": "https://www.fadu.uba.ar/"
+    },
+    {
+      "id": "ceprodide",
+      "name": "Centro de Proyecto, Diseño y Desarrollo - FADU-UBA",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730905/redlada/alliances/ceprodide-uba_nmkypf.png",
+        "alt": "Logo Ceprodide"
+      },
+      "website": "https://ceprodide.com.ar/"
+    },
+    {
+      "id": "food-design-x-education",
+      "name": "Food Design x Education - FDxE",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730906/redlada/alliances/food-design-x-education_nmo5qf.png",
+        "alt": "Logo FDxE"
+      },
+      "website": "http://www.fdxe.org/"
+    },
+    {
+      "id": "universidad-de-los-andes",
+      "name": "Universidad de Los Andes - Facultad de Arquitectura y Diseño",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730904/redlada/alliances/universidad-de-los-andes_ow0151.png",
+        "alt": "Logo universidad de los andes"
+      },
+      "website": "https://uniandes.edu.co/"
+    },
+    {
+      "id": "disur",
+      "name": "DiSUR",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730906/redlada/alliances/disur_mjkjyv.jpg",
+        "alt": "Logo disur"
+      },
+      "website": "http://disur.edu.ar/"
+    },
+    {
+      "id": "unisinos",
+      "name": "Unisinos",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730904/redlada/alliances/unisinos_f0o24d.png",
+        "alt": "Logo unisinos"
+      },
+      "website": "https://www.unisinos.br/"
+    },
+    {
+      "id": "ufcspa",
+      "name": "UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730903/redlada/alliances/ufcspa_vfnmcv.png",
+        "alt": "Logo ufcspa"
+      },
+      "website": ""
+    },
+    {
+      "id": "alliances-prototype",
+      "name": "",
+      "image": {
+        "src": "",
+        "alt": ""
+      },
+      "website": ""
+    }
+  ]
+}
