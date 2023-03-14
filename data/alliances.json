@@ -118,6 +118,168 @@
       "website": ""
     },
     {
+      "id": "papilas-tropicales",
+      "name": "Papilas Tropicales",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730902/redlada/alliances/papilas-tropicales_qzgebe.png",
+        "alt": "Logo papilas tropicales"
+      },
+      "website": "https://papilastropicales.wordpress.com/"
+    },
+    {
+      "id": "centro-brasil-design",
+      "name": "Centro Brasil Design",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730905/redlada/alliances/centro-brasil-design_ivboam.png",
+        "alt": "Logo centro brasil design"
+      },
+      "website": "https://www.cbd.org.br/"
+    },
+    {
+      "id": "unesco-ensenada",
+      "name": "UNESCO Ensenada",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730904/redlada/alliances/unesco-ensenada_midbfw.png",
+        "alt": "Logo unesco ensenada"
+      },
+      "website": "https://www.ensenadacreativa.mx/"
+    },
+    {
+      "id": "anspe",
+      "name": "Agencia Nacional para la Superación de la Pobreza Extrema - Colombia",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730904/redlada/alliances/anspe_fsaqwe.png",
+        "alt": "Logo anspe"
+      },
+      "website": "https://www.dnp.gov.co/programas/desarrollo-social/pol%C3%ADticas-sociales-transversales/Paginas/red-unidos-para-superacion-de-la-pobreza-extrema.aspx"
+    },
+    {
+      "id": "slow-food-brasil",
+      "name": "Slow Food Brasil",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730902/redlada/alliances/slow-food_jxwnip.png",
+        "alt": "Logo slow food brasil"
+      },
+      "website": "https://slowfoodbrasil.org.br/"
+    },
+    {
+      "id": "corporacion-colombiana-internacional",
+      "name": "CCI - Corporación Colombiana Internacional",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730905/redlada/alliances/corporacion-colombiana-internacional_ibiws2.png",
+        "alt": "Logo CCI"
+      },
+      "website": "https://www.cci.org.co/inicio/"
+    },
+    {
+      "id": "ccgm",
+      "name": "CCGM - Conservatorio de la Cultura Gastronómica Méxicana",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730905/redlada/alliances/ccgm_hbu3xm.png",
+        "alt": "Logo CCGM"
+      },
+      "website": "https://www.ccgm.mx/ccgm/es/home/"
+    },
+    {
+      "id": "ayuntamiento-ensenada",
+      "name": "Ayuntamiento de Ensenada",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730904/redlada/alliances/ayuntamiento-ensenada_wtrwod.png",
+        "alt": "Logo ayuntamiento Ensenada"
+      },
+      "website": "http://www.ensenada.gob.mx/"
+    },
+    {
+      "id": "universidad-autonoma-metropolitana",
+      "name": "Universidad Autónoma Metropolitana - México",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730904/redlada/alliances/universidad-autonoma-metropolitana_aujffo.png",
+        "alt": "Logo universidad autónoma metropolitana"
+      },
+      "website": "https://www.uam.mx/"
+    },
+    {
+      "id": "culinary-art-school",
+      "name": "Culinary Art School",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730905/redlada/alliances/culinary-art-school_kejosx.png",
+        "alt": "Logo culinary art school"
+      },
+      "website": "https://www.culinaryartschool.edu.mx/"
+    },
+    {
+      "id": "amar-abierto",
+      "name": "Amar Abierto",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730903/redlada/alliances/amar-abierto_ud20v0.png",
+        "alt": "Logo amar abierto"
+      },
+      "website": "https://www.amarabierto.mx/nosotros"
+    },
+    {
+      "id": "food-tech",
+      "name": "The Food Tech Summit and Expo",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730906/redlada/alliances/food-tech_bkrecy.png",
+        "alt": "Logo Food Tech"
+      },
+      "website": "https://expo.thefoodtech.com/"
+    },
+    {
+      "id": "food-design-mexico",
+      "name": "Food Design México",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730906/redlada/alliances/food-design-mexico_qfl8fv.png",
+        "alt": "Logo food design méxico"
+      },
+      "website": "https://twitter.com/fooddesignmx"
+    },
+    {
+      "id": "bajamar",
+      "name": "Bajamar Ocean Front Golf Resort",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730904/redlada/alliances/bajamar_tw6nw2.png",
+        "alt": "Logo Bajamar"
+      },
+      "website": "https://www.golfbajamar.com/"
+    },
+    {
+      "id": "riviera-baja-california",
+      "name": "Riviera - Centro social, cívico y cultural",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730902/redlada/alliances/riviera-baja-california_uxrsev.png",
+        "alt": "Logo Riviera"
+      },
+      "website": "https://rivieradeensenada.com.mx/"
+    },
+    {
+      "id": "caracol",
+      "name": "Caracol Museo de Ciencias",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730905/redlada/alliances/caracol_hfd5ni.png",
+        "alt": "Logo Caracol"
+      },
+      "website": "http://www.caracolbc.org/"
+    },
+    {
+      "id": "pazcali",
+      "name": "Pazcali - Centro de bienestar y desarrollo humano",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730902/redlada/alliances/pazcali_lfqfaa.png",
+        "alt": "Logo Pazcali"
+      },
+      "website": "https://www.facebook.com/pazcali.AC/"
+    },
+    {
+      "id": "chef-s-roll",
+      "name": "Chef's Roll",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730905/redlada/alliances/chef-s-roll_nh9g9i.png",
+        "alt": "Logo Chef's Roll"
+      },
+      "website": "https://chefsroll.com/"
+    },
+    {
       "id": "alliances-prototype",
       "name": "",
       "image": {
