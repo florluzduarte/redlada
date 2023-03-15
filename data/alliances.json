@@ -1,0 +1,634 @@
+{
+  "alliances": [
+    {
+      "id": "eucd",
+      "name": "Escuela universitaria Centro de Diseño - Universidad de la República - Uruguay",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730906/redlada/alliances/eucd_sihdhw.png",
+        "alt": "Logo escuela universitaria centro de diseño"
+      },
+      "website": "http://www.fadu.edu.uy/eucd/noticias/"
+    },
+    {
+      "id": "udelar",
+      "name": "Facultad de Arquitectura, Diseño y Urbanismo - Universidad de la República",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730903/redlada/alliances/udelar_fk9daj.png",
+        "alt": "Logo FADU-UDELAR"
+      },
+      "website": "http://www.fadu.edu.uy/"
+    },
+    {
+      "id": "universidad-de-la-republica-uruguay",
+      "name": "Universidad de la República - Uruguay",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730904/redlada/alliances/universidad-de-la-republica-uruguay_sswj8w.png",
+        "alt": "Logo universidad de la república"
+      },
+      "website": "https://udelar.edu.uy/portal/"
+    },
+    {
+      "id": "universidad-nacional-de-colombia",
+      "name": "Universidad Nacional de Colombia",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730900/redlada/alliances/universidad-nacional-de-colombia_ckum4h.png",
+        "alt": "Logo universidad nacional de colombia"
+      },
+      "website": "http://artes.bogota.unal.edu.co/"
+    },
+    {
+      "id": "red-academica-de-diseno-colombiana",
+      "name": "RAD - Red Académica de Diseño - Asociación colombiana",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730902/redlada/alliances/red-academica-de-diseno-colombiana_ilc6s2.png",
+        "alt": "Logo RAD Colombia"
+      },
+      "website": "https://radcolombia.org/web/"
+    },
+    {
+      "id": "fadu-uba",
+      "name": "Facultad de Arquitectura, Diseño y Urbanismo de la Universidad de Buenos Aires",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730906/redlada/alliances/fadu-uba_dy7vxr.png",
+        "alt": "Logo FADU-UBA"
+      },
+      "website": "https://www.fadu.uba.ar/"
+    },
+    {
+      "id": "ceprodide",
+      "name": "Centro de Proyecto, Diseño y Desarrollo - FADU-UBA",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730905/redlada/alliances/ceprodide-uba_nmkypf.png",
+        "alt": "Logo Ceprodide"
+      },
+      "website": "https://ceprodide.com.ar/"
+    },
+    {
+      "id": "food-design-x-education",
+      "name": "Food Design x Education - FDxE",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730906/redlada/alliances/food-design-x-education_nmo5qf.png",
+        "alt": "Logo FDxE"
+      },
+      "website": "http://www.fdxe.org/"
+    },
+    {
+      "id": "universidad-de-los-andes",
+      "name": "Universidad de Los Andes - Facultad de Arquitectura y Diseño",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730904/redlada/alliances/universidad-de-los-andes_ow0151.png",
+        "alt": "Logo universidad de los andes"
+      },
+      "website": "https://uniandes.edu.co/"
+    },
+    {
+      "id": "disur",
+      "name": "DiSUR",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730906/redlada/alliances/disur_mjkjyv.jpg",
+        "alt": "Logo disur"
+      },
+      "website": "http://disur.edu.ar/"
+    },
+    {
+      "id": "unisinos",
+      "name": "Unisinos",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730904/redlada/alliances/unisinos_f0o24d.png",
+        "alt": "Logo unisinos"
+      },
+      "website": "https://www.unisinos.br/"
+    },
+    {
+      "id": "ufcspa",
+      "name": "UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730903/redlada/alliances/ufcspa_vfnmcv.png",
+        "alt": "Logo ufcspa"
+      },
+      "website": ""
+    },
+    {
+      "id": "papilas-tropicales",
+      "name": "Papilas Tropicales",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730902/redlada/alliances/papilas-tropicales_qzgebe.png",
+        "alt": "Logo papilas tropicales"
+      },
+      "website": "https://papilastropicales.wordpress.com/"
+    },
+    {
+      "id": "centro-brasil-design",
+      "name": "Centro Brasil Design",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730905/redlada/alliances/centro-brasil-design_ivboam.png",
+        "alt": "Logo centro brasil design"
+      },
+      "website": "https://www.cbd.org.br/"
+    },
+    {
+      "id": "unesco-ensenada",
+      "name": "UNESCO Ensenada",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730904/redlada/alliances/unesco-ensenada_midbfw.png",
+        "alt": "Logo unesco ensenada"
+      },
+      "website": "https://www.ensenadacreativa.mx/"
+    },
+    {
+      "id": "anspe",
+      "name": "Agencia Nacional para la Superación de la Pobreza Extrema - Colombia",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730904/redlada/alliances/anspe_fsaqwe.png",
+        "alt": "Logo anspe"
+      },
+      "website": "https://www.dnp.gov.co/programas/desarrollo-social/pol%C3%ADticas-sociales-transversales/Paginas/red-unidos-para-superacion-de-la-pobreza-extrema.aspx"
+    },
+    {
+      "id": "slow-food-brasil",
+      "name": "Slow Food Brasil",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730902/redlada/alliances/slow-food_jxwnip.png",
+        "alt": "Logo slow food brasil"
+      },
+      "website": "https://slowfoodbrasil.org.br/"
+    },
+    {
+      "id": "corporacion-colombiana-internacional",
+      "name": "CCI - Corporación Colombiana Internacional",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730905/redlada/alliances/corporacion-colombiana-internacional_ibiws2.png",
+        "alt": "Logo CCI"
+      },
+      "website": "https://www.cci.org.co/inicio/"
+    },
+    {
+      "id": "ccgm",
+      "name": "CCGM - Conservatorio de la Cultura Gastronómica Méxicana",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730905/redlada/alliances/ccgm_hbu3xm.png",
+        "alt": "Logo CCGM"
+      },
+      "website": "https://www.ccgm.mx/ccgm/es/home/"
+    },
+    {
+      "id": "ayuntamiento-ensenada",
+      "name": "Ayuntamiento de Ensenada",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730904/redlada/alliances/ayuntamiento-ensenada_wtrwod.png",
+        "alt": "Logo ayuntamiento Ensenada"
+      },
+      "website": "http://www.ensenada.gob.mx/"
+    },
+    {
+      "id": "universidad-autonoma-metropolitana",
+      "name": "Universidad Autónoma Metropolitana - México",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730904/redlada/alliances/universidad-autonoma-metropolitana_aujffo.png",
+        "alt": "Logo universidad autónoma metropolitana"
+      },
+      "website": "https://www.uam.mx/"
+    },
+    {
+      "id": "culinary-art-school",
+      "name": "Culinary Art School",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730905/redlada/alliances/culinary-art-school_kejosx.png",
+        "alt": "Logo culinary art school"
+      },
+      "website": "https://www.culinaryartschool.edu.mx/"
+    },
+    {
+      "id": "amar-abierto",
+      "name": "Amar Abierto",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730903/redlada/alliances/amar-abierto_ud20v0.png",
+        "alt": "Logo amar abierto"
+      },
+      "website": "https://www.amarabierto.mx/nosotros"
+    },
+    {
+      "id": "food-tech",
+      "name": "The Food Tech Summit and Expo",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730906/redlada/alliances/food-tech_bkrecy.png",
+        "alt": "Logo Food Tech"
+      },
+      "website": "https://expo.thefoodtech.com/"
+    },
+    {
+      "id": "food-design-mexico",
+      "name": "Food Design México",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730906/redlada/alliances/food-design-mexico_qfl8fv.png",
+        "alt": "Logo food design méxico"
+      },
+      "website": "https://twitter.com/fooddesignmx"
+    },
+    {
+      "id": "bajamar",
+      "name": "Bajamar Ocean Front Golf Resort",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730904/redlada/alliances/bajamar_tw6nw2.png",
+        "alt": "Logo Bajamar"
+      },
+      "website": "https://www.golfbajamar.com/"
+    },
+    {
+      "id": "riviera-baja-california",
+      "name": "Riviera - Centro social, cívico y cultural",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730902/redlada/alliances/riviera-baja-california_uxrsev.png",
+        "alt": "Logo Riviera"
+      },
+      "website": "https://rivieradeensenada.com.mx/"
+    },
+    {
+      "id": "caracol",
+      "name": "Caracol Museo de Ciencias",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730905/redlada/alliances/caracol_hfd5ni.png",
+        "alt": "Logo Caracol"
+      },
+      "website": "http://www.caracolbc.org/"
+    },
+    {
+      "id": "pazcali",
+      "name": "Pazcali - Centro de bienestar y desarrollo humano",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730902/redlada/alliances/pazcali_lfqfaa.png",
+        "alt": "Logo Pazcali"
+      },
+      "website": "https://www.facebook.com/pazcali.AC/"
+    },
+    {
+      "id": "chef-s-roll",
+      "name": "Chef's Roll",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730905/redlada/alliances/chef-s-roll_nh9g9i.png",
+        "alt": "Logo Chef's Roll"
+      },
+      "website": "https://chefsroll.com/"
+    },
+    {
+      "id": "turismo-ensenada",
+      "name": "Pro Turismo Ensenada",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730903/redlada/alliances/turismo-ensenada_r0ac3k.png",
+        "alt": "Logo turismo ensenada"
+      },
+      "website": "https://www.proturismoensenada.org.mx/"
+    },
+    {
+      "id": "baja-california",
+      "name": "Baja California",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730904/redlada/alliances/baja-california-gob_fvsg5q.png",
+        "alt": "Logo Baja California"
+      },
+      "website": "https://www.instagram.com/bcgobierno/?hl=es"
+    },
+    {
+      "id": "hammer-stahl",
+      "name": "Hammer Stahl",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730900/redlada/alliances/hammer-stahl_j8lurs.png",
+        "alt": "Logo HS"
+      },
+      "website": "https://www.heritagesteel.us/collections/hammer-stahl-cutlery"
+    },
+    {
+      "id": "comer-ahora",
+      "name": "Comer Ahora",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730905/redlada/alliances/comer-ahora_ov8nhz.png",
+        "alt": "Logo Comer Ahora"
+      },
+      "website": "http://www.comerahora.com/"
+    },
+    {
+      "id": "consejo-promotor-innovacion-diseno",
+      "name": "Consejo Promotor de Innovación y Diseño",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730905/redlada/alliances/consejo-promotor-innovacion-dise%C3%B1o_m3mwrn.png",
+        "alt": "Logo consejo promotor"
+      },
+      "website": "https://www.consejo-id.org/"
+    },
+    {
+      "id": "uabc",
+      "name": "UABC - Universidad Autónoma de Baja California",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730903/redlada/alliances/uabc_l8q1uf.png",
+        "alt": "Logo UABC"
+      },
+      "website": "https://www.uabc.mx/"
+    },
+    {
+      "id": "icon-university",
+      "name": "ICON University",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730900/redlada/alliances/icon-university_hckk19.png",
+        "alt": "Logo Icon University"
+      },
+      "website": "https://www.icon.edu.mx/"
+    },
+    {
+      "id": "distrito-diseno-bs-as",
+      "name": "Distrito de Diseño de Buenos Aires",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730906/redlada/alliances/distrito-diseno-bs-as_zmluli.png",
+        "alt": "Logo Distrito de Diseño"
+      },
+      "website": "https://buenosaires.gob.ar/distritoseconomicos/distritodediseno/ciudad-de-diseno"
+    },
+    {
+      "id": "alimentos-argentinos",
+      "name": "Alimentos Argentinos",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730903/redlada/alliances/alimentos-argentinos_gyacnx.jpg",
+        "alt": "Logo Alimentos Argentinos"
+      },
+      "website": "https://alimentosargentinos.magyp.gob.ar/HomeAlimentos/"
+    },
+    {
+      "id": "cmd",
+      "name": "Centro Metropolitano de Diseño",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730905/redlada/alliances/cmd_gxn9yd.png",
+        "alt": "Logo CMD"
+      },
+      "website": "https://buenosaires.gob.ar/cmd"
+    },
+    {
+      "id": "secretaria-investigaciones-fadu-uba",
+      "name": "Secretaría de Investigaciones - FADU-UBA",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730902/redlada/alliances/secretaria-investigaciones-fadu-uba_tdpago.png",
+        "alt": "Logo secretaría de investigaciones"
+      },
+      "website": "https://www.fadu.uba.ar/categoria/24-investigacin"
+    },
+    {
+      "id": "instituto-espacialidad-humana",
+      "name": "Instituto de la Espacialidad Humana",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730901/redlada/alliances/instituto-espacialidad-humana_oqdnqs.png",
+        "alt": "Logo instituto espacialidad humana"
+      },
+      "website": "http://www.ieh.fadu.uba.ar/"
+    },
+    {
+      "id": "spd-scuola-politecnica-di-design",
+      "name": "Scuola Politecnica di Design",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730903/redlada/alliances/spd-scuola-politecnica-di-design_gztrda.jpg",
+        "alt": "Logo scuola politecnica di design"
+      },
+      "website": "https://www.scuoladesign.com/"
+    },
+    {
+      "id": "ied-sao-pablo",
+      "name": "IED - Istituto Europeo di Design",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730900/redlada/alliances/ied-sao-pablo_fx7whf.png",
+        "alt": "Logo IED"
+      },
+      "website": "https://ied.edu.br/"
+    },
+    {
+      "id": "elisava-escuela-universitaria-barcelona",
+      "name": "Elisava - Escuela de Diseño e Ingeniería de Barcelona",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730906/redlada/alliances/elisava-escuela-universitaria-barcelona_boifys.png",
+        "alt": "Logo Elisava"
+      },
+      "website": "https://www.elisava.net/es"
+    },
+    {
+      "id": "fundacion-alicia",
+      "name": "Fundación Alicia",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730903/redlada/alliances/alicia_nutpso.jpg",
+        "alt": "Logo Alicia"
+      },
+      "website": "https://www.alicia.cat/es/"
+    },
+    {
+      "id": "valoremos-los-alimentos",
+      "name": "Valoremos los Alimentos",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730902/redlada/alliances/valoremos-los-alimentos_t0kuki.png",
+        "alt": "Logo Valoremos los Alimentos"
+      },
+      "website": "https://alimentosargentinos.magyp.gob.ar/HomeAlimentos/ValoremoslosAlimentos/"
+    },
+    {
+      "id": "universidad-de-los-andes-colombia",
+      "name": "Universidad de Los Andes - Colombia",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730900/redlada/alliances/universidad-de-los-andes-colombia_lgomm7.png",
+        "alt": "Logo Universidad de Los Andes"
+      },
+      "website": "https://uniandes.edu.co/"
+    },
+    {
+      "id": "inta",
+      "name": "INTA - Instituto Nacional de Tecnología Agropecuaria",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730901/redlada/alliances/inta_y6rn5l.jpg",
+        "alt": "Logo INTA"
+      },
+      "website": "https://www.argentina.gob.ar/inta"
+    },
+    {
+      "id": "inti",
+      "name": "INTI - Instituto Nacional de Tecnología Industrial",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730901/redlada/alliances/inti_vji8dx.png",
+        "alt": "Logo INTI"
+      },
+      "website": "https://www.argentina.gob.ar/inti"
+    },
+    {
+      "id": "cedim",
+      "name": "CEDIM - The School of Design",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730905/redlada/alliances/cedim_kvxnoz.png",
+        "alt": "Logo CEDIM"
+      },
+      "website": "https://www.cedim.edu.mx/"
+    },
+    {
+      "id": "universidad-nacional-de-san-juan",
+      "name": "FAUD - Universidad Nacional de San Juan",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730901/redlada/alliances/universidad-nacional-de-san-juan_ujfwc4.png",
+        "alt": "Logo universidad de San Juan - FAUD"
+      },
+      "website": "http://www.faud.unsj.edu.ar/"
+    },
+    {
+      "id": "cultura-food-design",
+      "name": "Cultura Food Design",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730906/redlada/alliances/cultura-food-design_rpsib9.jpg",
+        "alt": "Logo Cultura Food Design"
+      },
+      "website": "http://culturafooddesign.com/"
+    },
+    {
+      "id": "universidad-nacional-de-misiones",
+      "name": "Universidad Nacional de Misiones",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730901/redlada/alliances/universidad-nacional-de-misiones_nbe3x1.png",
+        "alt": "Logo universidad nacional de misiones"
+      },
+      "website": "https://www.unam.edu.ar/"
+    },
+    {
+      "id": "inacap",
+      "name": "INACAP",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730901/redlada/alliances/inacap_kquaif.png",
+        "alt": "Logo INACAP"
+      },
+      "website": "https://portales.inacap.cl/"
+    },
+    {
+      "id": "pan-al-361",
+      "name": "Panal 361",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730901/redlada/alliances/pan-al-361_chqinv.jpg",
+        "alt": "Logo Panal 361"
+      },
+      "website": "https://www.instagram.com/panal361/?hl=es"
+    },
+    {
+      "id": "centro-innovacion-uc",
+      "name": "Centro de Innovación UC",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730902/redlada/alliances/5-anos-centro_gjdtuo.jpg",
+        "alt": "Logo centro de innovación uc"
+      },
+      "website": "https://centrodeinnovacion.uc.cl/"
+    },
+    {
+      "id": "procorp",
+      "name": "PROCORP",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730902/redlada/alliances/procorp_qf9yzs.jpg",
+        "alt": "Logo Procorp"
+      },
+      "website": "https://procorpweb.com/"
+    },
+    {
+      "id": "chile-diseno",
+      "name": "Chile Diseño",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730905/redlada/alliances/chile-diseno_nbmsei.png",
+        "alt": "Logo Chile Diseño"
+      },
+      "website": "https://www.chilediseno.org/"
+    },
+    {
+      "id": "laboratorio-de-gobierno",
+      "name": "Laboratorio de Gobierno",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730901/redlada/alliances/laboratorio-de-gobierno_e48bff.png",
+        "alt": "Logo laboratorio de gobierno"
+      },
+      "website": "https://www.lab.gob.cl/"
+    },
+    {
+      "id": "slow-food-chile",
+      "name": "Slow Food Chile",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730902/redlada/alliances/slow-food-chile_vv6guc.png",
+        "alt": "Logo slow food chile"
+      },
+      "website": "https://slowfoodenchile.wordpress.com/"
+    },
+    {
+      "id": "modus",
+      "name": "MODUS - Observatorio Sistema Moda",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730901/redlada/alliances/modus-observatorio-udp_llkwzr.png",
+        "alt": "Logo MODUS"
+      },
+      "website": "https://observatoriosistemamoda.wordpress.com/"
+    },
+    {
+      "id": "univalle",
+      "name": "Universidad del Valle - Cochabamba",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730904/redlada/alliances/univalle_lonli4.jpg",
+        "alt": "Logo Univalle"
+      },
+      "website": "https://www.univalle.edu/?page_id=147"
+    },
+    {
+      "id": "sr-compost",
+      "name": "Sr Compost",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730903/redlada/alliances/sr-compost_cnhfxb.png",
+        "alt": "Logo sr compost"
+      },
+      "website": "https://srcompost.cl/"
+    },
+    {
+      "id": "unesco-cochabamba",
+      "name": "",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730903/redlada/alliances/unesco-cochabamba_na7lxp.png",
+        "alt": "Logo UNESCO Cochabamba"
+      },
+      "website": "https://es.unesco.org/creative-cities/cochabamba"
+    },
+    {
+      "id": "munani",
+      "name": "Munani - Comamos Algas",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730901/redlada/alliances/munani_srfzx3.png",
+        "alt": "Logo Munani"
+      },
+      "website": "https://www.munani.cl/"
+    },
+    {
+      "id": "food-cultura",
+      "name": "Food Cultura",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730906/redlada/alliances/food-cultura_ll6e02.png",
+        "alt": "Logo Food Cultura"
+      },
+      "website": "http://www.foodcultura.org/"
+    },
+    {
+      "id": "universitat-autonoma-barcelona",
+      "name": "Universitat Autónoma de Barcelona",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730901/redlada/alliances/universitat-autonoma-barcelona_vrphtl.jpg",
+        "alt": "Logo Universitat autónoma de Barcelona"
+      },
+      "website": "https://www.uab.cat/web/departamento-de-filosofia-1324280742391.html"
+    },
+    {
+      "id": "hivos",
+      "name": "HIVOS - People unlimited",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730900/redlada/alliances/hivos_oymzzc.png",
+        "alt": "Logo HIVOS"
+      },
+      "website": "https://hivos.org/"
+    },
+    {
+      "id": "gli-gustolab-international",
+      "name": "Gustolab International",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678730906/redlada/alliances/gli-gustolab-international_fs9zwx.jpg",
+        "alt": "Logo Gustolab"
+      },
+      "website": "https://www.gustolab.com/"
+    }
+  ]
+}
