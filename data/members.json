@@ -441,7 +441,8 @@
       ],
       "website": ["https://www.instagram.com/metodo_uba/"],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678460224/redlada/core/Malena_Pasin_pwbkky.webp",
-      "active": true
+      "active": true,
+      "spokesman": true
     },
     {
       "id": "marianela-ruarte",
@@ -457,7 +458,8 @@
       ],
       "website": [],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678460224/redlada/core/marianela_ruarte_xujaae.webp",
-      "active": true
+      "active": true,
+      "spokesman": false
     },
     {
       "id": "pedro-reissig",
@@ -480,7 +482,8 @@
         "http://www.lafooddesign.org"
       ],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1683057371/redlada/foundational/pedro-reissig_xuacil.webp",
-      "active": true
+      "active": true,
+      "spokesman": false
     },
     {
       "id": "andrea-stambuk",
@@ -499,7 +502,8 @@
       ],
       "website": [],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678475472/redlada/community/andrea-stambuk_ndpind.webp",
-      "active": true
+      "active": true,
+      "spokesman": true
     },
     {
       "id": "apnuiq-de-la-rocha",
@@ -518,7 +522,8 @@
       ],
       "website": [],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678475493/redlada/community/apniuq-de-la-rocha_varhhe.webp",
-      "active": true
+      "active": true,
+      "spokesman": false
     },
     {
       "id": "nicole-szucs",
@@ -534,7 +539,8 @@
       ],
       "website": [],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678475493/redlada/community/nicole-szucs_nfb5v7.webp",
-      "active": true
+      "active": true,
+      "spokesman": false
     },
     {
       "id": "luiz-mileck",
@@ -555,7 +561,8 @@
         "http://vivahgastronomia.com.br/"
       ],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/c_scale,h_120,w_116/v1683057950/redlada/core/luiz-mileck_o4aho9.webp",
-      "active": true
+      "active": true,
+      "spokesman": true
     },
     {
       "id": "ricardo-yudi",
@@ -573,7 +580,8 @@
       ],
       "website": ["https://www.s3foodlab.com/"],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678458502/redlada/foundational/ricardo-yudi_lkfott.webp",
-      "active": true
+      "active": true,
+      "spokesman": false
     },
     {
       "id": "filipe-costas",
@@ -591,7 +599,8 @@
         "https://www.unisinos.br/pos/mestrado-academico/design/presencial/porto-alegre"
       ],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678475493/redlada/community/felipe-costas_bhnygj.webp",
-      "active": true
+      "active": true,
+      "spokesman": false
     },
     {
       "id": "karina-weber",
@@ -605,7 +614,8 @@
       "bio": [],
       "website": [],
       "photo": "",
-      "active": true
+      "active": true,
+      "spokesman": false
     },
     {
       "id": "christian-ullmann",
@@ -624,7 +634,8 @@
       ],
       "website": ["https://itprojetos.wordpress.com/"],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678475492/redlada/community/christian-ullmann_cg5gct.webp",
-      "active": true
+      "active": true,
+      "spokesman": false
     },
     {
       "id": "diego-labarca",
@@ -640,7 +651,8 @@
       ],
       "website": [],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678475493/redlada/community/diego-labarca_oo8qm6.webp",
-      "active": true
+      "active": true,
+      "spokesman": true
     },
     {
       "id": "rodolfo-coronado",
@@ -656,7 +668,8 @@
       ],
       "website": ["https://portales.inacap.cl/"],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678475493/redlada/community/rodolfo-coronado_fsv9kz.webp",
-      "active": true
+      "active": true,
+      "spokesman": false
     },
     {
       "id": "andres-sicard",
@@ -672,7 +685,8 @@
       ],
       "website": [],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678458526/redlada/foundational/andres-sicard_tlmiwa.webp",
-      "active": true
+      "active": true,
+      "spokesman": true
     },
     {
       "id": "jennifer-marsiglia",
@@ -688,7 +702,8 @@
       ],
       "website": [],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678717152/redlada/community/jennifer-marsiglia_iunuxf.webp",
-      "active": true
+      "active": true,
+      "spokesman": false
     },
     {
       "id": "erika-imbett",
@@ -705,7 +720,8 @@
       ],
       "website": ["https://www.itm.edu.co/"],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678717395/redlada/community/erika-imbett_qapqs7.webp",
-      "active": true
+      "active": true,
+      "spokesman": false
     },
     {
       "id": "eduardo-naranjo",
@@ -723,7 +739,8 @@
       ],
       "website": [],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678717548/redlada/community/eduardo-naranjo_tel5fa.webp",
-      "active": true
+      "active": true,
+      "spokesman": false
     },
     {
       "id": "diana-urdinola",
@@ -739,7 +756,8 @@
       ],
       "website": [],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1683058219/redlada/core/diana-urdinola_ez6hxe.webp",
-      "active": true
+      "active": true,
+      "spokesman": false
     },
     {
       "id": "pilar-fallas",
@@ -755,7 +773,8 @@
       ],
       "website": [],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678718056/redlada/community/pilar-fallas_q9su4i.webp",
-      "active": true
+      "active": true,
+      "spokesman": true
     },
     {
       "id": "geraldine-ezquerra",
@@ -771,7 +790,8 @@
       ],
       "website": [],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678460224/redlada/core/geraldine-ezquerra_r7twl3.webp",
-      "active": true
+      "active": true,
+      "spokesman": true
     },
     {
       "id": "jhonn-alarcon",
@@ -789,7 +809,8 @@
       ],
       "website": [],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678460224/redlada/core/jhonn_alarcon_m3e7fc.webp",
-      "active": true
+      "active": true,
+      "spokesman": true
     },
     {
       "id": "catalina-manotas",
@@ -807,7 +828,8 @@
       ],
       "website": [],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678718300/redlada/community/catalina-manotas_yiig0v.webp",
-      "active": true
+      "active": true,
+      "spokesman": false
     },
     {
       "id": "leandro-porras",
@@ -829,7 +851,8 @@
         "https://www.instagram.com/lmaupm/"
       ],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678718590/redlada/community/leandro-porras_jakaic.webp",
-      "active": true
+      "active": true,
+      "spokesman": true
     },
     {
       "id": "carolina-gutierrez",
@@ -845,7 +868,8 @@
       ],
       "website": [],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678460229/redlada/core/carolina-gutierrez_wjpmdq.webp",
-      "active": true
+      "active": true,
+      "spokesman": true
     },
     {
       "id": "monica-silva",
@@ -863,7 +887,8 @@
       ],
       "website": [],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678718809/redlada/community/monica-silva_pbcedt.webp",
-      "active": true
+      "active": true,
+      "spokesman": false
     },
     {
       "id": "sandra-ruiz",
@@ -884,7 +909,8 @@
         "https://www.facebook.com/disenofada.una/"
       ],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678719773/redlada/community/sandra-ruiz_qzv910.webp",
-      "active": true
+      "active": true,
+      "spokesman": true
     },
     {
       "id": "fernando-paraguay",
@@ -898,7 +924,8 @@
       "bio": [],
       "website": [],
       "photo": "",
-      "active": true
+      "active": true,
+      "spokesman": false
     },
     {
       "id": "agustina-vitola",
@@ -916,7 +943,8 @@
       ],
       "website": [],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678719987/redlada/community/agustina-vitola_hsulby.webp",
-      "active": true
+      "active": true,
+      "spokesman": true
     },
     {
       "id": "gianny-lopez",
@@ -932,7 +960,8 @@
       ],
       "website": [],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678720144/redlada/community/gianny-lopez_gspayn.webp",
-      "active": true
+      "active": true,
+      "spokesman": false
     },
     {
       "id": "luis-venezuela",
@@ -946,7 +975,8 @@
       "bio": [],
       "website": [],
       "photo": "",
-      "active": true
+      "active": true,
+      "spokesman": true
     },
     {
       "id": "margelis-venezuela",
@@ -960,7 +990,8 @@
       "bio": [],
       "website": [],
       "photo": "",
-      "active": true
+      "active": true,
+      "spokesman": true
     }
   ]
 }
