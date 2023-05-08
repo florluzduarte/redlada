@@ -1,0 +1,18 @@
+.objetivos__container {
+  padding: 1.5rem 1rem;
+  border: 2px var(--gray-3) solid;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.objetivos__number {
+  font-size: 2rem;
+}
+
+@media screen and (min-width: 1365px) {
+  .objetivos__number {
+    font-size: 3rem;
+  }
+}
