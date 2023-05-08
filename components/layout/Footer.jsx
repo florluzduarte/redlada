@@ -29,10 +29,10 @@ const Footer = () => {
       </div>
 
       <div className={styles.footer__adress__container}>
-        <p>
+        <small>
           <strong>{institution}</strong>
-        </p>
-        <p>{realAdress}</p>
+        </small>
+        <small>{realAdress}</small>
       </div>
 
       <div>

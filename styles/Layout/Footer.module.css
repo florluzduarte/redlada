@@ -64,3 +64,9 @@
     padding: 1rem 3.5rem;
   }
 }
+
+@media screen and (max-width: 283px) {
+  .footer__contact__email {
+    font-size: 0.75rem;
+  }
+}
