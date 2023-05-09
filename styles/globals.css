@@ -68,3 +68,23 @@ small {
     font-size: 1.125rem;
   }
 }
+
+.orange {
+  color: var(--orange);
+}
+
+.green {
+  color: var(--green);
+}
+
+.yellow {
+  color: var(--yellow);
+}
+
+.pink {
+  color: var(--pink);
+}
+
+.violet {
+  color: var(--violet);
+}

@@ -28,6 +28,7 @@ const Vision = () => {
           alt="Conferencia RedLaDA"
           placeholder="blur"
           fill={true}
+          sizes="(max-width: 541px) 100vw, (max-width: 1025px) 50vw, 33vw"
         />
       </div>
     </section>

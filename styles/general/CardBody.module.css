@@ -1,0 +1,29 @@
+.cardbody {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  gap: 1rem;
+}
+
+.cardbody__title__wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.cardbody__icon {
+  height: 2rem;
+  height: 2rem;
+  padding-bottom: 1rem;
+}
+
+.cardbody__title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  padding-bottom: 1rem;
+}
+
+.cardbody__link {
+  font-weight: 700;
+}
