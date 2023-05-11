@@ -1,0 +1,40 @@
+.container {
+  background-color: var(--gray-4);
+  padding: 3rem 0rem;
+}
+
+.card__wrapper {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+
+@media screen and (min-width: 765px) {
+  .container {
+    margin: 3rem 0rem;
+  }
+
+  .card__wrapper {
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 0rem;
+    margin: 0rem 0.5rem;
+  }
+}
+
+@media screen and (min-width: 1023px) {
+  .card__wrapper {
+    margin: 0rem 2.5rem;
+  }
+}
+
+@media screen and (min-width: 1365px) {
+  .container {
+    margin: 4.5rem 0rem;
+    padding: 5.5rem 0rem;
+  }
+
+  .card__wrapper {
+    margin: 0rem auto;
+    max-width: 1232px;
+  }
+}

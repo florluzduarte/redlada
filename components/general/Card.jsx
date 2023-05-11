@@ -26,7 +26,7 @@ const Card = ({
   return (
     <div
       className={`${styles.card} ${
-        type === "presentation" ? styles.presentation : styles.regular
+        type === "withBorder" ? styles.with__border : styles.regular
       }`}
     >
       {imageSrc && (
