@@ -1,0 +1,55 @@
+.contexto {
+  margin: 3rem 0rem;
+}
+
+.contexto__text__container {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  margin: 3rem 1.5rem;
+}
+
+.contexto__text__wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.contexto__image {
+  width: 100%;
+  height: auto;
+}
+
+@media screen and (min-width: 765px) {
+  .contexto {
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 3rem 1.5rem;
+    gap: 2rem;
+    align-items: center;
+  }
+
+  .contexto__text__container {
+    max-width: 45%;
+    gap: 2rem;
+  }
+}
+
+@media screen and (min-width: 1023px) {
+  .contexto {
+    margin: 3rem 4rem;
+  }
+}
+
+@media screen and (min-width: 1365px) {
+  .contexto {
+    margin: 0rem auto;
+    max-width: 1200px;
+    gap: 4rem;
+  }
+
+  .contexto__text__container {
+    max-width: 55%;
+    gap: 3rem;
+  }
+}
