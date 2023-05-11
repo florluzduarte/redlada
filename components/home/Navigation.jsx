@@ -13,11 +13,13 @@ import hacemos from "../../public/navigation-home-hacemos.png";
 import convocamos from "../../public/navigation-home-convocamos.png";
 
 const Navigation = () => {
+  const images = [somos, hacemos, convocamos];
+
   return (
     <div className={styles.container}>
       <div className={styles.card__wrapper}>
         {cardsData.map(
-          ({ title, text, href, color, type, alt, key, imageSrc }) => (
+          ({ title, text, href, color, type, alt, key }, index) => (
             <Card
               key={key}
               title={title}
@@ -25,7 +27,7 @@ const Navigation = () => {
               color={color}
               type={type}
               alt={alt}
-              // imageSrc={imageSrc}
+              imageSrc={images[index]}
             >
               <p>{text}</p>
             </Card>

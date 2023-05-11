@@ -9,6 +9,13 @@
   gap: 1rem;
 }
 
+@media screen and (min-width: 535px) {
+  .card__wrapper {
+    max-width: 30rem;
+    margin: 0 auto;
+  }
+}
+
 @media screen and (min-width: 765px) {
   .container {
     margin: 3rem 0rem;
@@ -17,6 +24,7 @@
   .card__wrapper {
     grid-template-columns: 1fr 1fr 1fr;
     gap: 0rem;
+    max-width: 100%;
     margin: 0rem 0.5rem;
   }
 }
