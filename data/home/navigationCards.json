@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Somos",
+    "text": "Tenemos como objetivo afianzar un ámbito referente del Diseño y Alimentos en Latinoamérica.",
+    "href": "/somos",
+    "color": "orange",
+    "type": "regular",
+    "alt": "Miembros de RedLaDA",
+    "key": 1,
+    "imageSrc": "somos"
+  },
+  {
+    "title": "Hacemos",
+    "text": "Buscamos dar visibilidad a la riqueza de productos, saberes y valores culturales de este territorio.",
+    "href": "/hacemos",
+    "color": "orange",
+    "type": "regular",
+    "alt": "Experiencia en encuentros de la red",
+    "key": 2,
+    "imageSrc": "hacemos"
+  },
+  {
+    "title": "Convocamos",
+    "text": "La función de la RedLaDA es nuclear a personas con intereses en común para crecer como comunidad.",
+    "href": "/convocamos",
+    "color": "orange",
+    "type": "regular",
+    "alt": "Plato producido en los encuentros de la red",
+    "key": 3,
+    "imageSrc": "convocamos"
+  }
+]

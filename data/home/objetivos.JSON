@@ -2,31 +2,37 @@
   {
     "number": "01",
     "title": "Crear ámbitos para la gestación de ideas, discusiones y propuestas",
-    "text": " en relación al Food Design en cualquier escala, dimensión y contexto. Esto vale especialmente para América Latina, pero no exclusivamente."
+    "text": " en relación al Food Design en cualquier escala, dimensión y contexto. Esto vale especialmente para América Latina, pero no exclusivamente.",
+    "color": "var(--orange)"
   },
   {
     "number": "02",
     "title": "Fomentar la aplicación de los recursos del diseño",
-    "text": " para el mejoramiento de los alimentos/comida y del universo de productos vinculados a este campo transdisciplinario."
+    "text": " para el mejoramiento de los alimentos/comida y del universo de productos vinculados a este campo transdisciplinario.",
+    "color": "var(--yellow)"
   },
   {
     "number": "03",
     "title": "Favorecer el diálogo entre los distintos actores y sectores",
-    "text": " que inciden en nuestra relación con la comida y alimentos."
+    "text": " que inciden en nuestra relación con la comida y alimentos.",
+    "color": "var(--green)"
   },
   {
     "number": "04",
     "title": "Identificar áreas de oportunidades",
-    "text": " que no han sido aun detectadas o que no están siendo atendidas satisfactoriamente en relación al alimento/comida."
+    "text": " que no han sido aun detectadas o que no están siendo atendidas satisfactoriamente en relación al alimento/comida.",
+    "color": "var(--pink)"
   },
   {
     "number": "05",
     "title": "Dar visibilidad a la riqueza de  productos, saberes y valores culturales que posee Latinoamérica",
-    "text": " y que actualmente se encuentran escasamente presentes y valorados en las esferas de conocimiento global."
+    "text": " y que actualmente se encuentran escasamente presentes y valorados en las esferas de conocimiento global.",
+    "color": "var(--violet)"
   },
   {
     "number": "06",
     "title": "Consolidar un pensamiento integrador,",
-    "text": " sin fines o intereses sectoriales, que vele por una mejora en cualquier sentido o aspecto de nuestra relación con la comida y alimentos."
+    "text": " sin fines o intereses sectoriales, que vele por una mejora en cualquier sentido o aspecto de nuestra relación con la comida y alimentos.",
+    "color": "var(--orange)"
   }
 ]

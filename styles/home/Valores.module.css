@@ -8,7 +8,7 @@
 }
 
 .valores__section__name {
-  margin-bottom: 3rem;
+  margin-bottom: 1.5rem;
 }
 
 .valores__wrapper {
@@ -41,6 +41,10 @@
     flex-direction: row-reverse;
     align-items: center;
     margin: 3rem 2rem;
+  }
+
+  .valores__section__name {
+    margin-bottom: 3rem;
   }
 
   .valores__text__container {
