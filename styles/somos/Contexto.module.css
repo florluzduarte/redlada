@@ -32,6 +32,7 @@
   .contexto__text__container {
     max-width: 45%;
     gap: 2rem;
+    margin: 0rem 1.5rem;
   }
 }
 

@@ -1,12 +1,13 @@
 //Components
 import Layout from "@/components/layout/Layout";
 import Contexto from "@/components/somos/Contexto";
+import Participantes from "@/components/somos/Participantes";
 
 const Somos = () => {
   return (
     <Layout>
-      <h1>Somos</h1>
       <Contexto />
+      <Participantes />
     </Layout>
   );
 };
