@@ -9,22 +9,14 @@ import { BsArrowRightCircle } from "react-icons/bs";
 //Styles
 import styles from "../../styles/general/Card.module.css";
 
-const Card = ({
-  title,
-  children,
-  href,
-  hrefExternal,
-  color,
-  type,
-  imageSrc,
-  alt,
-}) => {
+const Card = ({ title, children, href, color, type, imageSrc, alt }) => {
   const underlineStyle = {
     borderBottom: `2px solid var(--${color})`,
   };
 
   return (
-    <div
+    <Link
+      href={href}
       className={`${styles.card} ${
         type === "withBorder" ? styles.with__border : styles.regular
       }`}
@@ -46,21 +38,8 @@ const Card = ({
         </div>
       </div>
       <div className={styles.card__children__wrapper}>{children}</div>
-      {href && (
-        <Link href={href} className={`${styles.card__link} ${color}`}>
-          + info
-        </Link>
-      )}
-      {hrefExternal && (
-        <a
-          href={hrefExternal}
-          target="_blank"
-          className={`${styles.card__link} ${color}`}
-        >
-          + info
-        </a>
-      )}
-    </div>
+      <p className={`${styles.card__link} ${color}`}>+ info</p>
+    </Link>
   );
 };
 
@@ -68,8 +47,7 @@ export default Card;
 
 Card.propTypes = {
   title: PropTypes.string.isRequired,
-  href: PropTypes.string,
-  hrefExternal: PropTypes.string,
+  href: PropTypes.string.isRequired,
   color: PropTypes.string.isRequired,
   type: PropTypes.string.isRequired,
   imagSrc: PropTypes.object,
