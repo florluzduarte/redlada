@@ -2,7 +2,7 @@
   {
     "title": "Grupo fundacional",
     "text": "El Grupo Fundacional hoy día cumple un rol de consejo asesor.",
-    "href": "/fundacional",
+    "href": "/somos/fundacional",
     "color": "yellow",
     "type": "regular",
     "key": 1
@@ -10,7 +10,7 @@
   {
     "title": "Núcleo",
     "text": "La Red es organizada según su Carta Orgánica y coordinada por un Núcleo.",
-    "href": "/nucleo",
+    "href": "/somos/nucleo",
     "color": "orange",
     "type": "regular",
     "key": 2
@@ -18,7 +18,7 @@
   {
     "title": "Nodos",
     "text": "La comunidad activa tienen el rol de agrupar, motivar y difundir el Diseño y Alimentos en sus respectivos países o regiones, siendo a su vez el vínculo con el Núcleo.",
-    "href": "/nodos",
+    "href": "/somos/nodos",
     "color": "pink",
     "type": "regular",
     "key": 3
@@ -26,7 +26,7 @@
   {
     "title": "Amigos",
     "text": "Los amigos de la red son todas aquellas personas interesadas en formar parte y así compartir ideas, contenidos y actividades afines. Hacerte amigo no tiene costo, simplemente estemos en contacto a través de redes sociales.",
-    "href": "/amigos",
+    "href": "/somos/amigos",
     "color": "green",
     "type": "regular",
     "key": 4
@@ -34,7 +34,7 @@
   {
     "title": "Alianzas",
     "text": "La RedLaFD va tejiendo alianzas creativas y estratégicas con diversos ámbitos incluyendo: académico, industria, gobierno, ONGs y otras entidades o movimientos con intereses en común.",
-    "href": "/alianzas",
+    "href": "/somos/alianzas",
     "color": "violet",
     "type": "regular",
     "key": 5
