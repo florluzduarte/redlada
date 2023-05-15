@@ -1,0 +1,54 @@
+.section {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  margin: 3rem 1.5rem;
+}
+
+.paragraphs {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+
+.paragraph {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+@media screen and (min-width: 765px) {
+  .paragraphs {
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+  }
+}
+
+@media screen and (min-width: 1023px) {
+  .section {
+    margin: 3rem 4rem;
+  }
+
+  .paragraphs {
+    gap: 2.5rem;
+  }
+
+  .paragraph {
+    gap: 1.5rem;
+  }
+}
+
+@media screen and (min-width: 1365px) {
+  .section {
+    margin: 4.5rem auto;
+    max-width: 75rem;
+  }
+
+  .paragraphs {
+    gap: 4.5rem;
+  }
+
+  .paragraph {
+    gap: 2.5rem;
+  }
+}
