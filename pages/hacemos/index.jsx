@@ -1,12 +1,13 @@
 //Components
 import Layout from "@/components/layout/Layout";
 import EncuentrosText from "@/components/hacemos/EncuentrosText";
+import EncuentrosCards from "@/components/hacemos/EncuentrosCards";
 
 const Hacemos = () => {
   return (
     <Layout>
-      <h1>Hacemos</h1>
       <EncuentrosText />
+      <EncuentrosCards />
     </Layout>
   );
 };
