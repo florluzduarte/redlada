@@ -3,19 +3,10 @@ import Button from "../general/Button";
 
 //Data
 import textEducacion from "../../data/hacemos/educacion.json";
+import navigationButtons from "../../data/hacemos/navigationButtons.json";
 
 //Styles
 import styles from "../../styles/hacemos/Educacion.module.css";
-
-const testingButton = {
-  href: "/",
-  title: "Probando botón",
-  icon: {
-    position: "right",
-    type: "regular",
-  },
-  color: "orange",
-};
 
 const Educacion = () => {
   return (
@@ -28,13 +19,16 @@ const Educacion = () => {
             {textEducacion.text}
           </p>
         </div>
-        <div>
-          <Button
-            href={testingButton.href}
-            title={testingButton.title}
-            icon={testingButton.icon}
-            color={testingButton.color}
-          />
+        <div className={styles.educacion__buttons__wrapper}>
+          {navigationButtons.map(({ title, key, color, href, icon }) => (
+            <Button
+              key={key}
+              title={title}
+              color={color}
+              href={href}
+              icon={icon}
+            />
+          ))}
         </div>
       </div>
     </section>

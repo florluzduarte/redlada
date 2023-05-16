@@ -33,3 +33,9 @@
   border: 2px solid var(--orange);
   color: var(--orange);
 }
+
+@media screen and (min-width: 1023px) {
+  .button__title {
+    font-size: 1.25rem;
+  }
+}
