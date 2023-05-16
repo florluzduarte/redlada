@@ -1,0 +1,10 @@
+.section {
+  background-color: var(--gray-4);
+  padding: 3rem 1.5rem;
+}
+
+.educacion__text__wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
