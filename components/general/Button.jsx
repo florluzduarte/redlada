@@ -5,6 +5,7 @@ import {
   BsArrowRightCircle,
   BsArrowDownCircle,
 } from "react-icons/bs";
+import PropTypes from "prop-types";
 
 //Styles
 import styles from "../../styles/general/Button.module.css";
@@ -40,3 +41,10 @@ const Button = ({ title, color, icon, href }) => {
 };
 
 export default Button;
+
+Button.propTypes = {
+  title: PropTypes.string.isRequired,
+  href: PropTypes.string.isRequired,
+  color: PropTypes.string.isRequired,
+  icon: PropTypes.object.isRequired,
+};
