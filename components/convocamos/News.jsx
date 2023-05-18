@@ -27,11 +27,11 @@ const News = () => {
           <p>
             {newsText.link.text}{" "}
             <a
-              href="mailto:alo@lafooddesign.org"
-              subject="Contacto%20RedLaDA%20web"
-              className={styles.news__email}
+              href={newsText.link.link}
+              className={styles.news__link}
+              target="_blank"
             >
-              {newsText.link.email}
+              {newsText.link.link}
             </a>
           </p>
         </div>

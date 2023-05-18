@@ -1,0 +1,33 @@
+.map__button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: var(--white);
+  padding: 1rem;
+  border: 2px solid var(--orange);
+  border-radius: 8px;
+  justify-content: space-between;
+  transition: all 0.15s ease-in-out;
+  width: 100%;
+}
+
+.map__button:hover {
+  transform: scale(1.02);
+}
+
+.map__button__title {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.map__button__icon {
+  width: 1.5rem;
+  height: 1.5rem;
+  color: var(--orange);
+}
+
+@media screen and (max-width: 285px) {
+  .map__button__title {
+    font-size: 0.9rem;
+  }
+}
