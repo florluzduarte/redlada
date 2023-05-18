@@ -29,7 +29,7 @@ const Cultura = () => {
         </div>
       </div>
       <div className={styles.cultura__video__wrapper}>
-        {/* <iframe
+        <iframe
           width="560"
           height="315"
           src="https://www.youtube.com/embed/fttGBzH9Bso"
@@ -39,7 +39,7 @@ const Cultura = () => {
           allowFullScreen
           loading="lazy"
           className={styles.cultura__video}
-        ></iframe> */}
+        ></iframe>
       </div>
     </section>
   );
