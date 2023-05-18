@@ -37,7 +37,7 @@ const Footer = () => {
 
       <div>
         <a
-          href="mailto:hola@lafooddesign.org"
+          href="mailto:alo@lafooddesign.org"
           subject="Contacto%20RedLaDA%20web"
           className={styles.footer__contact__container}
         >

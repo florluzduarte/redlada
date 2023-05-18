@@ -1,0 +1,36 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  border: 2px solid var(--gray-3);
+  border-radius: 8px;
+  transition: all 0.15s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.02);
+}
+
+.cards__image {
+  width: 100%;
+  height: auto;
+}
+
+.cards__text__wrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+  padding-top: 1rem;
+  align-items: center;
+}
+
+.cards__icon {
+  width: 1.5rem;
+  height: 1.5rem;
+  color: var(--green);
+}
+
+.cards__title {
+  font-size: 1.25rem;
+  font-weight: 700;
+}

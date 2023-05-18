@@ -1,0 +1,33 @@
+.section {
+  margin: 0rem 1.5rem 3rem 1.5rem;
+}
+
+.memorias__cards__wrapper {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
+@media screen and (min-width: 765px) {
+  .memorias__cards__wrapper {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media screen and (min-width: 1023px) {
+  .section {
+    margin: 4rem;
+    margin-top: 0rem;
+  }
+}
+
+@media screen and (min-width: 1365px) {
+  .section {
+    margin: 4.5rem auto;
+    max-width: 75rem;
+  }
+
+  .memorias__cards__wrapper {
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  }
+}

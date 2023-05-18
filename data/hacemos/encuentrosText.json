@@ -1,0 +1,34 @@
+{
+  "texts": [
+    {
+      "paragraph": [
+        {
+          "title": "Los encuentros anuales de la RedLaDA se realizan cada año en un nuevo país miembro.",
+          "text": " Estos son los espacios y tiempos que dedicamos para juntarnos todos los participantes en vivo, socializando nuestro trabajo, integrando nuevos socios y alianzas.",
+          "key": 1
+        },
+        {
+          "title": "Los encuentros son una combinación de contenidos y diálogos a nivel académico, cultural y socio/político,",
+          "text": " incluyendo industria, gobierno, ONGs y demás actores presentes en nuestro universo alimentario.",
+          "key": 2
+        }
+      ],
+      "key": 1
+    },
+    {
+      "paragraph": [
+        {
+          "title": "Son de carácter abierto, con inscripción previa",
+          "text": " para actividades con cupos limitados, y son coordinados por el núcleo de la red junto al nodo local de cada país anfitrión.",
+          "key": 3
+        },
+        {
+          "title": "Los encuentros incluyen sesiones de trabajo, ponencias, mesas redondas y conversatorios, exposiciones y otras formas de expresión e intercambio",
+          "text": " a nivel académico, profesional y cultural.",
+          "key": 4
+        }
+      ],
+      "key": 2
+    }
+  ]
+}
