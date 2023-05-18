@@ -31,3 +31,9 @@
     font-size: 0.9rem;
   }
 }
+
+@media screen and (min-width: 1023px) {
+  .map__button__title {
+    font-size: 1.15rem;
+  }
+}

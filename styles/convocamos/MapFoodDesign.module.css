@@ -32,11 +32,12 @@
     flex-direction: row-reverse;
     align-items: flex-start;
     margin: 0rem 1.5rem;
+    justify-content: space-between;
   }
 
   .map__texts__wrapper {
     margin: 0rem;
-    max-width: 40%;
+    max-width: 45%;
   }
 }
 
