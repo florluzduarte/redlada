@@ -1,10 +1,17 @@
+//Libraries
+import Image from "next/image";
+
 //Data
 import culturaText from "../../data/hacemos/cultura.json";
 
 //Styles
 import styles from "../../styles/hacemos/Cultura.module.css";
 
+//Images
+import videoImage from "../../assets/hacemos/cultura-video.png";
+
 const { introText, link } = culturaText;
+const altTextVideo = "Portada video intravistas presentación en YouTube";
 
 const Cultura = () => {
   return (
@@ -29,7 +36,7 @@ const Cultura = () => {
         </div>
       </div>
       <div className={styles.cultura__video__wrapper}>
-        <iframe
+        {/* <iframe
           width="560"
           height="315"
           src="https://www.youtube.com/embed/fttGBzH9Bso"
@@ -39,7 +46,15 @@ const Cultura = () => {
           allowFullScreen
           loading="lazy"
           className={styles.cultura__video}
-        ></iframe>
+        ></iframe> */}
+        <a href="https://youtu.be/fttGBzH9Bso" target="_blank">
+          <Image
+            src={videoImage}
+            alt={altTextVideo}
+            className={styles.cultura__video}
+            placeholder="blur"
+          />
+        </a>
       </div>
     </section>
   );
