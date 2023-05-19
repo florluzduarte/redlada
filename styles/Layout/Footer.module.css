@@ -3,7 +3,6 @@
   flex-direction: column;
   align-items: center;
   gap: 1rem;
-  background-color: var(--gray-4);
   padding: 3.5rem;
 }
 
@@ -53,6 +52,14 @@
 .footer__contact__icon {
   height: 1.5rem;
   width: 1.5rem;
+}
+
+.footer__bkg__gray {
+  background-color: var(--gray-4);
+}
+
+.footer__bkg__white {
+  background-color: var(--white);
 }
 
 @media screen and (min-width: 1023px) {

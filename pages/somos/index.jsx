@@ -5,7 +5,7 @@ import Participantes from "@/components/somos/Participantes";
 
 const Somos = () => {
   return (
-    <Layout>
+    <Layout color="white">
       <Contexto />
       <Participantes />
     </Layout>

@@ -1,6 +1,12 @@
+//Libraries
+import PropTypes from "prop-types";
+
 //Components
-import { AiOutlineFacebook, AiOutlineInstagram } from "react-icons/ai";
-import { RiPinterestLine } from "react-icons/ri";
+import {
+  AiOutlineFacebook,
+  AiOutlineInstagram,
+  AiOutlineYoutube,
+} from "react-icons/ai";
 import { BiUserPin } from "react-icons/bi";
 
 //Styles
@@ -9,19 +15,23 @@ import styles from "../../styles/Layout/Footer.module.css";
 //Data
 import dataFooter from "../../data/Layout/dataFooter.json";
 
-const { instagram, pinterest, facebook } = dataFooter.socialMediaLinks;
+const { instagram, youtube, facebook } = dataFooter.socialMediaLinks;
 const { institution, realAdress } = dataFooter.adress;
 const { email } = dataFooter.contact;
 
-const Footer = () => {
+const Footer = ({ color }) => {
   return (
-    <footer className={styles.footer}>
+    <footer
+      className={`${styles.footer} ${
+        color === "white" ? styles.footer__bkg__white : styles.footer__bkg__gray
+      }`}
+    >
       <div className={styles.footer__social__container}>
         <a href={instagram} target="_blank">
           <AiOutlineInstagram className={styles.footer__social__icons} />
         </a>
-        <a href={pinterest} target="_blank">
-          <RiPinterestLine className={styles.footer__social__icons} />
+        <a href={youtube} target="_blank">
+          <AiOutlineYoutube className={styles.footer__social__icons} />
         </a>
         <a href={facebook} target="_blank">
           <AiOutlineFacebook className={styles.footer__social__icons} />
@@ -50,3 +60,7 @@ const Footer = () => {
 };
 
 export default Footer;
+
+Footer.propTypes = {
+  color: PropTypes.string,
+};

@@ -6,7 +6,7 @@ import Revista from "@/components/convocamos/Revista";
 
 const Convocamos = () => {
   return (
-    <Layout>
+    <Layout color="white">
       <News />
       <MapFoodDesign />
       <Revista />
