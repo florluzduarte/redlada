@@ -1,0 +1,25 @@
+.button {
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 8px;
+  /* border: 2px solid var(--orange); */
+  padding: 1rem;
+  transition: all 0.15s ease-in-out;
+}
+
+.button:hover {
+  transform: scale(1.02);
+}
+
+.button__title {
+  font-weight: 700;
+}
+
+.button__icon {
+  width: 1.5rem;
+  height: 1.5rem;
+  color: var(--orange);
+}

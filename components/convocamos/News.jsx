@@ -27,7 +27,7 @@ const News = () => {
           <p>
             {newsText.link.text}{" "}
             <a
-              href={newsText.link.link}
+              href={newsText.link.href}
               className={styles.news__link}
               target="_blank"
             >
