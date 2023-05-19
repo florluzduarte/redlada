@@ -8,7 +8,7 @@ import Footer from "./Footer";
 //Data
 import dataMetatags from "../../data/Layout/dataMetatags.json";
 
-const Layout = ({ children }) => {
+const Layout = ({ children, color }) => {
   return (
     <>
       <Head>
@@ -32,7 +32,7 @@ const Layout = ({ children }) => {
       </Head>
       <Navbar />
       <main>{children}</main>
-      <Footer />
+      <Footer color={color} />
     </>
   );
 };

@@ -1,0 +1,66 @@
+.section {
+  margin: 3rem 0rem;
+}
+
+.section__wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.revista__texts__wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  margin: 0rem 1.5rem;
+}
+
+.revista__paragraph__wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.revista__link {
+  font-weight: 700;
+  color: var(--orange);
+}
+
+.revista__image {
+  width: 100%;
+  height: auto;
+}
+
+@media screen and (min-width: 765px) {
+  .section__wrapper {
+    flex-direction: row;
+    margin: 0rem 1.5rem;
+    justify-content: space-between;
+  }
+
+  .revista__texts__wrapper {
+    margin: 0rem;
+    max-width: 45%;
+  }
+}
+
+@media screen and (min-width: 1023px) {
+  .section {
+    margin: 4rem;
+  }
+
+  .section__wrapper {
+    margin: 0rem;
+  }
+
+  .revista__image {
+    width: 550px;
+  }
+}
+
+@media screen and (min-width: 1365px) {
+  .section {
+    margin: 4.5rem auto;
+    max-width: 75rem;
+  }
+}
