@@ -1,0 +1,24 @@
+{
+  "navbar": [
+    {
+      "name": "Inicio",
+      "route": "/",
+      "key": 1
+    },
+    {
+      "name": "Somos",
+      "route": "/somos",
+      "key": 2
+    },
+    {
+      "name": "Hacemos",
+      "route": "/hacemos",
+      "key": 3
+    },
+    {
+      "name": "Convocamos",
+      "route": "/convocamos",
+      "key": 4
+    }
+  ]
+}
