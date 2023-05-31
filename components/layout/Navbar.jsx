@@ -11,7 +11,6 @@ import routeLinks from "../../data/Layout/routing.json";
 import styles from "../../styles/Layout/Navbar.module.css";
 
 //Image
-// import logo from "../../assets/general/logo.png";
 import logo from "../../public/logo-redlada.svg";
 
 const Navbar = () => {
