@@ -5,13 +5,13 @@ import json from "../../data/general/hero.json";
 const Hero = ({ children, type }) => {
   return (
     <header className={`${styles.hero} ${styles[type]}`}>
-      <div>
+      <div className={styles.hero__wrapper}>
         <div className={styles.hero__text__wrapper}>
           <h1>
-            <span>{json[type].title}</span>
-            <span>{json[type].subtitle}</span>
+            <span className={styles.hero__title}>{json[type].title}</span>
+            <span className={styles.hero__subtitle}>{json[type].subtitle}</span>
           </h1>
-          <p>
+          <p className={styles.hero__text}>
             <strong>{json[type].textBold}</strong>
             {json[type].textRegular}
           </p>

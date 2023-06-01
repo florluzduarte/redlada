@@ -13,7 +13,7 @@
   background-color: #fae16e;
   background-image: url("../../assets/general/banner/home-banner-2.png");
   background-repeat: no-repeat;
-  background-position: left 0rem top -2rem;
+  background-position: left 0rem top -4rem;
 }
 
 .somos {
@@ -25,7 +25,7 @@
 
 .hacemos {
   background-color: #e16a35;
-  background-image: url("../../assets/general/banner/hacemos-banner.png");
+  background-image: url("../../assets/general/banner/hacemos-banner-2.png");
   background-repeat: no-repeat;
   background-position: left 0rem top -2rem;
 }
@@ -34,7 +34,23 @@
   background-color: #ffe2e3;
   background-image: url("../../assets/general/banner/convocamos-banner.png");
   background-repeat: no-repeat;
-  background-position: left 3rem top -2rem;
+  background-position: left 3rem top -3rem;
+}
+
+.home .hero__subtitle {
+  color: var(--orange);
+}
+
+.somos .hero__title {
+  color: var(--white);
+}
+
+.hacemos .hero__title {
+  color: var(--yellow);
+}
+
+.convocamos .hero__title {
+  color: var(--orange);
 }
 
 @media screen and (min-width: 765px) {
@@ -53,5 +69,45 @@
   .hero__text__wrapper {
     max-width: 60%;
     margin: 0rem 3rem;
+  }
+}
+
+@media screen and (min-width: 1023px) {
+  .home,
+  .somos,
+  .convocamos,
+  .hacemos {
+    background-position: right -3rem top 0rem;
+  }
+
+  .hero__text__wrapper {
+    margin: 0rem 4rem;
+    gap: 3rem;
+    max-width: 55%;
+  }
+}
+
+@media screen and (min-width: 1365px) {
+  .hero__text__wrapper {
+    max-width: 60%;
+    margin: 0rem 6rem;
+  }
+}
+
+@media screen and (min-width: 1915px) {
+  .hero__wrapper {
+    max-width: 75rem;
+    margin: 0 auto;
+  }
+
+  .home,
+  .somos,
+  .hacemos,
+  .convocamos {
+    background-position: right 18rem top 0rem;
+  }
+
+  .hero__text__wrapper {
+    margin: 0rem;
   }
 }
