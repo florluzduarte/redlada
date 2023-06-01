@@ -88,3 +88,11 @@ small {
 .violet {
   color: var(--violet);
 }
+
+.text {
+  color: var(--text);
+}
+
+.bkgHeroYellow {
+  background-color: #fae16e;
+}

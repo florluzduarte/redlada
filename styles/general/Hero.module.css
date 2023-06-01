@@ -1,0 +1,57 @@
+.hero {
+  padding: 5rem 0rem;
+}
+
+.hero__text__wrapper {
+  margin: 0rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.home {
+  background-color: #fae16e;
+  background-image: url("../../assets/general/banner/home-banner-2.png");
+  background-repeat: no-repeat;
+  background-position: left 0rem top -2rem;
+}
+
+.somos {
+  background-color: #1ca695;
+  background-image: url("../../assets/general/banner/somos-banner.png");
+  background-repeat: no-repeat;
+  background-position: left 0rem top -2rem;
+}
+
+.hacemos {
+  background-color: #e16a35;
+  background-image: url("../../assets/general/banner/hacemos-banner.png");
+  background-repeat: no-repeat;
+  background-position: left 0rem top -2rem;
+}
+
+.convocamos {
+  background-color: #ffe2e3;
+  background-image: url("../../assets/general/banner/convocamos-banner.png");
+  background-repeat: no-repeat;
+  background-position: left 3rem top -2rem;
+}
+
+@media screen and (min-width: 765px) {
+  .hero {
+    padding: 8rem 0rem;
+  }
+
+  .home,
+  .somos,
+  .hacemos,
+  .convocamos {
+    background-size: contain;
+    background-position: right -5rem top 0rem;
+  }
+
+  .hero__text__wrapper {
+    max-width: 60%;
+    margin: 0rem 3rem;
+  }
+}
