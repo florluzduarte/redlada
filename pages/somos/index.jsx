@@ -4,15 +4,12 @@ import Contexto from "@/components/somos/Contexto";
 import Participantes from "@/components/somos/Participantes";
 import Hero from "@/components/general/Hero";
 
-//Data
-import heroData from "../../data/general/hero.json";
-
-const { type } = heroData.somos;
+const bannerType = "somos";
 
 const Somos = () => {
   return (
     <Layout color="white">
-      <Hero type={type} />
+      <Hero type={bannerType} />
       <Contexto />
       <Participantes />
     </Layout>

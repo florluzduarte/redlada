@@ -7,15 +7,12 @@ import Vision from "@/components/home/Vision";
 import Objetivos from "@/components/home/Objetivos";
 import Valores from "@/components/home/Valores";
 
-//Data
-import heroData from "../data/general/hero.json";
-
-const { type } = heroData.home;
+const bannerType = "home";
 
 export default function Home() {
   return (
     <Layout>
-      <Hero type={type} />
+      <Hero type={bannerType} />
       <FoodDesign />
       <Navigation />
       <Vision />

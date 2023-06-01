@@ -7,15 +7,12 @@ import Educacion from "@/components/hacemos/Educacion";
 import Cultura from "@/components/hacemos/Cultura";
 import CulturaMemorias from "@/components/hacemos/CulturaMemorias";
 
-//Data
-import heroData from "../../data/general/hero.json";
-
-const { type } = heroData.hacemos;
+const bannerType = "hacemos";
 
 const Hacemos = () => {
   return (
     <Layout>
-      <Hero type={type} />
+      <Hero type={bannerType} />
       <EncuentrosText />
       <EncuentrosCards />
       <Educacion />
