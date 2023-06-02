@@ -1,0 +1,40 @@
+.objetivos {
+  margin: 3rem 1.5rem 0rem 1.5rem;
+}
+
+.objetivos__title {
+  margin-bottom: 1.5rem;
+}
+
+.objetivos__cards__container {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
+@media screen and (min-width: 765px) {
+  .objetivos__cards__container {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (min-width: 1023px) {
+  .objetivos {
+    margin: 4.5rem 4rem 0rem 4rem;
+  }
+
+  .objetivos__title {
+    margin-bottom: 3rem;
+  }
+}
+
+@media screen and (min-width: 1365px) {
+  .objetivos {
+    margin: 4.5rem auto;
+    max-width: 75rem;
+  }
+
+  .objetivos__cards__container {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}

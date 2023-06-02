@@ -1,0 +1,50 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  gap: 1rem;
+  margin: 1rem;
+  background-color: var(--white);
+  border-radius: 8px;
+  transition: all 0.15s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.02);
+}
+
+.with__border {
+  border: 2px solid var(--gray-3);
+}
+
+.regular {
+  border: none;
+}
+
+.card__title__wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.card__icon {
+  height: 2rem;
+  height: 2rem;
+  padding-bottom: 1rem;
+}
+
+.card__title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  padding-bottom: 1rem;
+}
+
+.card__link {
+  font-weight: 700;
+}
+
+.card__image {
+  width: 100%;
+  height: auto;
+}

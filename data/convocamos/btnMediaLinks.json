@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Conectemos en Instagram",
+    "href": "https://www.instagram.com/redlafd/",
+    "icon": "instagram",
+    "key": 1
+  },
+  {
+    "title": "Conectemos en YouTube",
+    "href": "https://www.youtube.com/channel/UCI42OWnRTmMdUhRBIu_enSg",
+    "icon": "youtube",
+    "key": 2
+  },
+  {
+    "title": "Conectemos en Facebook",
+    "href": "https://www.facebook.com/RedLaFD",
+    "icon": "facebook",
+    "key": 3
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Publicaciones",
+    "href": "/hacemos/publicaciones",
+    "color": "orange",
+    "icon": {
+      "position": "right",
+      "type": "regular"
+    },
+    "key": 1
+  },
+  {
+    "title": "Cursos",
+    "href": "/hacemos/cursos",
+    "color": "violet",
+    "icon": {
+      "position": "right",
+      "type": "regular"
+    },
+    "key": 2
+  }
+]

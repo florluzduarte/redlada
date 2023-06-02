@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Encuentro 2022",
+    "sede": "Montevideo - Uruguay",
+    "concepto": "(Re)encuentro",
+    "href": "/encuentros/2022-montevideo",
+    "color": "pink",
+    "type": "withBorder",
+    "imageSrc": "montevideo",
+    "alt": "Logo encuentro Montevideo 2022",
+    "key": 1
+  },
+  {
+    "title": "Encuentro 2021",
+    "sede": "Curitiba - Brasil",
+    "concepto": "Replantar",
+    "href": "/encuentros/2021-curitiba",
+    "color": "pink",
+    "type": "withBorder",
+    "imageSrc": "curitiba",
+    "alt": "Logo encuentro Curitiba 2021",
+    "key": 2
+  },
+  {
+    "title": "Encuentro 2020",
+    "sede": "Sede virtual - Uruguay",
+    "concepto": "Conexiones",
+    "href": "/encuentros/2020-virtual",
+    "color": "pink",
+    "type": "withBorder",
+    "imageSrc": "virtual",
+    "alt": "Logo encuentro virtual Uruguay 2020",
+    "key": 3
+  },
+  {
+    "title": "Encuentro 2019",
+    "sede": "Cochabamba - Bolivia",
+    "concepto": "Cosechamos",
+    "href": "/encuentros/2019-cochabamba",
+    "color": "pink",
+    "type": "withBorder",
+    "imageSrc": "cochabamba",
+    "alt": "Logo encuentro Cochabamba 2019",
+    "key": 4
+  },
+  {
+    "title": "Encuentro 2018",
+    "sede": "Sgo. de Chile - Chile",
+    "concepto": "Diversidad",
+    "href": "/encuentros/2018-santiago",
+    "color": "pink",
+    "type": "withBorder",
+    "imageSrc": "santiago",
+    "alt": "Logo encuentro Santiago de Chile 2018",
+    "key": 5
+  },
+  {
+    "title": "Encuentro 2017",
+    "sede": "Buenos Aires - Argentina",
+    "concepto": "Abraza",
+    "href": "/encuentros/2017-bsas",
+    "color": "pink",
+    "type": "withBorder",
+    "imageSrc": "bsas",
+    "alt": "Logo encuentro Buenos Aires 2017",
+    "key": 6
+  },
+  {
+    "title": "Encuentro 2016",
+    "sede": "Tijuana - México",
+    "concepto": "Alegría",
+    "href": "/encuentros/2016-tijuana",
+    "color": "pink",
+    "type": "withBorder",
+    "imageSrc": "tijuana",
+    "alt": "Logo encuentro Tijuana 2016",
+    "key": 7
+  },
+  {
+    "title": "Encuentro 2015",
+    "sede": "Porto Alegre - Brasil",
+    "concepto": "Cultivando",
+    "href": "/encuentros/2015-porto-alegre",
+    "color": "pink",
+    "type": "withBorder",
+    "imageSrc": "porto",
+    "alt": "Logo encuentro Porto Alegre 2015",
+    "key": 8
+  },
+  {
+    "title": "Encuentro 2014",
+    "sede": "Bogotá - Colombia",
+    "concepto": "Disfruta",
+    "href": "/encuentros/2014-bogota",
+    "color": "pink",
+    "type": "withBorder",
+    "imageSrc": "bogota",
+    "alt": "Logo encuentro Bogotá 2014",
+    "key": 9
+  },
+  {
+    "title": "Encuentro 2013",
+    "sede": "Montevideo - Uruguay",
+    "concepto": "Inicios",
+    "href": "/encuentros/2013-montevideo",
+    "color": "pink",
+    "type": "withBorder",
+    "imageSrc": "montevideoTrece",
+    "alt": "Logo encuentro Montevideo 2013",
+    "key": 10
+  }
+]

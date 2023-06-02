@@ -1,0 +1,41 @@
+.button {
+  display: flex;
+  flex-direction: row;
+  background-color: var(--white);
+  padding: 1rem;
+  border-radius: 8px;
+  transition: all 0.15s ease-in-out;
+}
+
+.button:hover {
+  transform: scale(1.02);
+}
+
+.button__wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.button__title {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.button__icon {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.orange {
+  border: 2px solid var(--orange);
+  color: var(--orange);
+}
+
+@media screen and (min-width: 1023px) {
+  .button__title {
+    font-size: 1.25rem;
+  }
+}

@@ -1,0 +1,43 @@
+.section {
+  margin: 0rem 0.5rem 2rem 0.5rem;
+}
+
+.encuentros__cards__wrapper {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.1rem;
+}
+
+.encuentros__cards__content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+@media screen and (min-width: 765px) {
+  .encuentros__cards__wrapper {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (min-width: 1023px) {
+  .section {
+    margin: 1rem 3rem 4rem 3rem;
+  }
+
+  .encuentros__cards__wrapper {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media screen and (min-width: 1365px) {
+  .section {
+    margin: 0rem auto 4.5rem auto;
+    max-width: 77rem;
+  }
+
+  .encuentros__cards__wrapper {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 0rem;
+  }
+}
