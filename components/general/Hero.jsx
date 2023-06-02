@@ -1,8 +1,14 @@
+//Components
+import BtnOrganicCharter from "../somos/BtnOrganicCharter";
+
 //Styles
 import styles from "../../styles/general/Hero.module.css";
 import json from "../../data/general/hero.json";
 
-const Hero = ({ children, type }) => {
+//Data
+import btnCharterData from "../../data/somos/btnOrganicCharter.json";
+
+const Hero = ({ type }) => {
   return (
     <header className={`${styles.hero} ${styles[type]}`}>
       <div className={styles.hero__wrapper}>
@@ -16,7 +22,18 @@ const Hero = ({ children, type }) => {
             {json[type].textRegular}
           </p>
         </div>
-        <div>{children}</div>
+        {type === "somos" && (
+          <div className={styles.hero__btn__charter}>
+            {btnCharterData.map(({ title, href, countryCode, key }) => (
+              <BtnOrganicCharter
+                key={key}
+                title={title}
+                countryCode={countryCode}
+                href={href}
+              />
+            ))}
+          </div>
+        )}
       </div>
     </header>
   );
