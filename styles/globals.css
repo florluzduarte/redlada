@@ -60,12 +60,22 @@ small {
 }
 
 @media screen and (min-width: 1023px) {
+  h1 {
+    font-size: 2.5rem;
+  }
+
   h2 {
     font-size: 2rem;
   }
 
   p {
     font-size: 1.125rem;
+  }
+}
+
+@media screen and (min-width: 1365px) {
+  h1 {
+    font-size: 3.5rem;
   }
 }
 
@@ -87,4 +97,12 @@ small {
 
 .violet {
   color: var(--violet);
+}
+
+.text {
+  color: var(--text);
+}
+
+.bkgHeroYellow {
+  background-color: #fae16e;
 }

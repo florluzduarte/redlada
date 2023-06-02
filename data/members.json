@@ -324,10 +324,7 @@
         "Comenzó a emprender desde 2012 en el campo de la gastronomía, participando activamente en el desarrollo de empresas y proyectos gastronómicos a través de servicios de consultoría. Fundador de Locavorista, actualmente dirige LocavoristaLAB, su brazo de innovación. También es socio de la Yerba-Mate Manos & Hermanos, que tiene su marca principal Matte n'Roll.",
         "Es ponente y actualmente investiga Colaboración, Emprendimiento, Cultura Alimentaria, Locavorismo y Diseño Alimentario. Es representante de la Red Latinoamericana de Diseño y Alimentos en Brasil desde 2017 y creador del FDBR, Observatorio Brasileño de Diseño y Alimentos. Posee reconocimiento académico por la UFPR y Mención de Honor por la Asamblea Legislativa del Estado de Paraná."
       ],
-      "website": [
-        "http://coletivoalimentar.com.br/",
-        "http://vivahgastronomia.com.br/"
-      ],
+      "website": ["https://olocavorista.com.br/"],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/c_scale,h_120,w_116/v1683057950/redlada/core/luiz-mileck_o4aho9.webp",
       "active": true
     },
@@ -556,10 +553,7 @@
         "Comenzó a emprender desde 2012 en el campo de la gastronomía, participando activamente en el desarrollo de empresas y proyectos gastronómicos a través de servicios de consultoría. Fundador de Locavorista, actualmente dirige LocavoristaLAB, su brazo de innovación. También es socio de la Yerba-Mate Manos & Hermanos, que tiene su marca principal Matte n'Roll.",
         "Es ponente y actualmente investiga Colaboración, Emprendimiento, Cultura Alimentaria, Locavorismo y Diseño Alimentario. Es representante de la Red Latinoamericana de Diseño y Alimentos en Brasil desde 2017 y creador del FDBR, Observatorio Brasileño de Diseño y Alimentos. Posee reconocimiento académico por la UFPR y Mención de Honor por la Asamblea Legislativa del Estado de Paraná."
       ],
-      "website": [
-        "http://coletivoalimentar.com.br/",
-        "http://vivahgastronomia.com.br/"
-      ],
+      "website": ["https://olocavorista.com.br/"],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/c_scale,h_120,w_116/v1683057950/redlada/core/luiz-mileck_o4aho9.webp",
       "active": true,
       "spokesman": true

@@ -1,0 +1,138 @@
+.hero {
+  padding: 5rem 0rem;
+}
+
+.hero__text__wrapper {
+  margin: 0rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.home {
+  background-color: #fae16e;
+  background-image: url("../../assets/general/banner/home-banner-2.png");
+  background-repeat: no-repeat;
+  background-position: left 0rem top -4rem;
+}
+
+.somos {
+  background-color: #1ca695;
+  background-image: url("../../assets/general/banner/somos-banner.png");
+  background-repeat: no-repeat;
+  background-position: left 0rem top -2rem;
+}
+
+.hacemos {
+  background-color: #e16a35;
+  background-image: url("../../assets/general/banner/hacemos-banner-2.png");
+  background-repeat: no-repeat;
+  background-position: left 0rem top -2rem;
+}
+
+.convocamos {
+  background-color: #ffe2e3;
+  background-image: url("../../assets/general/banner/convocamos-banner.png");
+  background-repeat: no-repeat;
+  background-position: left 3rem top -3rem;
+}
+
+.home .hero__subtitle {
+  color: var(--orange);
+}
+
+.somos .hero__title {
+  color: var(--white);
+}
+
+.hacemos .hero__title {
+  color: var(--yellow);
+}
+
+.convocamos .hero__title {
+  color: var(--orange);
+}
+
+.hero__btn__charter {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin: 2rem 1.5rem 0rem 1.5rem;
+}
+
+@media screen and (min-width: 765px) {
+  .hero {
+    padding: 8rem 0rem;
+  }
+
+  .home,
+  .somos,
+  .hacemos,
+  .convocamos {
+    background-size: contain;
+    background-position: right -5rem top 0rem;
+  }
+
+  .hero__text__wrapper {
+    max-width: 60%;
+    margin: 0rem 3rem;
+  }
+
+  .hero__btn__charter {
+    flex-direction: row;
+    margin: 3rem 1.5rem 0rem 3rem;
+  }
+}
+
+@media screen and (min-width: 1023px) {
+  .home,
+  .somos,
+  .convocamos,
+  .hacemos {
+    background-position: right -3rem top 0rem;
+  }
+
+  .hero__text__wrapper {
+    margin: 0rem 4rem;
+    gap: 3rem;
+    max-width: 55%;
+  }
+
+  .hero__btn__charter {
+    margin: 3rem 1.5rem 0rem 4rem;
+  }
+}
+
+@media screen and (min-width: 1365px) {
+  .hero__text__wrapper {
+    max-width: 60%;
+    margin: 0rem 6rem;
+  }
+
+  .hero__btn__charter {
+    margin: 3rem 1.5rem 0rem 6rem;
+    gap: 1.5rem;
+  }
+}
+
+@media screen and (min-width: 1915px) {
+  .hero__wrapper {
+    max-width: 75rem;
+    margin: 0 auto;
+  }
+
+  .home,
+  .somos,
+  .hacemos,
+  .convocamos {
+    background-position: right 18rem top 0rem;
+  }
+
+  .hero__text__wrapper {
+    margin: 0rem;
+  }
+
+  .hero__btn__charter {
+    margin: 3rem 1.5rem 0rem 0rem;
+  }
+}
