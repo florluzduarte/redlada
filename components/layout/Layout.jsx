@@ -6,7 +6,7 @@ import Navbar from "./Navbar";
 import Footer from "./Footer";
 
 //Data
-import dataMetatags from "../../data/Layout/dataMetatags.json";
+import dataMetatags from "../../data/Layout/metatagsdata.json";
 
 const Layout = ({ children, color }) => {
   return (
