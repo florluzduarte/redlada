@@ -13,7 +13,7 @@ import { BiUserPin } from "react-icons/bi";
 import styles from "../../styles/Layout/Footer.module.css";
 
 //Data
-import dataFooter from "../../data/Layout/dataFooter.json";
+import dataFooter from "../../data/Layout/footerdata.json";
 
 const { instagram, youtube, facebook } = dataFooter.socialMediaLinks;
 const { institution, realAdress } = dataFooter.adress;
