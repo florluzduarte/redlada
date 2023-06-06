@@ -1,0 +1,89 @@
+.fundacional {
+  padding-bottom: 3rem;
+}
+
+.fundacional__people__container {
+  display: grid;
+  grid-template-columns: 1fr;
+  margin: 0rem 1.5rem;
+  gap: 2.5rem;
+}
+
+.fundacional__people {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.fundacional__people__img {
+  border-radius: 50%;
+  width: 5rem;
+  height: auto;
+  border: 3px solid var(--yellow);
+}
+
+.fundacional__people__text__wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.fundacional__people__name {
+  font-size: 1.125rem;
+  font-weight: 700;
+}
+
+.fundacional__people__country {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.fundacional__people__flag {
+  width: 1.25rem;
+  height: 1.25rem;
+}
+
+@media screen and (max-width: 285px) {
+  .fundacional__people__name {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (min-width: 765px) {
+  .fundacional__people__container {
+    grid-template-columns: 1fr 1fr;
+    margin: 0rem 3rem;
+  }
+}
+
+@media screen and (min-width: 1023px) {
+  .fundacional {
+    padding-bottom: 5rem;
+  }
+
+  .fundacional__people__container {
+    width: 50rem;
+    margin: 0rem auto;
+  }
+
+  .fundacional__people__name {
+    font-size: 1.25rem;
+  }
+}
+
+@media screen and (min-width: 1365px) {
+  .fundacional__people__container {
+    width: 60rem;
+    gap: 4rem;
+  }
+
+  .fundacional__people__img {
+    height: 7.5rem;
+    width: 7.5rem;
+  }
+
+  .fundacional__people__name {
+    font-size: 1.5rem;
+  }
+}

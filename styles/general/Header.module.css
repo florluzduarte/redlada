@@ -9,7 +9,7 @@
   margin: 0rem 1.5rem;
   gap: 3rem;
   padding-bottom: 3rem;
-  border-bottom: 1px solid var(--gray-3);
+  border-bottom: 2px solid var(--gray-3);
 }
 
 .header__title {
@@ -53,5 +53,9 @@
   .header {
     margin: 0rem auto;
     max-width: 75rem;
+  }
+
+  .header__container {
+    margin: 0rem;
   }
 }
