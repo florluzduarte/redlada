@@ -1,3 +1,6 @@
+//Libraries
+import PropTypes from "prop-types";
+
 //Components
 import Button from "./Button.jsx";
 
@@ -25,3 +28,8 @@ const Header = ({ titleSection, btn }) => {
 };
 
 export default Header;
+
+Header.propTypes = {
+  titleSection: PropTypes.string.isRequired,
+  btn: PropTypes.object.isRequired,
+};

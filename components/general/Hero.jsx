@@ -1,3 +1,6 @@
+//Libraries
+import PropTypes from "prop-types";
+
 //Components
 import BtnOrganicCharter from "../somos/BtnOrganicCharter";
 
@@ -40,3 +43,7 @@ const Hero = ({ type }) => {
 };
 
 export default Hero;
+
+Hero.propTypes = {
+  type: PropTypes.string.isRequired,
+};

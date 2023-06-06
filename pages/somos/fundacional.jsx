@@ -1,6 +1,7 @@
 //Components
 import Layout from "@/components/layout/Layout";
 import Header from "@/components/general/Header";
+import PeopleFundacional from "@/components/somos/fundacional/peopleFundacional";
 
 const propsHeader = {
   titleSection: "Grupo fundacional",
@@ -19,6 +20,7 @@ const Fundacional = () => {
   return (
     <Layout>
       <Header titleSection={propsHeader.titleSection} btn={propsHeader.btn} />
+      <PeopleFundacional />
     </Layout>
   );
 };
