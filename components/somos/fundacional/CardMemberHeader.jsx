@@ -3,6 +3,7 @@ import Image from "next/image";
 import { CircleFlag } from "react-circle-flags";
 import { HiOutlineMail } from "react-icons/hi";
 import { TbWorld } from "react-icons/tb";
+import PropTypes from "prop-types";
 
 //Components
 import Spokesman from "../nodos/Spokesman";
@@ -44,7 +45,13 @@ const CardMemberHeader = ({
       />
       <div className={styles.card__personaldata__wrapper}>
         <div className={styles.card__name__wrapper}>
-          <p className={styles.card__name}>
+          <p
+            className={
+              type === "fundacional"
+                ? styles.card__name
+                : styles.card__name__regular
+            }
+          >
             {name} {id === "beatriz-galan" && <small> (Q.E.P.D.)</small>}
           </p>
           {spokesman === true && <Spokesman />}
@@ -54,6 +61,7 @@ const CardMemberHeader = ({
             countryCode={flag.code}
             width={28}
             height={28}
+            alt={flag.alt}
             className={styles.card__flag}
           />
           <p>{country}</p>
@@ -85,3 +93,15 @@ const CardMemberHeader = ({
 };
 
 export default CardMemberHeader;
+
+CardMemberHeader.propTypes = {
+  id: PropTypes.string.isRequired,
+  photo: PropTypes.string.isRequired,
+  name: PropTypes.string.isRequired,
+  flag: PropTypes.object.isRequired,
+  country: PropTypes.string.isRequired,
+  type: PropTypes.string.isRequired,
+  spokesman: PropTypes.bool,
+  email: PropTypes.string,
+  website: PropTypes.array,
+};
