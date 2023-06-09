@@ -1,5 +1,8 @@
 //Components
-import CardMemberHeader from "../fundacional/CardMemberHeader";
+import CardMembersComplete from "../fundacional/CardMembersComplete";
+
+//Styles
+import styles from "../../../styles/somos/nucleo/PeopleNucleo.module.css";
 
 const modelo = {
   id: "malena-pasin",
@@ -11,7 +14,10 @@ const modelo = {
   },
   email: "malena.pasin@gmail.com",
   bio: [
-    "Soy Diseñadora Industrial y Especialista en Metodología de la Investigación Científica, docente e investigadora en grado y posgrado en áreas de Metodología de la investigación. Actualmente, estoy a cargo del CEPRODIDE, centro de investigación en diseño de la Facultad de Arquitectura, Diseño y Urbanismo de la UBA (Argentina) que desarrolla temáticas vinculadas a diseño y desarrollo. El food design, además de atravesar mi vida cotidiana y personal, se involucra con mis experiencias docentes, donde observo y difundo casos sobre Diseño y Alimentos enfocando en los actores involucrados, el momento de aplicación del diseño en la cadena de valor y qué estrategias proyectuales se habilitan, de acuerdo a cada marco conceptual. Participo en la RedLaFD desde el año 2013 y desde 2018, soy Líder de Nodos.",
+    {
+      text: "Soy Diseñadora Industrial y Especialista en Metodología de la Investigación Científica, docente e investigadora en grado y posgrado en áreas de Metodología de la investigación. Actualmente, estoy a cargo del CEPRODIDE, centro de investigación en diseño de la Facultad de Arquitectura, Diseño y Urbanismo de la UBA (Argentina) que desarrolla temáticas vinculadas a diseño y desarrollo. El food design, además de atravesar mi vida cotidiana y personal, se involucra con mis experiencias docentes, donde observo y difundo casos sobre Diseño y Alimentos enfocando en los actores involucrados, el momento de aplicación del diseño en la cadena de valor y qué estrategias proyectuales se habilitan, de acuerdo a cada marco conceptual. Participo en la RedLaFD desde el año 2013 y desde 2018, soy Líder de Nodos.",
+      key: 1,
+    },
   ],
   website: [
     {
@@ -30,17 +36,7 @@ const modelo = {
 const PeopleNucleo = () => {
   return (
     <div>
-      <CardMemberHeader
-        id={modelo.id}
-        name={modelo.name}
-        country={modelo.country}
-        flag={modelo.flag}
-        email={modelo.email}
-        photo={modelo.photo}
-        website={modelo.website}
-        spokesman={modelo.spokesman}
-        type={modelo.type}
-      />
+      <CardMembersComplete member={modelo} type="nucleo" />
     </div>
   );
 };
