@@ -1,11 +1,11 @@
 //Libraries
 import Image from "next/image";
 import Link from "next/link";
-import { CgMenuRightAlt } from "react-icons/cg";
-import { useState } from "react";
+// import { CgMenuRightAlt } from "react-icons/cg";
+// import { useState } from "react";
 
 //Data
-import routeLinks from "../../data/Layout/routing.json";
+// import routeLinks from "../../data/Layout/routing.json";
 
 //Styles
 import styles from "../../styles/Layout/Navbar.module.css";
@@ -14,11 +14,11 @@ import styles from "../../styles/Layout/Navbar.module.css";
 import logo from "../../public/logo-redlada.svg";
 
 const Navbar = () => {
-  const [active, setActive] = useState(false);
+  // const [active, setActive] = useState(false);
 
-  const handleClick = () => {
-    setActive(!active);
-  };
+  // const handleClick = () => {
+  //   setActive(!active);
+  // };
 
   return (
     <nav className={styles.navbar}>
@@ -34,12 +34,12 @@ const Navbar = () => {
               />
             </Link>
           </div>
-          <CgMenuRightAlt
+          {/* <CgMenuRightAlt
             className={styles.navbar__burger}
             onClick={handleClick}
-          />
+          /> */}
         </div>
-        <div
+        {/* <div
           className={`${styles.navbar__links__wrapper} ${
             active === true ? styles.active : ""
           }`}
@@ -51,7 +51,7 @@ const Navbar = () => {
               </li>
             ))}
           </ul>
-        </div>
+        </div> */}
       </div>
     </nav>
   );

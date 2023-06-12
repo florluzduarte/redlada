@@ -1,5 +1,6 @@
 .section {
-  margin: 3rem 0rem;
+  padding: 3rem 0rem;
+  background-color: var(--white);
 }
 
 .section__wrapper {
@@ -38,11 +39,11 @@
 
 @media screen and (min-width: 1023px) {
   .section {
-    margin: 4rem;
+    padding: 4rem;
   }
 
   .section__wrapper {
-    flex-direction: row;
+    flex-direction: row-reverse;
     gap: 4rem;
   }
 
@@ -61,7 +62,11 @@
 
 @media screen and (min-width: 1365px) {
   .section {
-    margin: 4.5rem auto;
+    padding: 4.5rem;
+  }
+
+  .section__wrapper {
+    margin: 0rem auto;
     max-width: 75rem;
   }
 }

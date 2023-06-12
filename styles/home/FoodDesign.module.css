@@ -1,5 +1,6 @@
 .section {
-  margin: 3rem 0rem;
+  padding: 3rem 0rem;
+  background-color: var(--gray-4);
 }
 
 .food {
@@ -35,7 +36,7 @@
 
 @media screen and (min-width: 1023px) {
   .section {
-    margin: 3rem 4rem;
+    padding: 3rem 4rem;
   }
 
   .food {
@@ -45,7 +46,11 @@
 
 @media screen and (min-width: 1365px) {
   .section {
+    padding: 4.5rem auto;
+  }
+
+  .food {
     max-width: 1200px;
-    margin: 4.5rem auto;
+    margin: 0rem auto;
   }
 }
