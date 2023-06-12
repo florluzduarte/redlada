@@ -74,10 +74,18 @@
   color: var(--gray-1);
 }
 
+.card__email__link:hover {
+  color: var(--orange);
+}
+
 .card__website__link {
   display: flex;
   gap: 0.5rem;
   align-items: center;
+}
+
+.card__website__link:hover {
+  color: var(--orange);
 }
 
 .card__website__icon {
@@ -96,6 +104,11 @@
   .card__name {
     font-size: 1.25rem;
   }
+
+  .card__email__link,
+  .card__website__link {
+    font-size: 1.125rem;
+  }
 }
 
 @media screen and (min-width: 1365px) {
@@ -106,5 +119,10 @@
 
   .fcard__name {
     font-size: 1.5rem;
+  }
+
+  .card__container__regular {
+    flex-direction: row;
+    gap: 2rem;
   }
 }

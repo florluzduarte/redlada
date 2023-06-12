@@ -69,7 +69,9 @@ const CardMemberHeader = ({
         {email && (
           <div className={styles.card__email__wrapper}>
             <HiOutlineMail className={styles.card__email__icon} />
-            <p>{email}</p>
+            <a href={`mailto:${email}`} className={styles.card__email__link}>
+              {email}
+            </a>
           </div>
         )}
         {website && (

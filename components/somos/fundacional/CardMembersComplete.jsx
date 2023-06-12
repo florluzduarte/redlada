@@ -19,7 +19,7 @@ const CardMembersComplete = ({ member, type }) => {
         type={type}
         website={member.website}
       />
-      <div>
+      <div className={styles.card__bio}>
         {member.bio.map((paragraph) => (
           <p key={paragraph.key}>{paragraph.text}</p>
         ))}
