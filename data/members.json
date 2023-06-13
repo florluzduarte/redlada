@@ -230,8 +230,12 @@
       "email": "gutierrez.carolina96@uabc.edu.mx",
       "bio": [
         {
-          "text": "Me apasionan los paisajes, la naturaleza y las historias de los ingredientes. Crecí muy cerca del ambiente de la cocina en familia, y disfrute de los paisajes endémicos de mi lugar de origen. Desde chica me despertó la curiosidad por investigar las recetas y jugar con los ingredientes que tenia a la mano. Mi desarrollo por la vida, se ha orientado a esos momentos y experiencias con otras personas, que han compartido su conocimiento y los sabores de sus lugares. Actualmente, sigo preparándome en el campo de la investigación en la alimentación y emprendiendo proyectos. Mi línea de investigación es sobre sistemas alimentarios tradicionales, colaborando con cocineras tradicionales y el paisaje alimentario en Ensenada, desde la perspectiva de sostenibilidad y patrimonio. Mi misión con esto es conectar el diálogo, la participación, las ideas y las historias a través del lenguaje del alimento para un bien común.",
+          "text": "Me apasionan los paisajes, la naturaleza y las historias de los ingredientes. Crecí muy cerca del ambiente de la cocina en familia, y disfrute de los paisajes endémicos de mi lugar de origen. Desde chica me despertó la curiosidad por investigar las recetas y jugar con los ingredientes que tenia a la mano. Mi desarrollo por la vida, se ha orientado a esos momentos y experiencias con otras personas, que han compartido su conocimiento y los sabores de sus lugares.",
           "key": 1
+        },
+        {
+          "text": "Actualmente, sigo preparándome en el campo de la investigación en la alimentación y emprendiendo proyectos. Mi línea de investigación es sobre sistemas alimentarios tradicionales, colaborando con cocineras tradicionales y el paisaje alimentario en Ensenada, desde la perspectiva de sostenibilidad y patrimonio. Mi misión con esto es conectar el diálogo, la participación, las ideas y las historias a través del lenguaje del alimento para un bien común.",
+          "key": 2
         }
       ],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678460229/redlada/core/carolina-gutierrez_wjpmdq.webp",
@@ -288,8 +292,12 @@
       },
       "bio": [
         {
-          "text": "Diseñadora Industrial, Magíster en Lógica y Técnica de la Forma de la Universidad de Buenos Aires. Interesada en el estudio de los materiales y las formas para la generación de proyectos de diseño. Actualmente es docente investigadora de la Línea de Morfología Experimental y coordinadora del área Tecno Productiva del programa de Diseño Industrial de la Universidad Pontificia Bolivariana en Medellín. Allí lidera proyectos de investigación que buscan la generación de nuevas relaciones entre la morfología y los materiales. Recientemente ha desarrollado proyectos en los que se relacionan los alimentos y la morfología.",
+          "text": "Diseñadora Industrial, Magíster en Lógica y Técnica de la Forma de la Universidad de Buenos Aires. Interesada en el estudio de los materiales y las formas para la generación de proyectos de diseño.",
           "key": 1
+        },
+        {
+          "text": "Actualmente es docente investigadora de la Línea de Morfología Experimental y coordinadora del área Tecno Productiva del programa de Diseño Industrial de la Universidad Pontificia Bolivariana en Medellín. Allí lidera proyectos de investigación que buscan la generación de nuevas relaciones entre la morfología y los materiales. Recientemente ha desarrollado proyectos en los que se relacionan los alimentos y la morfología.",
+          "key": 2
         }
       ],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1683058219/redlada/core/diana-urdinola_ez6hxe.webp",
@@ -383,8 +391,12 @@
       "email": "malena.pasin@gmail.com",
       "bio": [
         {
-          "text": "Soy Diseñadora Industrial y Especialista en Metodología de la Investigación Científica, docente e investigadora en grado y posgrado en áreas de Metodología de la investigación. Actualmente, estoy a cargo del CEPRODIDE, centro de investigación en diseño de la Facultad de Arquitectura, Diseño y Urbanismo de la UBA (Argentina) que desarrolla temáticas vinculadas a diseño y desarrollo. El food design, además de atravesar mi vida cotidiana y personal, se involucra con mis experiencias docentes, donde observo y difundo casos sobre Diseño y Alimentos enfocando en los actores involucrados, el momento de aplicación del diseño en la cadena de valor y qué estrategias proyectuales se habilitan, de acuerdo a cada marco conceptual. Participo en la RedLaFD desde el año 2013 y desde 2018, soy Líder de Nodos.",
+          "text": "Soy Diseñadora Industrial y Especialista en Metodología de la Investigación Científica, docente e investigadora en grado y posgrado en áreas de Metodología de la investigación. Actualmente, estoy a cargo del CEPRODIDE, centro de investigación en diseño de la Facultad de Arquitectura, Diseño y Urbanismo de la UBA (Argentina) que desarrolla temáticas vinculadas a diseño y desarrollo.",
           "key": 1
+        },
+        {
+          "text": "El food design, además de atravesar mi vida cotidiana y personal, se involucra con mis experiencias docentes, donde observo y difundo casos sobre Diseño y Alimentos enfocando en los actores involucrados, el momento de aplicación del diseño en la cadena de valor y qué estrategias proyectuales se habilitan, de acuerdo a cada marco conceptual. Participo en la RedLaFD desde el año 2013 y desde 2018, soy Líder de Nodos.",
+          "key": 2
         }
       ],
       "website": [
@@ -530,8 +542,12 @@
       "email": "malena.pasin@gmail.com",
       "bio": [
         {
-          "text": "Soy Diseñadora Industrial y Especialista en Metodología de la Investigación Científica, docente e investigadora en grado y posgrado en áreas de Metodología de la investigación. Actualmente, estoy a cargo del CEPRODIDE, centro de investigación en diseño de la Facultad de Arquitectura, Diseño y Urbanismo de la UBA (Argentina) que desarrolla temáticas vinculadas a diseño y desarrollo. El food design, además de atravesar mi vida cotidiana y personal, se involucra con mis experiencias docentes, donde observo y difundo casos sobre Diseño y Alimentos enfocando en los actores involucrados, el momento de aplicación del diseño en la cadena de valor y qué estrategias proyectuales se habilitan, de acuerdo a cada marco conceptual. Participo en la RedLaFD desde el año 2013 y desde 2018, soy Líder de Nodos.",
+          "text": "Soy Diseñadora Industrial y Especialista en Metodología de la Investigación Científica, docente e investigadora en grado y posgrado en áreas de Metodología de la investigación. Actualmente, estoy a cargo del CEPRODIDE, centro de investigación en diseño de la Facultad de Arquitectura, Diseño y Urbanismo de la UBA (Argentina) que desarrolla temáticas vinculadas a diseño y desarrollo.",
           "key": 1
+        },
+        {
+          "text": "El food design, además de atravesar mi vida cotidiana y personal, se involucra con mis experiencias docentes, donde observo y difundo casos sobre Diseño y Alimentos enfocando en los actores involucrados, el momento de aplicación del diseño en la cadena de valor y qué estrategias proyectuales se habilitan, de acuerdo a cada marco conceptual. Participo en la RedLaFD desde el año 2013 y desde 2018, soy Líder de Nodos.",
+          "key": 2
         }
       ],
       "website": [
@@ -899,8 +915,12 @@
       },
       "bio": [
         {
-          "text": "Diseñadora Industrial, Magíster en Lógica y Técnica de la Forma de la Universidad de Buenos Aires. Interesada en el estudio de los materiales y las formas para la generación de proyectos de diseño. Actualmente es docente investigadora de la Línea de Morfología Experimental y coordinadora del área Tecno Productiva del programa de Diseño Industrial de la Universidad Pontificia Bolivariana en Medellín. Allí lidera proyectos de investigación que buscan la generación de nuevas relaciones entre la morfología y los materiales. Recientemente ha desarrollado proyectos en los que se relacionan los alimentos y la morfología.",
+          "text": "Diseñadora Industrial, Magíster en Lógica y Técnica de la Forma de la Universidad de Buenos Aires. Interesada en el estudio de los materiales y las formas para la generación de proyectos de diseño.",
           "key": 1
+        },
+        {
+          "text": "Actualmente es docente investigadora de la Línea de Morfología Experimental y coordinadora del área Tecno Productiva del programa de Diseño Industrial de la Universidad Pontificia Bolivariana en Medellín. Allí lidera proyectos de investigación que buscan la generación de nuevas relaciones entre la morfología y los materiales. Recientemente ha desarrollado proyectos en los que se relacionan los alimentos y la morfología.",
+          "key": 2
         }
       ],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1683058219/redlada/core/diana-urdinola_ez6hxe.webp",
@@ -1130,8 +1150,12 @@
       "email": "gutierrez.carolina96@uabc.edu.mx",
       "bio": [
         {
-          "text": "Me apasionan los paisajes, la naturaleza y las historias de los ingredientes. Crecí muy cerca del ambiente de la cocina en familia, y disfrute de los paisajes endémicos de mi lugar de origen. Desde chica me despertó la curiosidad por investigar las recetas y jugar con los ingredientes que tenia a la mano. Mi desarrollo por la vida, se ha orientado a esos momentos y experiencias con otras personas, que han compartido su conocimiento y los sabores de sus lugares. Actualmente, sigo preparándome en el campo de la investigación en la alimentación y emprendiendo proyectos. Mi línea de investigación es sobre sistemas alimentarios tradicionales, colaborando con cocineras tradicionales y el paisaje alimentario en Ensenada, desde la perspectiva de sostenibilidad y patrimonio. Mi misión con esto es conectar el diálogo, la participación, las ideas y las historias a través del lenguaje del alimento para un bien común.",
+          "text": "Me apasionan los paisajes, la naturaleza y las historias de los ingredientes. Crecí muy cerca del ambiente de la cocina en familia, y disfrute de los paisajes endémicos de mi lugar de origen. Desde chica me despertó la curiosidad por investigar las recetas y jugar con los ingredientes que tenia a la mano. Mi desarrollo por la vida, se ha orientado a esos momentos y experiencias con otras personas, que han compartido su conocimiento y los sabores de sus lugares.",
           "key": 1
+        },
+        {
+          "text": "Actualmente, sigo preparándome en el campo de la investigación en la alimentación y emprendiendo proyectos. Mi línea de investigación es sobre sistemas alimentarios tradicionales, colaborando con cocineras tradicionales y el paisaje alimentario en Ensenada, desde la perspectiva de sostenibilidad y patrimonio. Mi misión con esto es conectar el diálogo, la participación, las ideas y las historias a través del lenguaje del alimento para un bien común.",
+          "key": 2
         }
       ],
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678460229/redlada/core/carolina-gutierrez_wjpmdq.webp",
