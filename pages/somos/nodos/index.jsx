@@ -2,7 +2,7 @@
 import Layout from "../../../components/layout/Layout";
 import Header from "../../../components/general/Header";
 import NavigationMembers from "@/components/general/NavigationMembers";
-import CardCountryFlag from "@/components/somos/nodos/CardCountryFlag";
+import CardsFlag from "@/components/somos/nodos/CardsFlag";
 
 const propsHeader = {
   titleSection: "Nodos",
@@ -21,7 +21,7 @@ const Nodos = () => {
   return (
     <Layout>
       <Header btn={propsHeader.btn} titleSection={propsHeader.titleSection} />
-      <CardCountryFlag />
+      <CardsFlag />
       <NavigationMembers btn={propsHeader.btn} />
     </Layout>
   );
