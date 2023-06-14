@@ -1,9 +1,22 @@
+//Components
+import LayoutNodos from "@/components/somos/nodos/LayoutNodos";
+
+const propsHeader = {
+  titleSection: "Nodo Argentina",
+  country: "Argentina",
+  btn: {
+    titleBtn: "Volver a Nodos",
+    href: "/somos/nodos",
+    icon: {
+      position: "left",
+      type: "regular",
+    },
+    color: "pink",
+  },
+};
+
 const Argentina = () => {
-  return (
-    <>
-      <h1>Nodo Argentina</h1>
-    </>
-  );
+  return <LayoutNodos propsHeader={propsHeader} />;
 };
 
 export default Argentina;

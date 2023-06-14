@@ -4,6 +4,17 @@
   margin: 0rem 1.25rem;
   gap: 3rem;
   margin-bottom: 3rem;
+  min-height: 50vh;
+}
+
+.people__not__found {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.people__not__found__email:hover {
+  color: var(--orange);
 }
 
 @media screen and (min-width: 765px) {
