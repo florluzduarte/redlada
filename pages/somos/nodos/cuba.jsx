@@ -2,7 +2,7 @@
 import LayoutNodos from "@/components/somos/nodos/LayoutNodos";
 
 const propsHeader = {
-  titleSection: "Nodo Cuba",
+  titleSection: "Nodos - Cuba",
   country: "Cuba",
   btn: {
     titleBtn: "Volver a Nodos",

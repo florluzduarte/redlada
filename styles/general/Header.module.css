@@ -12,6 +12,12 @@
   border-bottom: 2px solid var(--gray-3);
 }
 
+.header__title__container {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
 .header__title {
   text-align: center;
 }
@@ -31,7 +37,11 @@
     flex-direction: row;
     justify-content: space-between;
     margin: 0rem 3rem;
-    align-items: center;
+    align-items: flex-start;
+  }
+
+  .header__title__container {
+    max-width: 60%;
   }
 
   .header__button {
