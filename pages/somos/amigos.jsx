@@ -1,6 +1,15 @@
 //Componentes
 import Layout from "@/components/layout/Layout";
 import Header from "@/components/general/Header";
+import BtnMediaLinks from "@/components/convocamos/BtnMediaLinks";
+import NavigationMembers from "@/components/general/NavigationMembers";
+
+//Data
+import headerDescription from "../../data/somos/headerDescription.json";
+import btnData from "../../data/convocamos/btnMediaLinks.json";
+
+//Styles
+import styles from "../../styles/somos/amigos/amigos.module.css";
 
 const propsHeader = {
   titleSection: "Amigos",
@@ -18,16 +27,19 @@ const propsHeader = {
 const Amigos = () => {
   return (
     <Layout>
-      <Header titleSection={propsHeader.titleSection} btn={propsHeader.btn}>
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla
-          officia atque reprehenderit eius minima animi at quos eligendi totam
-          iusto tenetur, ratione hic amet? Praesentium iste tempora, magnam
-          minus mollitia iusto impedit sint quae quam similique, animi veritatis
-          alias repudiandae facere aut numquam? Quis quisquam odio iure
-          explicabo debitis accusamus?
-        </p>
-      </Header>
+      <div className={styles.amigos__container}>
+        <Header titleSection={propsHeader.titleSection} btn={propsHeader.btn}>
+          <p>{headerDescription.amigos}</p>
+        </Header>
+        <div className={styles.media__container}>
+          <div className={styles.mediaBtn__container}>
+            {btnData.map(({ key, title, href, icon }) => (
+              <BtnMediaLinks key={key} title={title} href={href} icon={icon} />
+            ))}
+          </div>
+        </div>
+        <NavigationMembers btn={propsHeader.btn} />
+      </div>
     </Layout>
   );
 };
