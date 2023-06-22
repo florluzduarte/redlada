@@ -1,0 +1,53 @@
+.alianzas__section {
+  padding: 0rem 1.5rem;
+}
+
+.alianzas__container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 3rem;
+}
+
+.alianzas__img {
+  width: 100%;
+  height: auto;
+}
+
+@media screen and (max-width: 285px) {
+  .alianzas__container {
+    grid-template-columns: 1fr;
+    gap: 0rem;
+  }
+}
+
+@media screen and (min-width: 765px) {
+  .alianzas__section {
+    padding: 0rem 3rem;
+  }
+
+  .alianzas__container {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 2rem;
+  }
+}
+
+@media screen and (min-width: 1023px) {
+  .alianzas__section {
+    padding: 0rem;
+  }
+
+  .alianzas__container {
+    margin: 0rem auto;
+    max-width: 46rem;
+    margin-bottom: 5rem;
+  }
+}
+
+@media screen and (min-width: 1365px) {
+  .alianzas__container {
+    max-width: 60rem;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    gap: 3rem;
+  }
+}

@@ -10,7 +10,13 @@ import styles from "../../styles/general/Header.module.css";
 const Header = ({ titleSection, btn, children }) => {
   return (
     <header className={styles.header}>
-      <div className={styles.header__container}>
+      <div
+        className={
+          children
+            ? styles.header__container__children
+            : styles.header__container
+        }
+      >
         <div className={styles.header__title__container}>
           <h1 className={`${styles.header__title} ${btn.color}`}>
             {titleSection}
