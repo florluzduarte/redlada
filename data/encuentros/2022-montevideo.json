@@ -1,0 +1,230 @@
+{
+  "intro": {
+    "textOne": {
+      "title": "Un ciclo de 10 años",
+      "paragraphs": [
+        {
+          "text": "En la décima edición del Encuentro Latinoamericano de Food Design y a modo de cierre e inicio de ciclos, nos interesa visualizar y reflexionar sobre el caleidoscopio de prácticas y abordajes a las transformaciones de los (eco)sistemas alimentarios que existen hoy en la región, y cómo éstas adquieren una impronta contextualizada que está siendo o podría ser nutrida por el diseño (food design) y sus sinergias.",
+          "key": 1
+        },
+        {
+          "text": "En este encuentro nos interesa abrir un foro de diálogo, colaboración, aprendizaje y co-creación de saberes. Buscamos identificar convergencias diversas ante diferencias comunes, para poder generar sinergias que nos ayuden a asegurar futuros alimentarios apropiados a nuestra región.",
+          "key": 2
+        },
+        {
+          "text": "Buscamos amplificar la pluralidad de miradas y sabidurías existentes en nuestros territorios y que desde diferentes ámbitos de acción y entendimiento, amplifican la creatividad para pasar de la visión a la acción. Con este fin, el foro académico adopta un modo diabólico en vez de expositivo. Buscamos resaltar el sentido de encuentro para motivar el intercambio en múltiples direcciones.",
+          "key": 3
+        }
+      ]
+    }
+  },
+  "indice": {
+    "chapterOne": {
+      "title": "Capítulo 1",
+      "subtitle": "Compilado de Ensayos",
+      "papers": [
+        {
+          "title": "Materia de Pan: Paralelismo entre Diseño y Pan Artesanal.",
+          "author": "Por Viviana Moreno Troconis",
+          "key": 1
+        },
+        {
+          "title": "Mesa de la Abundancia… Una oportunidad para la Alimentación Consciente.",
+          "author": "Por Santiago Ríos Benjumea y Miriam Cristina Berrío Álvarez",
+          "key": 2
+        },
+        {
+          "title": "Testimonio de Proyecto de Posgrado en BioCiencias Alimentarias, Opción Biotecnología y Opción: Alimentos y Nutrición.",
+          "author": "Por Annabela Estévez, Pia Grignola, Valentina Bartaburu y Marianela Cremona",
+          "key": 3
+        },
+        {
+          "title": "La Innovación en nuestra alimentación como efecto de la migración.",
+          "author": "Por Rodrigo Brito",
+          "key": 4
+        },
+        {
+          "title": "La Gastronomía como vector de transformación social.",
+          "author": "Por Álvaro Pena, Paula Mosera, Francisco Pons, y Virginia Varela",
+          "key": 5
+        },
+        {
+          "title": "Economía Circular: Aplicación De Value Proposition Designer Canvas Para Desarrollar Propuestas De Food Design Con Residuos De La Industria Olivícola.",
+          "author": "Por Marco Schwartz M.,  Werther Kern F. y Ricardo Marchant S.",
+          "key": 6
+        },
+        {
+          "title": "Experiencias de consumo consciente y diferente - Workshop.",
+          "author": "Por Sandra Ruiz Díaz y Fernando Brítez",
+          "key": 7
+        },
+        {
+          "title": "Cocina Emprendedora y Comunitaria.",
+          "author": "Por Annabela Estévez, Valentina Bartaburu, Victoria Panzl, Marianela Cremona, Diego Bugaiov, Angelina Carballo, Emily Tavárez, Tatiana Pedreira y Narella Barbieri.",
+          "key": 8
+        },
+        {
+          "title": "¿Y si cambiamos el comienzo de la historia? Aportes desde el diseño a la mejora de la nutrición infantil.",
+          "author": "Por D.I. Fabiana Ardao, PhD Arq. Rosita De Lisi, Lic. Patricia Larrosa y Lic. Leticia Varela",
+          "key": 9
+        },
+        {
+          "title": "Microalgas como alternativa potencial en la alimentación y suplementación alimenticia.",
+          "author": "Por Prof. Dr. Luis G. Ramírez Mérida y Prof. Dr. Richard Rodríguez",
+          "key": 10
+        },
+        {
+          "title": "Trascender la Olla.",
+          "author": "Por DI. Tania Gazzola y tutora: D.I. Carolina Poradosú",
+          "key": 11
+        },
+        {
+          "title": "Pescando Transformaciones hacia la sustentabilidad: procesos transdisciplinares desde la pesca artesanal.",
+          "author": "Por Ignacio Gianelli, Micaela Trimble, Silvana Juri, Sofía Rosa, Nazarena Beretta, Denisse Torena y Sebastián Villasante.",
+          "key": 12
+        },
+        {
+          "title": "Explorando nodos culinarios: agentes, sabores y territorio.",
+          "author": "Por María Cristina Ascuntar Rivera",
+          "key": 13
+        },
+        {
+          "title": "Co-creación como herramienta para la generación de mensajes orientados a reducir el consumo de sal discrecional en la población uruguaya: aportes interdisciplinarios para el diseño de una estrategia de comunicación.",
+          "author": "Por Cecilia Marrero, Leticia Varela y Lucía Antúnez",
+          "key": 14
+        }
+      ]
+    },
+    "chapterTwo": {
+      "title": "Capítulo 2",
+      "subtitle": "Compilado de Pósters",
+      "papers": [
+        {
+          "title": "El diseño de alimentos como método para agregar impacto social en emprendimientos del sector de alimentos.",
+          "author": "Por Estación Cacao",
+          "key": 1
+        },
+        {
+          "title": "Escenarios alimentarios. Reflexiones acerca de la dimensión sensible en relación al diseño y alimentos.",
+          "author": "Por Malena Pasin y Lautaro Safón Perez",
+          "key": 2
+        },
+        {
+          "title": "Experiencia Food Design.",
+          "author": "Por Yanina M. Ruarte, Leandro Minguez y Ángel Peralta",
+          "key": 3
+        },
+        {
+          "title": "Materia de Pan. Un método que combina el pan con el diseño.",
+          "author": "Por Viviana Moreno Troconis",
+          "key": 4
+        },
+        {
+          "title": "Experiencias de consumo consciente y diferente del alimento",
+          "author": "Por D.I. Fernando Britez y MBA Sandra Ruíz Díaz",
+          "key": 5
+        },
+        {
+          "title": "Circuitos cortos de comercialización de 24 especies con potencial para la agricultura urbana en Bogotá",
+          "author": "Por Laura Cabrera-Tellez, Ángela Mancera y Juliana Cepeda-Valencia",
+          "key": 6
+        },
+        {
+          "title": "Bioplásticos, desechos de alimentos y posibles aplicaciones de Fabricación Digital",
+          "author": "Por Paula Enciso, Ángelo Ferrari, Sofía Horjales, Ivana Marsicano, Rossana Mántaras, Florencia Palma, Natalia Suárez y Carolina Vignoli",
+          "key": 7
+        },
+        {
+          "title": "Reconocimiento e innovación de 14 especies de agricultura urbana con poco uso y mucho potencial en la ciudad de Bogotá",
+          "author": "Por Ángela Macera, Laura Cabrera-Tellez y Juliana Cepeda-Valencia",
+          "key": 8
+        },
+        {
+          "title": "Okaritas. Del desecho al alimento",
+          "author": "Por Sofía Belloso y Paula Kaplan",
+          "key": 9
+        },
+        {
+          "title": "Sistemas alternativos de alimentación bovina para producción de leche",
+          "author": "Por Prof. Dr. Richard Rodríguez y Prof. Dr. Luis G. Ramírez Mérida",
+          "key": 10
+        },
+        {
+          "title": "Obtención de extractos naturales del fruto nativo Eugenia Uniflora L. con fines alimentarios y cosméticos",
+          "author": "Por Bruno Silva",
+          "key": 11
+        },
+        {
+          "title": "Laboratorio de diseño y gestión de proyectos comunitarios locales desde la innovación y la pedagogía. Cacaotiando - Tumaco",
+          "author": "Director: Profesor William Vásquez Rodríguez. Equipo de trabajo: Yenny Andrea  Bueno, Ana María Segura Niño, Lisbeth Meneses Casas y Joan Cortes Sinisterra.",
+          "key": 12
+        },
+        {
+          "title": "Mesa de la Abundancia Colegiatura",
+          "author": "Por Colegiatura",
+          "key": 13
+        },
+        {
+          "title": "Historias envueltas en Bijao Una experiencia desde la Academia",
+          "author": "Por Carlos Antonio Rada Solano Coautores: Farid Miguel de la Asunción Hernández y Christiam Alonso Castro Escalante",
+          "key": 14
+        },
+        {
+          "title": "Desde la docencia universitaria, acciones para contribuir a la Seguridad Alimentaria en el cono sur del Departamento del Atlántico - Colombia",
+          "author": "Por Fernando Avendaño Celedón,  Myriam Polo Rivera, Angie Serrano Meléndez y Carlos Garrido Piñeres",
+          "key": 15
+        },
+        {
+          "title": "El proyecto integrador. Estrategia pedagógica para mejorar la relación con los alimentos en región",
+          "author": "Por Ingrid Ballesta Rodríguez, Esperanza Flórez Fernández, Angelica Peluffo Rivera, Mirtha Valdés Altamar, Carlos Garrido Piñeres y  Ronald Tejada Tovar",
+          "key": 16
+        },
+        {
+          "title": "Diseño de nuevos productos lácteos - práctica de abordaje académico en Nutrición y diseño de productos lácteos",
+          "author": "Por Techeira Nora, Infante Inés, Keel Karen y Tomás López",
+          "key": 17
+        },
+        {
+          "title": "Entrenamiento de jueces sensoriales para la evaluación de dulce de leche",
+          "author": "Por Antonela Zugnoni, Nora Techeira, Karen Keel y Tomás López",
+          "key": 18
+        },
+        {
+          "title": "Dulces objetos comestibles. Forma-función en golosinas tradicionales argentinas",
+          "author": "Por Abraham, Barrientos, Gómez, López y Trucco",
+          "key": 19
+        },
+        {
+          "title": "Diseño de alimentos desde una perspectiva nutricional",
+          "author": "Por Lic. Nut. Silvia Gigante, Lic. Nut. Allyson Gómez e Ing. Alim. Sofía Vargha",
+          "key": 20
+        },
+        {
+          "title": "Desarrollo de productos para adultos mayores a través de la metodología de design thinking",
+          "author": "Por María Noel González, Analía Martínez, Ana Inés Moltini, Victoria Olt y Sofía Vargha",
+          "key": 21
+        },
+        {
+          "title": "Tubérculos Andinos en la localidad de Sumapaz",
+          "author": "Por Instituto para la Economía Social - IPES",
+          "key": 22
+        },
+        {
+          "title": "Fácua. Bebida nacida del oro hijo del sol",
+          "author": "Por Oscar Javier Chacón Carlos",
+          "key": 23
+        },
+        {
+          "title": "Projeto aberto de fotografia",
+          "author": "Por Elisangela Lobo Schirigatti, Gabriela Bonilha y Lisa Mombach Schmidt",
+          "key": 24
+        },
+        {
+          "title": "Projeto aproveita",
+          "author": "Por Elisangela Lobo Schirigatti, Gabriela Bonilha y Carolina Pereira Rodriges",
+          "key": 25
+        }
+      ]
+    }
+  }
+}
