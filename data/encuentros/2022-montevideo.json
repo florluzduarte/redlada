@@ -1,6 +1,6 @@
 {
-  "intro": {
-    "textOne": {
+  "intro": [
+    {
       "title": "Un ciclo de 10 años",
       "paragraphs": [
         {
@@ -15,11 +15,12 @@
           "text": "Buscamos amplificar la pluralidad de miradas y sabidurías existentes en nuestros territorios y que desde diferentes ámbitos de acción y entendimiento, amplifican la creatividad para pasar de la visión a la acción. Con este fin, el foro académico adopta un modo diabólico en vez de expositivo. Buscamos resaltar el sentido de encuentro para motivar el intercambio en múltiples direcciones.",
           "key": 3
         }
-      ]
+      ],
+      "key": 1
     }
-  },
-  "indice": {
-    "chapterOne": {
+  ],
+  "indice": [
+    {
       "title": "Capítulo 1",
       "subtitle": "Compilado de Ensayos",
       "papers": [
@@ -93,9 +94,10 @@
           "author": "Por Cecilia Marrero, Leticia Varela y Lucía Antúnez",
           "key": 14
         }
-      ]
+      ],
+      "key": 1
     },
-    "chapterTwo": {
+    {
       "title": "Capítulo 2",
       "subtitle": "Compilado de Pósters",
       "papers": [
@@ -224,7 +226,8 @@
           "author": "Por Elisangela Lobo Schirigatti, Gabriela Bonilha y Carolina Pereira Rodriges",
           "key": 25
         }
-      ]
+      ],
+      "key": 2
     }
-  }
+  ]
 }
