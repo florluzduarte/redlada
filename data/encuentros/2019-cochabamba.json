@@ -77,5 +77,274 @@
       "key": 2
     }
   ],
-  "indice": []
+  "indice": [
+    {
+      "title": "Capítulo 1",
+      "subtitle": "Bienvenidos y agradecimientos",
+      "key": 1
+    },
+    {
+      "title": "Capítulo 2",
+      "subtitle": "Aportes Red Latinoamericana de Food Design - Charlas y conferencias",
+      "papers": [
+        {
+          "title": "Jornadas de la RedLaFD 2019",
+          "author": "Por Andrés Sicard Currea",
+          "key": 1
+        },
+        {
+          "title": "Bienvenidos al Food Design (Diseño y Alimentos): un compendio de referencia",
+          "author": "Por Pedro Reissig, PhD",
+          "key": 2
+        },
+        {
+          "title": "Estamos aquí por la torta “Food Design”",
+          "author": "Por Bethânia Alcázar",
+          "key": 3
+        },
+        {
+          "title": "Jornada interna de la Red",
+          "author": "Por Agustina Vitola",
+          "key": 4
+        },
+        {
+          "title": "Material de trabajo para jornada interna de la RED",
+          "author": "Por Luiz Mileck",
+          "key": 5
+        },
+        {
+          "title": "Etnografía y el Food Design sistémico",
+          "author": "Por Fabio Parasecoli",
+          "key": 6
+        },
+        {
+          "title": "Representaciones del comensal para el Food Design y la gastronomía creativa",
+          "author": "Por Yaiza Ágata Bocos Mirabella",
+          "key": 7
+        },
+        {
+          "title": "In the mood for soup. Sobre cómo transmitir lo performativo del acto de comer",
+          "author": "Por Pilar Talavera",
+          "key": 8
+        },
+        {
+          "title": "Transicionando hacia pluriversos alimentarios sabios y sustentables",
+          "author": "Por Silvana Juri",
+          "key": 9
+        },
+        {
+          "title": "Alimentario: generación, transformación y lectura de formas comestibles",
+          "author": "Por Pedro Reissig, PhD",
+          "key": 10
+        },
+        {
+          "title": "Mundo en boca",
+          "author": "Por Julia de Luis",
+          "key": 11
+        },
+        {
+          "title": "The new gastronome",
+          "author": "Por www.thenewgastronome.com",
+          "key": 12
+        },
+        {
+          "title": "El asco como dimensión estética en la cultura alimentaria",
+          "author": "Por Andrés Sicard Currea, Colaboran: D.I. Natalia Guzmán Castañeda, D.I. Nicolás Martínez",
+          "key": 13
+        },
+        {
+          "title": "¿Por qué la comida necesita diseño?",
+          "author": "Por Sonia Massari, PhD",
+          "key": 14
+        },
+        {
+          "title": "La gastronomía postergada. A propósito de Transition Menu (2013) de Martí Guixé",
+          "author": "Por Jeffrey Swartz",
+          "key": 15
+        },
+        {
+          "title": "El rol de los mercados informales de comida",
+          "author": "Por Marcelo Collao Grandi",
+          "key": 16
+        },
+        {
+          "title": "Food Design y conocimiento. Proyectos Elbulli",
+          "author": "Por Albert Fuster i Martí",
+          "key": 17
+        }
+      ],
+      "key": 2
+    },
+    {
+      "title": "Capítulo 3",
+      "subtitle": "Convocatoria RedLaFD",
+      "papers": [
+        {
+          "title": "A fuego lento",
+          "author": "Por Rocha, Aline & Silva, Bastián",
+          "key": 1
+        },
+        {
+          "title": "Allullas: Panes tradicionales, un patrimonio gastronómico de Nariño, Colombia",
+          "author": "Por David Emmanuel Cabrera Ordoñez",
+          "key": 2
+        },
+        {
+          "title": "Biodiversidad para la soberanía alimentaria. Estudio de caso Vereda Llano Blanco, Villa de Leyva, Boyacá",
+          "author": "Por Angela Maria Zuluaga y Juliana Mendez",
+          "key": 3
+        },
+        {
+          "title": "Emergencia en la cultura nutricional y alimentaria de Boyacá",
+          "author": "Por Aydée Liliana Ospina Nigrinis y Fabio Aldemar Gómez Sierra",
+          "key": 4
+        },
+        {
+          "title": "Cuando el diseño nos interpela. Caso de comunicación visual para la red agroecológica de la ciudad de Asunción",
+          "author": "Por Jazmín Troche y Valeria Agüero",
+          "key": 5
+        },
+        {
+          "title": "Contribuição do design em processos criativos para a formação de gastrônomos",
+          "author": "Por Ana Cássia Langsch Miguel, Filipe Campelo Xavier da Costa y Bruna Chiaradia",
+          "key": 6
+        },
+        {
+          "title": "Mujeres y alimentación: La base de la vida",
+          "author": "Por Nicole Szucs Guzmán",
+          "key": 7
+        },
+        {
+          "title": "La alimentación como una herramienta de transformación social. (La experiencia La Casa de les Ningunes y el nacimiento del Movimiento de Comida Consciente)",
+          "author": "Por Ángela Guerra S. y Apniuq (Ariel A. De la Rocha G.)",
+          "key": 8
+        },
+        {
+          "title": "Trascendencia de las huertas urbanas y peri-urbanas  para la superación de la pobreza extrema. Caso Bello Oriente-Medellín.",
+          "author": "Por Eliana Zapata Ruiz y Erika Solange Imbett Vargas",
+          "key": 9
+        },
+        {
+          "title": "La quinua: un mundo por re-descubrir",
+          "author": "Por Susan Parra, María Cristina Rojas y Soledad Rueda",
+          "key": 10
+        },
+        {
+          "title": "Labrando saberes",
+          "author": "Por Daniel Felipe Martínez Galíndez, Ángela María Pereira Ceballos, Daniela Restrepo Martínez y Diego Fernando Sandoval Vidal",
+          "key": 11
+        },
+        {
+          "title": "Estudio desde el diseño gráfico de la cultura alimentaria colombiana presente en el gran libro de la cocina colombiana. Caso de estudio: Ñame",
+          "author": "Por Liliana Orjuela Ortiz",
+          "key": 12
+        },
+        {
+          "title": "Método Avo: Es tiempo de comer mejor",
+          "author": "Por Lic. DI. Pablo José Hernández Fuentes",
+          "key": 13
+        },
+        {
+          "title": "La implementación de la agricultura urbana como estrategia  de renovación y articulación de áreas vulnerables. Complejo de Investigación y Formación para la Agricultura Urbana en Chimbas. San Juan, Argentina",
+          "author": "Por Cecilia María Rosés y Gabriel David Ruiz Araoz",
+          "key": 14
+        },
+        {
+          "title": "Operis",
+          "author": "Por Ana María Amaya, Nathalia Ávila,  Santiago Ávila, Camilo Cujer y Daniela Villarraga",
+          "key": 15
+        },
+        {
+          "title": "Pleasure: The Future Of Food",
+          "author": "Por Nicole Vindel, Carlos J Navarro, Gastón Lisak and the team from Random Happiness",
+          "key": 16
+        },
+        {
+          "title": "Reaprovechalo",
+          "author": "Por Claribel Torrico Muñoz",
+          "key": 17
+        },
+        {
+          "title": "Ruta logística: Juego para la introducción de nociones en logística agroalimentaria",
+          "author": "Por D.I. Nicolás Martínez Ramírez, MII. Juan Pablo Castrellon Torres y Ing. I. Luisa Fernanda Rojas Huérfano",
+          "key": 18
+        },
+        {
+          "title": "Soy mamá y también cocino",
+          "author": "Por D.I. Fabiana Ardao Piccardo y Lic. Virginia Natero",
+          "key": 19
+        },
+        {
+          "title": "Taco-Morfología: Tecno-morfología de 10 antojitos tradicionales mexicanos",
+          "author": "Por Miguel Rolando Ruiz Diaz y Andrés Javier Jiménez Martinez",
+          "key": 20
+        },
+        {
+          "title": "Teko-Kavi: Infusiones inspiradas en Bolivia, su tierra y sus tradiciones",
+          "author": "Por Dragomir N. Tadic Lazaneo",
+          "key": 21
+        },
+        {
+          "title": "Tsuru",
+          "author": "Por María Paulina Echeverri Valle y Gustavo Adolfo Alzate Patiño",
+          "key": 22
+        },
+        {
+          "title": "Food Design In Gastronomy: The Evolution Of An Idea",
+          "author": "Por Ricardo Yudi Akiyoshi y Filipe Campelo Xavier da Costa",
+          "key": 23
+        }
+      ],
+      "key": 3
+    },
+    {
+      "title": "Capítulo 4",
+      "subtitle": "Talleres",
+      "papers": [
+        {
+          "title": "FDxE 11: Universidad del Valle, Cochabamba, Bolivia, 28 de agosto 2019",
+          "author": "Por Pedro Reissig y Andrés Sicard",
+          "key": 1
+        },
+        {
+          "title": "El gesto de comer: Taller vivencial",
+          "author": "Por Yaiza Ágata Bocos Mirabella",
+          "key": 2
+        },
+        {
+          "title": "Memorias gustativas: Recuerdos, relatos, nostalgias y sensibilidades alrededor del alimento",
+          "author": "Por Natalia Guzmán Castañeda",
+          "key": 3
+        }
+      ],
+      "key": 4
+    },
+    {
+      "title": "Capítulo 5",
+      "subtitle": "Cultura Food Design",
+      "papers": [
+        {
+          "title": "CONEXIONES: Transformadoras del universo alimentario y nuestra relación con él",
+          "author": "Por DI. Matilde Lombardi, Colaboran: Natalia Guzmán (Ilustración Alimentarius “Pan”), Marianela Ruarte (edición Intravistas),  Andrea Stambuck y equipo.",
+          "key": 1
+        },
+        {
+          "title": "El ojo optimista",
+          "author": "Por Agencia DeMorfa",
+          "key": 2
+        }
+      ],
+      "key": 5
+    },
+    {
+      "title": "Capítulo 6",
+      "subtitle": "Congreso de creatividad gastronómica y diseño",
+      "key": 6
+    },
+    {
+      "title": "Capítulo 7",
+      "subtitle": "Registro fotográfico",
+      "key": 7
+    }
+  ]
 }

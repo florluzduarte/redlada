@@ -1,0 +1,388 @@
+{
+  "intro": [
+    {
+      "title": "Resumen",
+      "paragraphs": [
+        {
+          "text": "Entre el 15 y 19 de 2018 se realizó el 6to Encuentro Latinoamericano de Food Design, el primero de este tipo que se celebra en Chile, a través del cual se propuso reunir a personas y entidades de ámbitos académicos, culturales, de gestión y empresariales, a través de distintas expresiones y formatos, bajo el paraguas de la diversidad.",
+          "key": 1
+        },
+        {
+          "text": "Fue una oportunidad para celebrar e integrar la diversidad de personas, culturas, enfoques, disciplinas, geografías y demás aspectos que conforman el rico y complejo mosaico que es el paisaje alimentario latinoamericano, y se espera sea el inicio y el impulso para una nueva área de diseño, desarrollo e innovación con foco interdisciplinario.",
+          "key": 2
+        },
+        {
+          "text": "El Encuentro consideró charlas, muestras, experiencias, conversatorios, y otros modos de transferencias e intercambio de ideas y contenidos. Estuvo destinado a conectar a un amplio espectro de personas: estudiantes, profesionales, empresarios y otros stakeholders interesados en nuestra relación con la comida/alimento, dispuestos a crear una discusión crítica alrededor de su sentido, alcance y proyecciones. La actividad se realizó en el Centro de Innovación UC, lo que puso foco en el trabajo interdisciplinario en un área de grandes proyecciones e impactos que abarcan o tocan muchos ámbitos de la vida cotidiana.",
+          "key": 3
+        },
+        {
+          "text": "Lo más relevante es que comenzamos el Programa de Food Design en INACAP con articulación de las Escuelas de Diseño y Comunicación, de Hotelería, Turismo y Gastronomía, y de Salud, junto con el Fab Universidad INACAP, el Centro de Innovación Gastronómica (CIG) de nuestra Institución y las Academias de Informática y Telecomunicaciones (Academias IT)",
+          "key": 4
+        },
+        {
+          "text": "La presentación tuvo como objetivo compartir una visión respecto de oportunidades de innovación en Food Design, desde productos simples a sistemas complejos, pasando por diseño de servicios y experiencias en diferentes ámbitos del ser humano, como por ejemplo: trabajo, ocio, vida cotidiana, deportes, salud, etc.",
+          "key": 5
+        }
+      ],
+      "key": 1
+    },
+    {
+      "title": "Desafiar los paradigmas",
+      "paragraphs": [
+        {
+          "text": "Innovar en productos, servicios y experiencias relacionadas con los alimentos, dotándolos de nuevos significados y desafiando los paradigmas existentes, es el objetivo del Food design o diseño alimenticio.",
+          "key": 1
+        },
+        {
+          "text": "Esta posibilidad de cambiar lo existente, en una época donde la alimentación ha cobrado una importancia que desborda lo puramente alimenticio, es uno de los aspectos que nos impulsó a ser parte, a través de nuestro Centro de Innovación UC Anacleto Angelini, del Sexto Encuentro de Food Design en Latinoamérica.",
+          "key": 2
+        },
+        {
+          "text": "Como Pontificia Universidad Católica de Chile estamos orgullosos de haber sido los anfitriones de este encuentro, realizado por primera vez en Chile, por varios motivos. El primero es que el proceso creativo detrás del Food Design implica un largo trabajo de investigación. Considerando que las universidades somos las principales creadoras de nuevo conocimiento, tanto en Chile como en la región, este es un ámbito donde tenemos mucho que aportar.",
+          "key": 3
+        },
+        {
+          "text": "¿Cómo podemos conservar las propiedades de los alimentos y sus nutrientes? ¿Cómo lograr optimizar la relación conveniencia, salud y placer sensorial? ¿Podemos crear otros formatos? ¿O cambiar sus estructuras y diseñar nuevos alimentos? ¿Cómo optimizamos los procesos de la industria, desde su elaboración hasta su consumo final? Las preguntas de investigación son múltiples y sus respuestas pueden conducir a resultados fascinantes.",
+          "key": 4
+        },
+        {
+          "text": "El Food Design es un concepto sumamente amplio, que abarca desde la modificación química y física de los alimentos, el diseño de productos alimenticios y la producción de elementos relacionados con la comida; hasta crear objetos inspirados en la comida, diseño de los mismos platos y de los espacios donde se consumen los alimentos. Es por esto que se necesita de un trabajo de investigación interdisciplinario, que considere la mirada y conocimiento de áreas tan distintas como la biología, la ingeniería, el diseño, la arquitectura, la gastronomía o la antropología, para abordar este tema desde una visión más comprensiva e innovadora.",
+          "key": 5
+        },
+        {
+          "text": "Se trata precisamente de un proceso que implica crear, innovar, cambiar la mirada. Esto, en una estrecha relación con la industria, de modo de generar un impacto positivo en el rubro de la alimentación. De hecho, este es precisamente uno de los sectores más relevantes para el Centro de Innovación y su trabajo de apoyo a sus empresas socias.",
+          "key": 6
+        },
+        {
+          "text": "Asimismo, inspirados en nuestro compromiso público, como Universidad Católica nos motiva poner este conocimiento e innovación al servicio de la comunidad, especialmente para cubrir de la mejor manera posible una necesidad básica de las personas: la alimentación.",
+          "key": 7
+        },
+        {
+          "text": "Como región podemos hacer hincapié en este tema. Heredera de una rica diversidad de alimentos, costumbres y ritos, América Latina puede contribuir a gestar un Food Design único y distintivo, produciendo un impacto muy favorable en la industria de la alimentación.",
+          "key": 8
+        }
+      ],
+      "key": 2
+    }
+  ],
+  "indice": [
+    {
+      "title": "Capítulo 1",
+      "subtitle": "Bienvenidos al 6to encuentro",
+      "key": 1
+    },
+    {
+      "title": "Capítulo 2",
+      "subtitle": "Food Design x Educación",
+      "key": 2
+    },
+    {
+      "title": "Capítulo 3",
+      "subtitle": "Conferencias y presentaciones Food Design",
+      "papers": [
+        {
+          "title": "Bienvenidos A Food Design (Diseño y Alimentos): un compendio de referencia",
+          "author": "Por Pedro Reissig",
+          "key": 1
+        },
+        {
+          "title": "Alimentario: Generación, transformación y lectura de formas comestibles",
+          "author": "Por Pedro Reissig",
+          "key": 2
+        },
+        {
+          "title": "Food For Thoughts: Food Modus. El alimento como modo creativo",
+          "author": "Por Bárbara Pino",
+          "key": 3
+        },
+        {
+          "title": "Food Design, Oportunidades De Innovación Pública",
+          "author": "Por Roman Yusif",
+          "key": 4
+        },
+        {
+          "title": "Una Visión Acerca De Los Impactos Y Desafíos En Food Design: Diversidad",
+          "author": "Por Carlos Heirnrichsen",
+          "key": 5
+        },
+        {
+          "title": "Food Design (Diseño Y Alimentos) en FADU: Conocimiento estratégico para territorios creativo",
+          "author": "Por Malena Pasin",
+          "key": 6
+        },
+        {
+          "title": "Abyectos De Diseño: Reconocimiento del asco como dimensión a incorporar en las producciones de Diseño",
+          "author": "Por Andrés Sicard y Iván Mauricio Patiño",
+          "key": 7
+        },
+        {
+          "title": "La Clementina",
+          "author": "Por Pilar e Isidora Kraemer",
+          "key": 8
+        },
+        {
+          "title": "Munani",
+          "author": "Por Javiera Gutiérrez",
+          "key": 9
+        },
+        {
+          "title": "Algramo",
+          "author": "Por José Manuel Moller",
+          "key": 10
+        },
+        {
+          "title": "Slow Food Chile A. G. Visión Para Un Nuevo Sistema Alimentario",
+          "author": "Por Gabriel Troncoso y Beatriz Cid",
+          "key": 11
+        },
+        {
+          "title": "Elige Vivir Sano",
+          "author": "Por Alejandra Domper",
+          "key": 12
+        },
+        {
+          "title": "Career In Sustainability: Food Designer As A Change Maker",
+          "author": "Por Sonia Massari, PhD",
+          "key": 13
+        }
+      ],
+      "key": 3
+    },
+    {
+      "title": "Capítulo 4",
+      "subtitle": "Food Design en Latinoamérica",
+      "papers": [
+        {
+          "title": "Jornada interna DI-VER-SI-DAD",
+          "author": "Por Red Latinoamericana de Food Design",
+          "key": 1
+        },
+        {
+          "title": "Diseña para los alimentos. Nodo San Juan, Argentina",
+          "author": "Por Verónica García y Marianela Ruarte",
+          "key": 2
+        },
+        {
+          "title": "Justo: Um projeto além da comida. Nodo Porto Alegre, Brasil",
+          "author": "Por Filipe Campelo y Ricardo Yudi Akiyoshi",
+          "key": 3
+        },
+        {
+          "title": "Introduzindo O Conceito De Food Design Na Prefeitura De Curitiba. Nodo Curitiba, Brasil",
+          "author": "Por Luiz Mileck",
+          "key": 4
+        },
+        {
+          "title": "La Morfología Experimental, El Diseño Industrial Y Los Alimentos. Nodo Medellín, Colombia",
+          "author": "Por Diana Urdinola y Erika Imbett",
+          "key": 5
+        },
+        {
+          "title": "Food Design Thinking / El Diseño De Experiencias Nutritivas. Nodo Monterrey, México",
+          "author": "Por Mónica Silva",
+          "key": 6
+        },
+        {
+          "title": "Actividades Sobre Food Design En La Carrera De Diseño Industrial De La FADA/UNA. Nodo Paraguay",
+          "author": "Por Sandra Ruiz Díaz  y Neuza Zarate",
+          "key": 7
+        },
+        {
+          "title": "Food Design En Uruguay. Nuevos Logros Y Desafíos. Nodo Uruguay",
+          "author": "Por Agustina Vitola",
+          "key": 8
+        },
+        {
+          "title": "Food Design. Nodo Santa Cruz, Bolivia",
+          "author": "Por Bethânia Alcázar",
+          "key": 9
+        },
+        {
+          "title": "Conexiones Que Hacen Sentido. Nodo San Pablo, Brasil",
+          "author": "Por Christian Ullmann",
+          "key": 10
+        },
+        {
+          "title": "Red Latinoamericana De Food Design. Nodo Bogotá, Colombia",
+          "author": "Por Andrés Sicard",
+          "key": 11
+        }
+      ],
+      "key": 4
+    },
+    {
+      "title": "Capítulo 5",
+      "subtitle": "Convocatoria abierta de proyectos de Food Design",
+      "papers": [
+        {
+          "title": "Enlulados. (Exposición)",
+          "author": "Por Daniela Cifuentes, Juan Pablo Galindo, Iris Andrea Reyes y Viviana Andrea Rodríguez",
+          "key": 1
+        },
+        {
+          "title": "UMAMI 2.0: Metodología multimedia para el manejo de la percepción del sabor desde el Food Design. (Exposición)",
+          "author": "Por Ronny Sánchez Merino",
+          "key": 2
+        },
+        {
+          "title": "Pluralia: Desarrollando Una Experiencia Para Imaginar Futuros Alimentarios Sustentables. (Exposición)",
+          "author": "Por Silvana Juri",
+          "key": 3
+        },
+        {
+          "title": "Despulpadora Semi Industrial De Mangos Nacionales Tommy Atkins. (Exposición)",
+          "author": "Por Giselle Ramírez",
+          "key": 4
+        },
+        {
+          "title": "Uma Análise Da Trajetória Da Artificialidade Presente Nos Episódios Da Série Chef 's Table. (Exposición)",
+          "author": "Por Bruna Chiaradia, Filipe Costa y Ana Cássia Miguel Langsch",
+          "key": 5
+        },
+        {
+          "title": "El Alimento Como Material: Estrategias De Diseño Tamaño Bocado. (Exposición)",
+          "author": "Por Marisol Marin Valdebenito",
+          "key": 6
+        },
+        {
+          "title": "Food Design Y Pedagogía (Exposición)",
+          "author": "Por Alejandro Otárola",
+          "key": 7
+        },
+        {
+          "title": "Memorias De La Red: Ejes Temáticos Transversales Al Food Design En Latinoamerica. (Póster)",
+          "author": "Por Nicolás Martínez",
+          "key": 8
+        },
+        {
+          "title": "Froolthy. (Póster)",
+          "author": "Por Nicolás López",
+          "key": 9
+        },
+        {
+          "title": "Trabalho De Conclusão De Curso: Projeto Gráfico Editorial De Anuário De Food Design Brasileiro. (Póster)",
+          "author": "Por Marina Felde",
+          "key": 10
+        },
+        {
+          "title": "Do Churrasqueiro Ao Assador: A Ressignificação Do Churrasco No Con-Texto Da Gourmetização. (Póster)",
+          "author": "Por Melissa Merino, Filipe Campelo, Bruna Chiaradia y Ana Cássia",
+          "key": 11
+        },
+        {
+          "title": "Traditional Food Design. (Póster)",
+          "author": "Por Danny Muñoz",
+          "key": 12
+        },
+        {
+          "title": "Optimización En El Proceso Productivo De Dulce De Membrillo En San Juan. (Póster)",
+          "author": "Por María Verónica García",
+          "key": 13
+        },
+        {
+          "title": "Desgranadora De Maíz Dulce Para Pequeños Productores De Rubro Agrícola. (Póster)",
+          "author": "Por Walter Quiñónez y Carmen Mujica",
+          "key": 14
+        },
+        {
+          "title": "As Vivências Gastronômicas Dentro Da Concepção De Food Service Design. (Póster)",
+          "author": "Por Renato Bedore y Luiz Mileck",
+          "key": 15
+        },
+        {
+          "title": "Aplicando Diseño En La Prevención. (Póster)",
+          "author": "Por Santiago Caloia y Paulina Lera",
+          "key": 16
+        },
+        {
+          "title": "Viva Cacao. (Póster)",
+          "author": "Por Alejandra Segura y Shannen Martín",
+          "key": 17
+        },
+        {
+          "title": "Mois. (Póster)",
+          "author": "Por Christian Dueñas, Daniela Castellanos y Jesús Amaya",
+          "key": 18
+        },
+        {
+          "title": "Masticalles: Estrategia De Formalización Y Mejoramiento De La Comida Callejera Para Mujeres Emprendedoras. (Póster e Instalación)",
+          "author": "Por Catalina  Mellado",
+          "key": 19
+        },
+        {
+          "title": "Realidad Invisible. (Póster)",
+          "author": "Por Mayra Villaverde",
+          "key": 20
+        },
+        {
+          "title": "Soy Mamá Y También Cocino. (Póster)",
+          "author": "Por Fabiana Ardao",
+          "key": 21
+        },
+        {
+          "title": "Offerenda. (Taller)",
+          "author": "Por Luz Moreno",
+          "key": 22
+        },
+        {
+          "title": "Abriendo Futuros Alimentarios Plurales: Un Ejercicio De Imaginación Colectiva Usando El Futuro. (Instalación y taller)",
+          "author": "Por Silvana Juri y Lydia Garrido",
+          "key": 23
+        },
+        {
+          "title": "Diseño De Packaging De Bolsillo Para Snacks Saludables. (Exposición)",
+          "author": "Por María Pia Recabarren y Dominique Madariaga Cisternas",
+          "key": 24
+        },
+        {
+          "title": "Extractor Y Purificador De Miel De Abejas. (Exposición)",
+          "author": "Por Ruth Chaparro, Alejandro Díaz y Marcelo Esquivel",
+          "key": 25
+        },
+        {
+          "title": "Alimentaria: Seminario de Innovación Agroalimentaria. (Emprendimiento)",
+          "author": "Por Pablo Escobar",
+          "key": 26
+        }
+      ],
+      "key": 5
+    },
+    {
+      "title": "Capítulo 6",
+      "subtitle": "Cultura Food Design",
+      "papers": [
+        {
+          "title": "Palabras de encuadre",
+          "author": "Por Diego Labarca",
+          "key": 1
+        },
+        {
+          "title": "Conexiones: transformadoras del universo alimentario y nuestra relación con él (Manzana-Pan)",
+          "author": "Por Matilde Lombardo",
+          "key": 2
+        },
+        {
+          "title": "Textos curatoriales",
+          "author": "Por Matilde Lombardo",
+          "key": 3
+        },
+        {
+          "title": "Food for thoughts: food modus. El alimento como modo creativo",
+          "author": "Por Bárbara Pino",
+          "key": 4
+        }
+      ],
+      "key": 6
+    },
+    {
+      "title": "Capítulo 7",
+      "subtitle": "Perfiles de ponentes",
+      "key": 7
+    },
+    {
+      "title": "Capítulo 8",
+      "subtitle": "Registros del encuentro",
+      "key": 8
+    }
+  ]
+}

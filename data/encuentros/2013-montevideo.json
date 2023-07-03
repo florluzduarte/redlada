@@ -1,0 +1,65 @@
+{
+  "intro": [
+    {
+      "title": "Bienvenidos",
+      "paragraphs": [
+        {
+          "text": "Bienvenidxs a compartir este momento y lugar en donde nace un proyecto que une a muchas personas y cuestiones. Por un lado como Grupo Fundacional nos unimos como amigos y colegas, como países vecinos de Latinoamérica y como exploradores de esta oportunidad a repensar y reinventar nuestra relación con la comida.",
+          "key": 1
+        },
+        {
+          "text": "Por otro lado, los que estamos en esta mesa compartida; pensando, conversando y discutiendo acerca del Food Design, estamos también uniendo intereses, inquietudes e inspiraciones para darle forma al desafío que salimos a buscar. Salimos de la zona de confort para cuestionarnos a nosotros mismos acerca de nuestras prácticas, valores y actitudes en relación a la comida de todos los días y de todas las personas, en todos los aspectos e instancias. Tantas preguntas van acompañadas de muchas ganas y pasión por acercarnos a nuevas y mejores respuestas.",
+          "key": 2
+        },
+        {
+          "text": "Los invitamos a acompañarnos, haciéndose socios de la naciente redLaFD y poniendo en práctica esta sensibilidad desde lo personal, hasta lo profesional.",
+          "key": 3
+        },
+        {
+          "text": "(Escrito por Pedro Reissig)",
+          "key": 4
+        }
+      ],
+      "key": 1
+    }
+  ],
+  "indice": [
+    {
+      "title": "Capítulo 1",
+      "subtitle": "Bienvenidas",
+      "key": 1
+    },
+    {
+      "title": "Capítulo 2",
+      "subtitle": "Agenda 1er Encuentro Latinoamericano de Food Design",
+      "key": 2
+    },
+    {
+      "title": "Capítulo 3",
+      "subtitle": "Grupo Fundacional y Carta Fundacional",
+      "key": 3
+    },
+    {
+      "title": "Capítulo 4",
+      "subtitle": "Conferencias y Talleres",
+      "papers": [
+        {
+          "title": "Bienvenidos al Food Design",
+          "author": "Por Pedro Reissig",
+          "key": 1
+        },
+        {
+          "title": "Taller “Food Design”",
+          "author": "Por Francesca Zampollo y Pedro Reissig",
+          "key": 2
+        },
+        {
+          "title": "Cena experimental",
+          "author": "Por Matilde Lombardi y Alicia Magariños",
+          "key": 3
+        }
+      ],
+      "key": 4
+    }
+  ]
+}
