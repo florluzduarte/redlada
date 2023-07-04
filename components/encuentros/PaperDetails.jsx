@@ -1,7 +1,10 @@
+//Styles
+import styles from "../../styles/encuentros/PaperDetails.module.css";
+
 const PaperDetails = ({ paper }) => {
   return (
     <div>
-      <p>{paper.title}</p>
+      <p className={styles.paper__title}>{paper.title}</p>
       <p>{paper.author}</p>
     </div>
   );

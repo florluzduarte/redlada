@@ -1,0 +1,36 @@
+.intro__section {
+  margin: 3rem 1.5rem;
+}
+
+.intro__title {
+  color: var(--green);
+}
+
+.intro__text__container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin: 1.5rem 0rem;
+}
+
+.intro__text__container__index {
+  margin: 1.5rem 0rem;
+}
+
+@media screen and (min-width: 765px) {
+  .intro__section {
+    margin: 3rem 3rem;
+  }
+}
+
+@media screen and (min-width: 1023px) {
+  .intro__section {
+    margin: 5rem auto;
+    max-width: 50rem;
+  }
+
+  .intro__text__container {
+    gap: 2rem;
+    margin: 2rem 0rem;
+  }
+}
