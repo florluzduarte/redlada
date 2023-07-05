@@ -8,18 +8,17 @@ import EncuentrosDownloadBtn from "./EncuentrosDownloadBtn";
 //Styles
 import styles from "../../styles/encuentros/EncuentrosBanner.module.css";
 
-//Image
-import ImageBanner from "../../public/encuentros/2022-montevideo-banner.png";
-
 const EncuentrosBanner = ({ banner, btn, download }) => {
   return (
     <header className={styles.banner__section}>
-      <h1>10mo encuentro latinoamericano de diseño y alimentos</h1>
+      <h1>{banner.title}</h1>
       <Image
-        src={ImageBanner}
-        alt="Banner del encuentro"
-        placeholder="blur"
+        src={banner.image.src}
+        alt={banner.image.src}
+        width={1000}
+        height={485}
         className={styles.banner__image}
+        priority
       />
       <div className={styles.banner__btn__container}>
         <EncuentrosDownloadBtn href={download} />
