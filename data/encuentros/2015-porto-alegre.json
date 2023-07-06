@@ -1,0 +1,123 @@
+{
+  "intro": [
+    {
+      "title": "Bienvenida",
+      "paragraphs": [
+        {
+          "text": "O desafio de planejar e promover um evento de Food Design no Brasil foi grande. Trata-se de uma área de grande interesse por diversas partes (Gastronomia, Design, Engenharias, Nutrição, Psicologia, Sociologia, entre outros).",
+          "key": 1
+        },
+        {
+          "text": "O peso do evento tornou-se ainda maior quando notamos que este foi o primeiro a ser realizado em território nacional e com tal porte. O campo de Food Design sempre foi uma área de interesse para a Gastronomia e demais disciplinas das Ciências da Saúde, pois o alimento figura como um elo entre a produção, preparo, saúde e consumo.",
+          "key": 2
+        },
+        {
+          "text": "Nos apoiamos em Projetos Pedagógicos de diversas áreas para traduzir em temáticas os pontos que poderiam ser abordados durante o evento. As discussões e apresentações foram inspiradoras e trouxeram abordagens críticas sobre diversos meios de produção, condução de projetos e possibilidades para gerar valor às pessoas e aos contextos socioeconômicos que encontravam-se inseridas.",
+          "key": 3
+        },
+        {
+          "text": "Para os docentes o desafio de estudar e lecionar sobre a alimentação foi ampliado. Notamos que as dimensões que contemplam o ensino podem ser aprofundadas na direção da multi e transdisciplinariedade; na prática de projetos que utilizem o conhecimento acadêmico associado a pesquisas mais pontuais, em busca de soluções viáveis para situações do cotidiano. Para os discentes, o desafio de estudar a alimentação apresentou-se ainda mais complexo e dinâmico. Puderam perceber que as variáveis que contemplam o ator de ser alimentar são grandes entremeados de informações e processos nos quais eles poderiam se inserir com qualidade técnica.",
+          "key": 4
+        },
+        {
+          "text": "A grande questão que ficou a todos seria que caminho poderiam seguir. Portanto, cabe a nós, a rede Latinoamericana de Food Design, a professores pesquisadores, aos cozinheiros e demais interessados a promoção do interesse e diálogo entre as áreas afins para impulsionar o amadurecimento do Food Design.",
+          "key": 5
+        },
+        {
+          "text": "(Escrito por Ricardo Yudi Akiyoshi)",
+          "key": 6
+        }
+      ],
+      "key": 1
+    }
+  ],
+  "indice": [
+    {
+      "title": "Capítulo 1",
+      "subtitle": "Bienvenidas",
+      "key": 1
+    },
+    {
+      "title": "Capítulo 2",
+      "subtitle": "Conferencias",
+      "papers": [
+        {
+          "title": "Industria de Alimentos: Factor de desarrollo para América Latina",
+          "author": "Por Alejandro Otálora",
+          "key": 1
+        },
+        {
+          "title": "Slow Food: uma breve a presentação do bom, limpo e justo",
+          "author": "Por Caio Dorigon",
+          "key": 2
+        },
+        {
+          "title": "Food Design y microemprendimientos de Economía Social y Solidaria",
+          "author": "Por Daniel Bergara",
+          "key": 3
+        },
+        {
+          "title": "Tendencias de la categoría de alimentos sanos para el 2020",
+          "author": "Por Diego Bolson",
+          "key": 4
+        },
+        {
+          "title": "Caso Destemperados",
+          "author": "Por Diego Fabris",
+          "key": 5
+        },
+        {
+          "title": "Design Emoçâo e Alimentaçâo",
+          "author": "Por Filipe Campelo Xavier da Costa",
+          "key": 6
+        },
+        {
+          "title": "Una mirada sobre los escenarios de inserción del Food Design en Argentina",
+          "author": "Por Malena Pasin",
+          "key": 7
+        },
+        {
+          "title": "FOOD MORPHOLOGY la forma importa!",
+          "author": "Por Pedro Reissig",
+          "key": 8
+        },
+        {
+          "title": "Explorando o user centered design na idealização de conceitos gastronômicos",
+          "author": "Por Ricardo Yudi",
+          "key": 9
+        },
+        {
+          "title": "Some reflections and questions on Food Design",
+          "author": "Por Sonia Massar",
+          "key": 10
+        },
+        {
+          "title": "Food Data Design (Minería de Datos, Alimentos, México, Chile, Recetas)",
+          "author": "Por Victoria Molina,Rocío Molina y José Jaime Díaz García",
+          "key": 11
+        }
+      ],
+      "key": 2
+    },
+    {
+      "title": "Capítulo 3",
+      "subtitle": "Mesa redonda con la industria",
+      "key": 3
+    },
+    {
+      "title": "Capítulo 4",
+      "subtitle": "2do Simposio Latinoamericano sobre Educación en Food Design de FDxE",
+      "key": 4
+    },
+    {
+      "title": "Capítulo 5",
+      "subtitle": "Taller Slow Food Design",
+      "key": 5
+    },
+    {
+      "title": "Capítulo 6",
+      "subtitle": "Exposición Cultivando Food Design de redLaFD",
+      "key": 6
+    }
+  ]
+}

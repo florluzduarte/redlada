@@ -1,0 +1,35 @@
+.fundacional {
+  padding-bottom: 3rem;
+}
+
+.fundacional__people__container {
+  display: grid;
+  grid-template-columns: 1fr;
+  margin: 0rem 1.5rem;
+  gap: 2.5rem;
+}
+
+@media screen and (min-width: 765px) {
+  .fundacional__people__container {
+    grid-template-columns: 1fr 1fr;
+    margin: 0rem 3rem;
+  }
+}
+
+@media screen and (min-width: 1023px) {
+  .fundacional {
+    padding-bottom: 5rem;
+  }
+
+  .fundacional__people__container {
+    width: 50rem;
+    margin: 0rem auto;
+  }
+}
+
+@media screen and (min-width: 1365px) {
+  .fundacional__people__container {
+    width: 60rem;
+    gap: 4rem;
+  }
+}

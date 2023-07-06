@@ -1,0 +1,116 @@
+{
+  "cardCountryFlagData": [
+    {
+      "title": "Argentina",
+      "flag": {
+        "code": "ar",
+        "alt": "Bandera de Argentina"
+      },
+      "link": "/somos/nodos/argentina"
+    },
+    {
+      "title": "Bolivia",
+      "flag": {
+        "code": "bo",
+        "alt": "Bandera de Bolivia"
+      },
+      "link": "/somos/nodos/bolivia"
+    },
+    {
+      "title": "Brasil",
+      "flag": {
+        "code": "br",
+        "alt": "Bandera de Brasil"
+      },
+      "link": "/somos/nodos/brasil"
+    },
+    {
+      "title": "Chile",
+      "flag": {
+        "code": "cl",
+        "alt": "Bandera de Chile"
+      },
+      "link": "/somos/nodos/chile"
+    },
+    {
+      "title": "Colombia",
+      "flag": {
+        "code": "co",
+        "alt": "Bandera de Colombia"
+      },
+      "link": "/somos/nodos/colombia"
+    },
+    {
+      "title": "Costa Rica",
+      "flag": {
+        "code": "cr",
+        "alt": "Bandera de Costa Rica"
+      },
+      "link": "/somos/nodos/costa-rica"
+    },
+    {
+      "title": "Cuba",
+      "flag": {
+        "code": "cu",
+        "alt": "Bandera de Cuba"
+      },
+      "link": "/somos/nodos/cuba"
+    },
+    {
+      "title": "Ecuador",
+      "flag": {
+        "code": "ec",
+        "alt": "Bandera de Ecuador"
+      },
+      "link": "/somos/nodos/ecuador"
+    },
+    {
+      "title": "Guatemala",
+      "flag": {
+        "code": "gt",
+        "alt": "Bandera de Guatemala"
+      },
+      "link": "/somos/nodos/guatemala"
+    },
+    {
+      "title": "Mexico",
+      "flag": {
+        "code": "mx",
+        "alt": "Bandera de Mexico"
+      },
+      "link": "/somos/nodos/mexico"
+    },
+    {
+      "title": "Paraguay",
+      "flag": {
+        "code": "py",
+        "alt": "Bandera de Paraguay"
+      },
+      "link": "/somos/nodos/paraguay"
+    },
+    {
+      "title": "Peru",
+      "flag": {
+        "code": "pe",
+        "alt": "Bandera de Peru"
+      },
+      "link": "/somos/nodos/peru"
+    },
+    {
+      "title": "Uruguay",
+      "flag": {
+        "code": "uy",
+        "alt": "Bandera de Uruguay"
+      },
+      "link": "/somos/nodos/uruguay"
+    },
+    {
+      "title": "Venezuela",
+      "flag": {
+        "code": "ve",
+        "alt": "Bandera de Venezuela"
+      },
+      "link": "/somos/nodos/venezuela"
+    }
+  ]
+}

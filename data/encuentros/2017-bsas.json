@@ -1,0 +1,405 @@
+{
+  "intro": [
+    {
+      "title": "Hola y bienvenidxs!",
+      "paragraphs": [
+        {
+          "text": "En nombre de la red Latinoamericana de Food Design, les doy la bienvenida al 5º Encuentro Latinoamericano de Food Design, y a Buenos Aires, Argentina, bajo la consigna ABRAZA!!",
+          "key": 1
+        },
+        {
+          "text": "Como ya es costumbre, festejamos un año más de crecimiento y consolidación, de la redLaFD y sus lazos (afectivos, institucionales y comunitarios), así como también de esta emergente forma de abordar el alimento en todas sus dimensiones: Food Design.",
+          "key": 2
+        },
+        {
+          "text": "Este 5º Encuentro tuvo algunas particularidades en relación a los anteriores, en primer lugar porque fue compartido por dos instituciones complementarias, la académica a través de la Universidad de Buenos Aires, y la profesional y cultural de la mano del Centro Metropolitano de Diseño.",
+          "key": 3
+        },
+        {
+          "text": "Es así que los primeros tres días estuvimos a pleno con charlas, conversatorios, talleres y exposiciones de personas y entidades provenientes de una decena de países, de América Latina y Europa, en donde pudimos ver una cantidad y calidad de expresiones del Food Design desde diversas perspectivas y actores. Esto ocurrió con el apoyo pleno de la FADU-UBA, que incluyó una carta de declaración de interés por parte del Decanato de esta casa de estudios, así como de entidades gubernamentales como el INTI, INTA, Ministerio de Agroindustria, DiSUR, entre otros, como manifestación de la ebullición creciente en cantidad y variedad de espacios que atraviesan el Diseño y los Alimentos.",
+          "key": 4
+        },
+        {
+          "text": "También nos propusimos dejar una huella y antecedente en el camino, concretando dos acciones de siembra. Lanzamos un Kiosco Saludable en la FADU, Universidad de Buenos Aires, a modo de prototipo, creando una plataforma para su futuro crecimiento y difusión abierta a otras personas o entidades interesados en ir por este camino: www.kioscosaludable.org. Además, convocamos y presentamos una exposición de trabajos de estudiantes de Food Design provenientes de programas de grado y posgrado de distintas universidades alrededor del mundo, a disposición digital en www.fdxe.org, para ser socializada y contribuir al entendimiento de los diversos rumbos del Food Design en sus respectivas regiones y/o países.",
+          "key": 5
+        },
+        {
+          "text": "Hubo tiempo para una jornada interna de la red, en donde el Núcleo y los Nodos presentes pudimos compartir ideas, planes y perspectivas para mejorar nuestra tarea de construcción como red abierta y masa crítica que en estos cinco años hemos estado amasando, desde y para Latinoamérica, aunque siempre abiertos e interesados en dialogar y trabajar con toda la comunidad de Food Design a nivel mundial. Pero sin dejar de hacer foco en nuestras idiosincrasias, deseos y necesidades para que el Food Design cobre el máximo sentido y función para nosotros.",
+          "key": 6
+        },
+        {
+          "text": "Los últimos días estuvimos compartiendo el Festival Internacional de Diseño que el CMD organiza cada año, en donde la red y el Food Design estuvieron como invitados especiales, para abrazar la sinergia con personas, instituciones y medios que convergieron en el fantástico predio que hoy ocupa el CMD en el barrio de Barracas, en el reconvertido Mercado de Pescado que antiguamente ocupaba esa manzana. También compartimos espacio con “Sello Buen Diseño”, quienes este año agregaron una mención especial a productos con interés para Food Design, quedando así inaugurada lo que seguramente será una apuesta por parte del Plan Nacional de Diseño para que el Food Design forme parte de su agenda de prioridades. Este marco fue el lugar elegido para compartir las conferencias magistrales de personas invitadas a inspirarnos con sus ideas y expresiones, dejándonos tarea para rato, a procesar y sacar provecho de sus experiencias y proyecciones. Tuvimos también un espacio para dar un panorama general del estado de avance del Food Design en Latinoamérica, incluyendo breves exposiciones de los ocho países presentes en este Encuentro, pintando un abanico de realidades y estrategias hacia dónde está yendo cada región a través de sus Nodos, incluyendo la impronta personal que los líderes de Nodo, en su tarea de guiar y nuclear al Food Design local.",
+          "key": 7
+        },
+        {
+          "text": "El último día del Encuentro realizamos un Exploratorio de Food Design con una decena de personas contando sus ideas sobre el tema en común puesto sobre la mesa: ¿cómo mejorar nuestra relación con la comida en todo sentido?, que luego pasó a una instancia de trabajo en grupos tipo Lab, para al final juntarnos todos nuevamente a hacer una puesta en común e irnos con conclusiones, claridades y también muchas preguntas.",
+          "key": 8
+        },
+        {
+          "text": "Se desarrollaron en paralelo dos actividades en el marco de un nuevo espacio cultural que la red está sembrando, que busca trascender más allá de nuestro lugar de nacimiento que es el académico. Estas fueron: “Plaza Mate” ideada por la red y llevada a cabo por Casa Misiones, la cual tuvo lugar en la calle principal del CMD. Hubo degustaciones y exploraciones del Mate, en donde se prestaban termos y mates para poder compartir en cualquier momento. Luego “Conexiones” ideada y realizada por Cultura Food Design www.culturafooddesign.com, la cual nos invitó a través de experiencias y muestras a conectarnos con el alimento / comida en todas sus dimensiones, desde todos los sentidos, ofreciéndonos como cierre de este Encuentro un brindis, el cual festejamos juntos con una degustación de aguas y una riquísima y original picada.",
+          "key": 9
+        },
+        {
+          "text": "(Escrito por Pedro Reissig)",
+          "key": 10
+        }
+      ],
+      "key": 1
+    }
+  ],
+  "indice": [
+    {
+      "title": "Capítulo 1",
+      "subtitle": "Bienvenidos al 5to Encuentro Latinoamericano de Food Design",
+      "key": 1
+    },
+    {
+      "title": "Capítulo 2",
+      "subtitle": "La ancha cocina del Food Design",
+      "papers": [
+        {
+          "title": "Bienvenidos al Food Design (Diseño y Alimentos): apuntes para una sobremesa (Conferencia)",
+          "author": "Por Pedro Reissig",
+          "key": 1
+        },
+        {
+          "title": "¡Guácala! Lo asqueroso desde el diseño en la actividad alimentaria. Retos y oportunidades para incluir al campo (Conferencia)",
+          "author": "Por Andrés Sicard Currea y Zada Manrique Latorre",
+          "key": 2
+        },
+        {
+          "title": "Lo concreto y la combinatoria como proceso (Conferencia)",
+          "author": "Por Albert Fuster",
+          "key": 3
+        },
+        {
+          "title": "Food design: making sustainable behavior easy (Conferencia)",
+          "author": "Por Sonia Massari",
+          "key": 4
+        },
+        {
+          "title": "Panorama desde la Escuela Universitaria Centro de Diseño, FADU. Universidad de la República, Uruguay (Emprendimiento)",
+          "author": "Por Daniel Bergara",
+          "key": 5
+        },
+        {
+          "title": "Laboratorio de Sabores. Innovación colectiva con productores de agroalimentos (Emprendimiento)",
+          "author": "Por Adrián Lebendiker, Claudia López, Juan Pablo Luna y Emiliano Perez Caravello",
+          "key": 6
+        },
+        {
+          "title": "Comunicación, gastronomía e identidad: un análisis del mercado 27 de Mayo (Emprendimiento)",
+          "author": "Por Andrea Stambuk",
+          "key": 7
+        },
+        {
+          "title": "Presentación del Movimiento Slow Food Jóvenes (Emprendimiento)",
+          "author": "Por Nazareno Iovino y Angie Angesio",
+          "key": 8
+        },
+        {
+          "title": "Salud, nutrición y modelo productivo. Paradojas y reflexiones. (Exploradores hacia el Food Design)",
+          "author": "Por Gloria Sammartino",
+          "key": 9
+        },
+        {
+          "title": "Diseño centrado en las personas, de la identidad a la experiencia. (Exploradores hacia el Food Design)",
+          "author": "Por Diego Labarca",
+          "key": 10
+        },
+        {
+          "title": "Innovación sostenible en la producción y comercialización de alimentos. (Exploradores hacia el Food Design)",
+          "author": "Por Sergio Justianovich y Daniela Edurne Battista",
+          "key": 11
+        },
+        {
+          "title": "Recuperando el sabor popular, diseño y producción de alimentos en manos de cooperativas. (Exploradores hacia el Food Design)",
+          "author": "Por Mora Monteverde y Sofía Bastanchuri",
+          "key": 12
+        },
+        {
+          "title": "Alimentário / Cultura Alimentar (Exploradores hacia el Food Design)",
+          "author": "Por Felipe Ribenboin",
+          "key": 13
+        },
+        {
+          "title": "Agricultura familiar subtropical (Investigación)",
+          "author": "Por María Sanchez",
+          "key": 14
+        },
+        {
+          "title": "Valor Agregado a productos derivados del Yacón de Bárcena, Jujuy, Argentina (Investigación)",
+          "author": "Por Alejandra Sivila Soza",
+          "key": 15
+        },
+        {
+          "title": "Panorama da pesquisa em Food Design no Brasil  (Investigación)",
+          "author": "Por Filipe Campelo Xavier da Costa",
+          "key": 16
+        },
+        {
+          "title": "Panorama Regional del Food Design en Perú. (Investigación)",
+          "author": "Por Noel Manuel González y César Vicente Vásquez",
+          "key": 17
+        },
+        {
+          "title": "Diseño de Alimentos para una vida saludable. (Mesa temática: Argentina)",
+          "author": "Por Nicolás Apro / INTA",
+          "key": 18
+        },
+        {
+          "title": "Industria 4.0 y alimentación. (Mesa temática: Argentina)",
+          "author": "Por Raquel Ariza / INTI",
+          "key": 19
+        },
+        {
+          "title": "La mesa futura: estética y estrategia del diseño y la innovación en la cultura alimentaria. (Mesa temática: Argentina)",
+          "author": "Por Analía Cervini / CMD",
+          "key": 20
+        },
+        {
+          "title": "Recorridos profesionales a través del Food Design. (Mesa temática: Argentina)",
+          "author": "Por Paulina Becerra / Universidad de Quilmes",
+          "key": 21
+        },
+        {
+          "title": "Food Design en Latinoamérica. (Aportes especiales)",
+          "author": "Por Christian Ullmann",
+          "key": 22
+        },
+        {
+          "title": "Oficios. Implicancias del food design en la educación del centro de formación profesional Mundo Pastel. (Aportes especiales)",
+          "author": "Por Ricardo Corbetta",
+          "key": 23
+        }
+      ],
+      "key": 2
+    },
+    {
+      "title": "Capítulo 3",
+      "subtitle": "Food Design en Latinoamérica",
+      "papers": [
+        {
+          "title": "Food Design en Latinoamérica",
+          "author": "Por Pedro Reissig",
+          "key": 1
+        },
+        {
+          "title": "Nodo Buenos Aires, Argentina.",
+          "author": "Por Malena Pasin",
+          "key": 2
+        },
+        {
+          "title": "Nodo Bogotá, Colombia.",
+          "author": "Por Andrés Sicard",
+          "key": 3
+        },
+        {
+          "title": "Nodo Porto Alegre, Brasil.",
+          "author": "Por Filipe Campelo Xavier da Costa y Ricardo Yudi",
+          "key": 4
+        },
+        {
+          "title": "Nodo Chile",
+          "author": "Por Diego Labarca",
+          "key": 5
+        },
+        {
+          "title": "Nodo Paraguay",
+          "author": "Por Luiza Tsai",
+          "key": 6
+        },
+        {
+          "title": "Nodo Uruguay",
+          "author": "Por Agustina Vitola",
+          "key": 7
+        },
+        {
+          "title": "Nodo Perú",
+          "author": "Por Noel Gonzales",
+          "key": 8
+        },
+        {
+          "title": "Nodo Cochabamba, Bolivia.",
+          "author": "Por Andrea Stambuk",
+          "key": 9
+        },
+        {
+          "title": "Nodo Curitiba, Brasil.",
+          "author": "Por Luiz Mileck",
+          "key": 10
+        }
+      ],
+      "key": 3
+    },
+    {
+      "title": "Capítulo 4",
+      "subtitle": "Convocatorias abiertas de proyectos de Food Design",
+      "papers": [
+        {
+          "title": "Una forma comestible. Ejercicio didáctico-conceptual (Investigación)",
+          "author": "Por Moriana Abraham, José Luis Roces, Jaquelina Santiago, Mabelyn Guevara Robles, Santiago Caloia y Carolina Riffel",
+          "key": 1
+        },
+        {
+          "title": "PlatoSelfie. La imagen como herramienta en la Educación Psiconutricional (Investigación)",
+          "author": "Por María Elena Colombo, Silvina López y Dana Zoe Watson",
+          "key": 2
+        },
+        {
+          "title": "Pacto por la plaza: dispositivos de Diseño para la reactivación de la comunidad. (Investigación)",
+          "author": "Por María Alejandra Cruz, Juan David Méndez y María Elvia Yopasa",
+          "key": 3
+        },
+        {
+          "title": "Butiá. Las dimensiones de un fruto sin prensa. (Investigación)",
+          "author": "Por Daniell Flain Ugolino",
+          "key": 4
+        },
+        {
+          "title": "Sabores en vitrinas. El patrimonio alimentario en los museos de Buenos Aires, Argentina y su potencial para el turismo. (Investigación)",
+          "author": "Por Juana Alejandrina Norrid",
+          "key": 5
+        },
+        {
+          "title": "Antropología de la alimentación y sus aportes al Food Design. (Investigación)",
+          "author": "Por Agustina Vitola",
+          "key": 6
+        },
+        {
+          "title": "#dieta: Uma exploração sobre o uso do Instagram como apoio à prática de regimes alimentares sob a ótica de estudos de consumo. (Investigación)",
+          "author": "Por Melissa Merino Lesnovski y Filipe Campelo Xavier da Costa",
+          "key": 7
+        },
+        {
+          "title": "Lazos familiares con el objeto-alimento. (Investigación)",
+          "author": "Por Sara Cárdenas",
+          "key": 8
+        },
+        {
+          "title": "Gastronomía molecular: aplicación en el diseño de alimentos. (Investigación)",
+          "author": "Por Anahí Cuellas",
+          "key": 9
+        },
+        {
+          "title": "Design e tradições culturais Projeto Oficina Nômade. (Investigación)",
+          "author": "Por Christian Ullmann y Tania Cristina De Paula",
+          "key": 10
+        },
+        {
+          "title": "Una historia de alimentos y diseño. (Investigación)",
+          "author": "Por Alejandro Otálora",
+          "key": 11
+        },
+        {
+          "title": "Coletivo alimentar: construindo um living lab de cultura alimentar no brasil (Proyecto)",
+          "author": "Por Luiz Henrique Mileck Strapasson",
+          "key": 12
+        },
+        {
+          "title": "Mobiliario inclusivo para el ámbito gastronómico. (Proyecto)",
+          "author": "Por Florencia Peirano y Victoria González",
+          "key": 13
+        },
+        {
+          "title": "Impetu Bites, Food Truck. (Proyecto)",
+          "author": "Por David Leonardo Pérez Avella y Alfredo Rodriguez Chavez Kenneth",
+          "key": 14
+        },
+        {
+          "title": "Plan de desarrollo e innovación gastronómica cultural AMTLA. (Proyecto)",
+          "author": "Por Marianela Eliana Ruarte y Yanina Mabel Ruarte",
+          "key": 15
+        },
+        {
+          "title": "Como juego aprendo. (Proyecto)",
+          "author": "Por Leticia Varela y María Jimena Castells",
+          "key": 16
+        },
+        {
+          "title": "“Ciclo Sin Fin” eco-cubiertos. Utensilios biodegradables, amigos del medio ambiente. (Proyecto)",
+          "author": "Por Micaela Pontoriero",
+          "key": 17
+        },
+        {
+          "title": "Pan Comido. Bread driven by design. (Proyecto)",
+          "author": "Por Viviana Moreno Troconis",
+          "key": 18
+        },
+        {
+          "title": "Food Retail Design: modelo de tipologias de operações gastronômicas. (Póster)",
+          "author": "Por Bruna Chiaradia y Filipe Campelo Xavier da Costa",
+          "key": 19
+        },
+        {
+          "title": "Influencia del Aroma en el Flavor de los alimentos. (Póster)",
+          "author": "Por Mariano Di Rubbo, Fernando Mendoza, Lucas Alul y Anahi Cuellas",
+          "key": 20
+        },
+        {
+          "title": "Jardin Temporal Comestible: Explorando las potencialidades de la generación de un primer Edible Campus en Montevideo. (Póster)",
+          "author": "Por Silvana Juri, Gabriela Torres,  Any Paz y Verónica Salas",
+          "key": 21
+        },
+        {
+          "title": "Importancia del color en el diseño de productos alimenticios. (Póster)",
+          "author": "Por Ailén Pino, Noelia Caminos, Guido Pascual y Anahi Cuellas",
+          "key": 22
+        },
+        {
+          "title": "La textura de los alimentos y su influencia en la percepción final del sabor. (Póster)",
+          "author": "Por Stephanie Suchecki, Diana Suchecki, Carolina Dari y Anahi Cuellas",
+          "key": 23
+        },
+        {
+          "title": "Revalorizar lo nuestro - Uruguay. (Póster)",
+          "author": "Por Soledad Corbo, Agustina Vitola, Carola Antuña y Alberto Menestrina",
+          "key": 24
+        }
+      ],
+      "key": 4
+    },
+    {
+      "title": "Capítulo 5",
+      "subtitle": "El Food Design en acción",
+      "papers": [
+        {
+          "title": "La gastronomía molecular como herramienta para el diseño de alimentos. (Taller)",
+          "author": "Por Anahí Cuellas",
+          "key": 1
+        },
+        {
+          "title": "Mapping psicogeográfico de una experiencia alimenticia (Taller)",
+          "author": "Por Albert Fuster",
+          "key": 2
+        },
+        {
+          "title": "Food design: Designing sustainable Breakfast cultures. (Taller)",
+          "author": "Por Sonia Massari",
+          "key": 3
+        },
+        {
+          "title": "¿Cómo aprovechar los espacio sub-urbanos abandonados para la producción de alimentos?. (Taller)",
+          "author": "Por Nazareno Iovino",
+          "key": 4
+        },
+        {
+          "title": "Ingredientes, técnicas y utensilios del hacer artesanal en Brasil (Taller)",
+          "author": "Por Tania de Paula y Christian Ullmann",
+          "key": 5
+        }
+      ],
+      "key": 5
+    },
+    {
+      "title": "Capítulo 6",
+      "subtitle": "Cultura Food Design",
+      "key": 6
+    },
+    {
+      "title": "Capítulo 7",
+      "subtitle": "Perfiles de ponentes",
+      "key": 7
+    }
+  ]
+}

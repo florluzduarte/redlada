@@ -1,0 +1,31 @@
+.btn {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background-color: var(--white);
+  padding: 1rem;
+  border-radius: 8px;
+  border: 2px solid var(--green);
+  transition: all 0.15s ease-in-out;
+}
+
+.btn:hover {
+  transform: scale(1.02);
+}
+
+.btn__icon {
+  width: 1.5rem;
+  height: 1.5rem;
+  color: var(--green);
+}
+
+.btn__title {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+@media screen and (min-width: 1023px) {
+  .btn__title {
+    font-size: 1.25rem;
+  }
+}
