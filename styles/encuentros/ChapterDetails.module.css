@@ -1,0 +1,39 @@
+.chapter__container {
+  display: flex;
+  flex-direction: column;
+  margin: 1.5rem 0rem;
+}
+
+.chapter__title {
+  color: var(--orange);
+  font-size: 1.125rem;
+}
+
+.chapter__subtitle {
+  color: var(--green);
+  font-weight: 700;
+  font-size: 1.125rem;
+}
+
+.chapter__papers__container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin: 1.5rem 0rem 1.5rem 1rem;
+}
+
+@media screen and (min-width: 765px) {
+  .chapter__papers__container {
+    margin: 3rem 0rem 2rem 1.5rem;
+  }
+}
+
+@media screen and (min-width: 1023px) {
+  .chapter__title {
+    font-size: 1.5rem;
+  }
+
+  .chapter__subtitle {
+    font-size: 1.2rem;
+  }
+}

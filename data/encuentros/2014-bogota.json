@@ -1,0 +1,126 @@
+{
+  "intro": [
+    {
+      "title": "La sazón del Encuentro",
+      "paragraphs": [
+        {
+          "text": "El texto que se presenta a continuación es el resultado de un proceso de pensamiento colectivo se co-crea con todo el grupo gestor del proyecto luego del cual se estructuró el evento Dis_fruta diseño 2014.",
+          "key": 1
+        },
+        {
+          "text": "Los interrogantes que se definieron tienen desarrollables un conjunto de nociones, conceptos y ejes de trabajo sobre los que se construye no solo la manera en que se convoca a los participantes a inscribir sus ponencias.",
+          "key": 2
+        },
+        {
+          "text": "El resultado de esta construcción colectiva se ha convertido en mapa conceptual sobre el que se propone trabajar y ordenar varios de los proyectos y temas de investigación lo mismo que modos de sistematización de los tópicos que van estructurando un objeto de conocimiento que reconocemos como Food Design.",
+          "key": 3
+        },
+        {
+          "text": "Desde Colombia esta es la manera en que se ordenaron las ideas que convocan y convidan a los que sobre estos asuntos trabajan, la aproximación no solo busca ordenar una agenda de un evento sino que espera configurar el derrotero con el cual se pueden apoyar y clasificar temas tan prolijos y disímiles desde la óptica del Food.",
+          "key": 4
+        },
+        {
+          "text": "El lector puede recorrer esto tópicos y sus agrupaciones con la certeza centrada en que no son verdades absolutas, ni pretenden ser camisa de fuerza para nadie, se han ordenado desde la experiencia de los miembros que los formularon y desde allí tienen su valía y por este motivo se entregan al público con el deseo de conseguir generar diálogos, debates, críticas, alimentación y enriquecimiento de dichos campos.",
+          "key": 5
+        }
+      ],
+      "key": 1
+    }
+  ],
+  "indice": [
+    {
+      "title": "Capítulo 1",
+      "subtitle": "Bienvenida - Sesión de apertura",
+      "key": 1
+    },
+    {
+      "title": "Capítulo 2",
+      "subtitle": "Introducciones por parte de organizadores",
+      "key": 2
+    },
+    {
+      "title": "Capítulo 3",
+      "subtitle": "Seminario de didáctica FDxE",
+      "key": 3
+    },
+    {
+      "title": "Capítulo 4",
+      "subtitle": "Conferencias",
+      "papers": [
+        {
+          "title": "Food Morphology",
+          "author": "Por Pedro Reissig, PhD",
+          "key": 1
+        },
+        {
+          "title": "Food Design & Food Studies: La puesta en común",
+          "author": "Por Fabio Parasecoli",
+          "key": 2
+        },
+        {
+          "title": "Designing emotional triggers for food experiences",
+          "author": "Por Prof. Ms. Ricardo Yudi Akiyoshi",
+          "key": 3
+        },
+        {
+          "title": "Empaques & Alimentos",
+          "author": "Por Francesca Zampollo y Alejandro Otálora",
+          "key": 4
+        },
+        {
+          "title": "Exordio",
+          "author": "Por Andrés Sicard",
+          "key": 5
+        },
+        {
+          "title": "Food Design en Uruguay",
+          "author": "Por Daniel Bergara",
+          "key": 6
+        }
+      ],
+      "key": 4
+    },
+    {
+      "title": "Capítulo 5",
+      "subtitle": "Charlas",
+      "papers": [
+        {
+          "title": "Panorama del Food Design en México",
+          "author": "Por Ana Victoria Molina Vargas",
+          "key": 1
+        },
+        {
+          "title": "Conocimiento tradicional Agrobiodiversidad",
+          "author": "Por Claudia Cárdenas y Constanza Ramírez",
+          "key": 2
+        },
+        {
+          "title": "¿Qué es o qué se entiende por Food Design?",
+          "author": "Por Francisco Jiménez",
+          "key": 3
+        },
+        {
+          "title": "El Diseño en la salvaguardia y valorización del patrimonio gastronómico de un territorio",
+          "author": "Por Tania Delgado",
+          "key": 4
+        },
+        {
+          "title": "El color y los sentidos Una experiencia gastronómica",
+          "author": "Por Samira Kadamani y Amparo Quijano",
+          "key": 5
+        }
+      ],
+      "key": 5
+    },
+    {
+      "title": "Capítulo 6",
+      "subtitle": "Mesa redonda con industria gastronómica",
+      "key": 6
+    },
+    {
+      "title": "Capítulo 7",
+      "subtitle": "Disfruta 10/10",
+      "key": 7
+    }
+  ]
+}

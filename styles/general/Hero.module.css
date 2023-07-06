@@ -13,7 +13,7 @@
   background-color: #fae16e;
   background-image: url("../../assets/general/banner/home-banner-2.png");
   background-repeat: no-repeat;
-  background-position: left 0rem top -4rem;
+  background-position: left 0rem top -6rem;
 }
 
 .somos {
@@ -34,7 +34,7 @@
   background-color: #ffe2e3;
   background-image: url("../../assets/general/banner/convocamos-banner.png");
   background-repeat: no-repeat;
-  background-position: left 3rem top -3rem;
+  background-position: left 7rem top -3rem;
 }
 
 .home .hero__subtitle {
@@ -46,7 +46,7 @@
 }
 
 .hacemos .hero__title {
-  color: var(--yellow);
+  color: var(--yellow-complementary);
 }
 
 .convocamos .hero__title {

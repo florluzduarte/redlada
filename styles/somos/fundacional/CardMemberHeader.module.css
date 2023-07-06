@@ -1,0 +1,128 @@
+.card__container__fundacional {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.card__container__regular {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.card__img {
+  border-radius: 50%;
+  width: 5rem;
+  height: auto;
+}
+
+.card__img__fundacional {
+  border: 3px solid var(--yellow);
+}
+
+.card__img__nucleo {
+  border: 3px solid var(--orange);
+}
+
+.card__img__nodos {
+  border: 3px solid var(--pink);
+}
+
+.card__personaldata__wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+
+.card__name__wrapper {
+  display: flex;
+  gap: 0.8rem;
+  align-items: center;
+}
+
+.card__name {
+  font-size: 1.125rem;
+  font-weight: 700;
+}
+
+.card__name__regular {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.card__country {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.card__flag {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.card__email__wrapper {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.card__email__icon {
+  width: 1.5rem;
+  height: 1.5rem;
+  color: var(--gray-1);
+}
+
+.card__email__link:hover {
+  color: var(--orange);
+}
+
+.card__website__link {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.card__website__link:hover {
+  color: var(--orange);
+}
+
+.card__website__icon {
+  width: 1.5rem;
+  height: 1.5rem;
+  color: var(--gray-1);
+}
+
+@media screen and (max-width: 285px) {
+  .card__name {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (min-width: 1023px) {
+  .card__name {
+    font-size: 1.25rem;
+  }
+
+  .card__email__link,
+  .card__website__link {
+    font-size: 1.125rem;
+  }
+}
+
+@media screen and (min-width: 1365px) {
+  .card__img {
+    height: 7.5rem;
+    width: 7.5rem;
+  }
+
+  .fcard__name {
+    font-size: 1.5rem;
+  }
+
+  .card__container__regular {
+    flex-direction: row;
+    gap: 2rem;
+  }
+}
