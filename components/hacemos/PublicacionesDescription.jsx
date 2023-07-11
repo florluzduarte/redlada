@@ -1,3 +1,6 @@
+//Libraries
+import PropTypes from "prop-types";
+
 //Styles
 import styles from "../../styles/hacemos/PublicacionesDescription.module.css";
 
@@ -21,3 +24,7 @@ const PublicacionesDescription = ({ data }) => {
 };
 
 export default PublicacionesDescription;
+
+PublicacionesDescription.propTypes = {
+  data: PropTypes.object.isRequired,
+};

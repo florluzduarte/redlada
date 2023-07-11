@@ -2,6 +2,7 @@
 import Layout from "@/components/layout/Layout";
 import Header from "@/components/general/Header";
 import PublicacionesDescription from "@/components/hacemos/PublicacionesDescription";
+import CardPublicaciones from "@/components/hacemos/CardPublicaciones";
 import NavigationMembers from "@/components/general/NavigationMembers";
 
 //Data
@@ -25,6 +26,7 @@ const Publicaciones = () => {
     <Layout>
       <Header titleSection={propsHeader.titleSection} btn={propsHeader.btn} />
       <PublicacionesDescription data={publicacionesDescription} />
+      <CardPublicaciones />
       <NavigationMembers btn={propsHeader.btn} />
     </Layout>
   );
