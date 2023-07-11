@@ -1,0 +1,39 @@
+{
+  "texts": [
+    {
+      "paragraph": [
+        {
+          "title": "Estamos construyendo una base de apoyo para poder crear y fomentar programas y contenidos educativos (docencia, investigación y extensión) de Food Design.",
+          "text": " Un primer paso en esta dirección consiste en reunir publicaciones que surgen directamente de la Red, sea de socios, alianzas u otras fuentes afines.",
+          "key": 1
+        },
+        {
+          "title": "Estos contenidos deberían ser de carácter específico de FD, y en lo posible tener un espíritu o cometido didáctico o epistemológico.",
+          "text": " Esto nos ayudará a proveer material de apoyo concreto y motivar a recién iniciados trabajando en ámbitos educativos para que lancen y maduren acciones de formación académica y profesional.",
+          "key": 2
+        }
+      ],
+      "key": 1
+    },
+    {
+      "paragraph": [
+        {
+          "title": "Nos parece importante hacer hincapié en que hoy por hoy existe tanta información disponible en la web, y mucha de ella de carácter recopiladora, que es útil saber cuáles son originales, qué perfil y calidad tienen en cuanto rigor y pensamiento crítico,",
+          "text": " para así mantener un perfil enfocado hacia lo que nos interesa en relación a la misión y objetivos de la red.",
+          "key": 1
+        },
+        {
+          "title": "Los invitamos a sumar su material",
+          "text": " para que la Biblioteca esté en constante evolución.",
+          "key": 2
+        },
+        {
+          "title": "Para profundizar en tema,",
+          "text": " también puedes visitar esta plataforma aliada de la red: www.fdxe.org",
+          "key": 3
+        }
+      ],
+      "key": 2
+    }
+  ]
+}
