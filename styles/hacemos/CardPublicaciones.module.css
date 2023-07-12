@@ -38,9 +38,16 @@
   display: flex;
   gap: 0.5rem;
   align-items: center;
+  font-weight: 700;
 }
 
 .card__button__icon {
   width: 1.5rem;
   height: 1.5rem;
+}
+
+@media screen and (min-width: 1023px) {
+  .card__title {
+    font-size: 1.5rem;
+  }
 }
