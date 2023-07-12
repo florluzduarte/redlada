@@ -1,27 +1,39 @@
 //Libraries
-import { AiOutlinePaperClip } from "react-icons/ai";
+import { AiOutlinePaperClip, AiOutlineCloudDownload } from "react-icons/ai";
 
-//Components
-import EncuentrosDownloadBtn from "../encuentros/EncuentrosDownloadBtn";
+//Styles
+import styles from "../../styles/hacemos/CardPublicaciones.module.css";
 
-const CardPublicaciones = () => {
+const CardPublicaciones = ({ cardData }) => {
   return (
-    <a href="https://ceprodide.com.ar" target="_blank">
-      <AiOutlinePaperClip />
-      <h2>Memorias 9no Encuentro Latinoamericano de Food Design</h2>
-      <div></div>
-      <div>
-        <p>
-          <span>Fecha de publicacion: </span>Julio 2021
-        </p>
-        <p>
-          <span>Publicado por: </span>Red Latinoamericana de Diseño y Alimentos
-        </p>
-        <p>
-          <span>ISBN: </span>978-9974-8752-2-7
-        </p>
+    <a href={cardData.href} target="_blank">
+      <div className={styles.card}>
+        <div className={`${styles.card__icon__container} ${cardData.bkg}`}>
+          <AiOutlinePaperClip className={styles.card__icon} />
+        </div>
+        <h2 className={styles.card__title}>{cardData.title}</h2>
+        <div className={`${styles.card__line} ${cardData.bkg}`}></div>
+        <div className={styles.card__details__container}>
+          <p>
+            <span className={styles.card__details__title}>
+              Fecha de publicacion:{" "}
+            </span>
+            {cardData.date}
+          </p>
+          <p>
+            <span className={styles.card__details__title}>Publicado por: </span>
+            {cardData.author}
+          </p>
+          <p>
+            <span className={styles.card__details__title}>ISBN: </span>
+            {cardData.isbn}
+          </p>
+        </div>
+        <div className={`${styles.card__button} ${cardData.color}`}>
+          <AiOutlineCloudDownload className={styles.card__button__icon} />
+          <p>Descargar</p>
+        </div>
       </div>
-      <EncuentrosDownloadBtn />
     </a>
   );
 };
