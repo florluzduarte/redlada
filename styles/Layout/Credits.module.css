@@ -1,0 +1,41 @@
+.credits {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  align-items: center;
+  padding: 0.5rem;
+}
+
+.credits__wrapper {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.credits__font {
+  font-size: 0.75rem;
+}
+
+.credits__link {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--gray-1);
+}
+
+@media screen and (min-width: 765px) {
+  .credits {
+    flex-direction: row;
+    justify-content: center;
+    gap: 1rem;
+  }
+}
+
+@media screen and (min-width: 1023px) {
+  .credits {
+    padding: 1rem 3.5rem 1rem 0rem;
+  }
+
+  .credits__font,
+  .credits__link {
+    font-size: 0.625rem;
+  }
+}

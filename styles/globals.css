@@ -106,3 +106,23 @@ small {
 .bkgHeroYellow {
   background-color: #fae16e;
 }
+
+.bkg__orange {
+  background-color: var(--orange);
+}
+
+.bkg__green {
+  background-color: var(--green);
+}
+
+.bkg__yellow {
+  background-color: var(--yellow);
+}
+
+.bkg__pink {
+  background-color: var(--pink);
+}
+
+.bkg__violet {
+  background-color: var(--violet);
+}

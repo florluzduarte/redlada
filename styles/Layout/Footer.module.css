@@ -1,9 +1,12 @@
 .footer {
+  padding: 3.5rem;
+}
+
+.footer__wrapper {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 1rem;
-  padding: 3.5rem;
 }
 
 .footer__social__container {
@@ -62,18 +65,28 @@
   background-color: var(--white);
 }
 
+@media screen and (max-width: 283px) {
+  .footer__contact__email {
+    font-size: 0.75rem;
+  }
+}
+
 @media screen and (min-width: 1023px) {
   .footer {
+    padding: 1rem 3.5rem;
+  }
+
+  .footer__wrapper {
     flex-direction: row;
     gap: 0rem;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem 3.5rem;
   }
 }
 
-@media screen and (max-width: 283px) {
-  .footer__contact__email {
-    font-size: 0.75rem;
+@media screen and (min-width: 1365px) {
+  .footer__wrapper {
+    max-width: 75rem;
+    margin: 0rem auto;
   }
 }

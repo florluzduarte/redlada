@@ -4,6 +4,7 @@ import Head from "next/head";
 //Components
 import Navbar from "./Navbar";
 import Footer from "./Footer";
+import Credits from "./Credits";
 
 //Data
 import dataMetatags from "../../data/Layout/metatagsdata.json";
@@ -33,6 +34,7 @@ const Layout = ({ children, color }) => {
       <Navbar />
       <main>{children}</main>
       <Footer color={color} />
+      <Credits />
     </>
   );
 };
