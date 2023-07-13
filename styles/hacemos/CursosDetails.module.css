@@ -1,0 +1,20 @@
+.image {
+  width: 100%;
+  height: auto;
+  margin-bottom: 3rem;
+}
+
+@media screen and (min-width: 1023px) {
+  .image {
+    width: 85%;
+    height: auto;
+    margin: 0rem auto 5rem auto;
+  }
+}
+
+@media screen and (min-width: 1365px) {
+  .image {
+    width: 75rem;
+    height: auto;
+  }
+}
