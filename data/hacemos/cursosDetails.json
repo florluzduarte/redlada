@@ -1,0 +1,34 @@
+{
+  "texts": [
+    {
+      "paragraph": [
+        {
+          "title": "Food Design x Educación es una plataforma que genera diferentes actividades y acciones (seminarios, simposios, foros, mesas redondas, grupos de trabajo, charlas, etc.)",
+          "text": " reuniendo a personas y lugares afines interesados en avanzar contenidos y comprensión de Food Design (Diseño y Alimentos) para la academia en relación a su enseñanza, aprendizaje e investigación.",
+          "key": 1
+        },
+        {
+          "title": "FDxE es una oportunidad para articular e intercambiar ideas",
+          "text": "  entre pensadores y educadores que trabajan en la transdisciplina emergente de Food Design y afines, con un espíritu crítico y constructivo relacionado con lo académico institucional, al igual que otros formatos y espacios no tradicionales.",
+          "key": 2
+        }
+      ],
+      "key": 1
+    },
+    {
+      "paragraph": [
+        {
+          "title": "FDxE crea alianzas con diferentes instituciones y personas",
+          "text": " según el flujo de oportunidades y demanda. Food Design x Educación fue creado por Pedro Reissig junto a colaboradores, incluyendo a Sonia Massari como socia europea y Andres Sicard en Colombia.",
+          "key": 1
+        },
+        {
+          "title": "Para más información sobre la labor de FDxE",
+          "text": " los invitamos a visitar su sitio web: http://www.fdxe.org/",
+          "key": 2
+        }
+      ],
+      "key": 2
+    }
+  ]
+}
