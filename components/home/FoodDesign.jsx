@@ -16,7 +16,7 @@ const FoodDesign = () => {
   return (
     <section className={styles.section}>
       <div className={styles.food}>
-        <h2>¿Qué es diseño y alimentos?</h2>
+        <h2>¿Qué es Diseño y Alimentos?</h2>
         <div className={styles.food__text__wrapper}>
           {foodDesign.texts.map((text) => (
             <div key={text.key} className={styles.food__paragraph__wrapper}>
