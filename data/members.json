@@ -1302,6 +1302,58 @@
       "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1678720144/redlada/community/gianny-lopez_gspayn.webp",
       "active": true,
       "spokesman": false
+    },
+    {
+      "id": "luis-salgado",
+      "name": "Luis Fernando Salgado",
+      "country": "Venezuela",
+      "flag": {
+        "code": "ve",
+        "alt": "Bandera de Venezuela"
+      },
+      "email": "tuatuaacademia@gmail.com",
+      "bio": [
+        {
+          "text": "Diseñador industrial, profesor e investigador.",
+          "key": 1
+        }
+      ],
+      "website": [
+        {
+          "href": "https://tuatuaacademia.wixsite.com/tuatua",
+          "title": "Tuatua Academia",
+          "key": 1
+        }
+      ],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1696601968/redlada/community/luis-salgado_kcwbnj.webp",
+      "active": true,
+      "spokesman": false
+    },
+    {
+      "id": "margeliz-ramirez",
+      "name": "Margeliz Astrid Ramírez Hernández",
+      "country": "Venezuela",
+      "flag": {
+        "code": "ve",
+        "alt": "Bandera de Venezuela"
+      },
+      "email": "tuatuaacademia@gmail.com",
+      "bio": [
+        {
+          "text": "Maestra Panadera artesanal, investigadora y bióloga.",
+          "key": 1
+        }
+      ],
+      "website": [
+        {
+          "href": "https://tuatuaacademia.wixsite.com/tuatua",
+          "title": "Tuatua Academia",
+          "key": 1
+        }
+      ],
+      "photo": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1696601968/redlada/community/margeliz-ramirez_ufvqsu.webp",
+      "active": true,
+      "spokesman": false
     }
   ]
 }
