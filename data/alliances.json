@@ -1,6 +1,15 @@
 {
   "alliances": [
     {
+      "id": "unr",
+      "name": "Universidad Nacional de Rosario - Facultad de Arquitectura, Planeamiento y Diseño",
+      "image": {
+        "src": "https://res.cloudinary.com/dgixc3e9z/image/upload/v1721071685/redlada/alliances/unr_bnlkas.png",
+        "alt": "Logo Universidad Nacional de Rosario"
+      },
+      "website": "https://unr.edu.ar/"
+    },
+    {
       "id": "eucd",
       "name": "Escuela universitaria Centro de Diseño - Universidad de la República - Uruguay",
       "image": {
