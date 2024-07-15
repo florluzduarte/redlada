@@ -8,10 +8,10 @@ import newsText from "../../data/convocamos/news.json";
 import styles from "../../styles/convocamos/News.module.css";
 
 //Image
-import newsImage from "../../assets/convocamos/news.png";
+import newsImage from "../../assets/convocamos/territorios-gastronomicos-web.jpg";
 
 const altImage =
-  "Flyer undécimo encuentro latinoamericano de Diseño y Alimentos";
+  "Flyer doceavo encuentro latinoamericano de Diseño y Alimentos";
 
 const News = () => {
   return (
@@ -37,7 +37,7 @@ const News = () => {
         </div>
         <div className={styles.news__title__image__wrapper}>
           <h2 className={styles.news__title}>
-            11vo Encuentro Latinoamericano de Food Design (2023 - Paraguay)
+            12° Encuentro Latinoamericano de Diseño y Alimentos (2024 - Ecuador)
           </h2>
           <Image
             src={newsImage}
