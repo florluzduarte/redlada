@@ -1,24 +1,29 @@
 {
   "introText": [
     {
-      "title": "La undécima edición del Encuentro Latinoamericano de Diseño y Alimentos (Food Design) nos convoca para entablar un diálogo sobre la diversidad de prácticas y abordajes",
-      "text": " que confluyen en los procesos de [trans-re]forma-acciones de los (eco)sistemas alimentarios de y desde la región.",
+      "title": "Nos complace invitarlos al 12° Encuentro Latinoamericano de Diseño y Alimentos",
+      "text": " a realizarse en la ciudad de Cuenca (Ecuador) del 16 al 19 de Octubre del 2024.",
       "key": 1
     },
     {
-      "title": "En este encuentro nos interesa dialogar, colaborar, aprender y co-crear desde el crisol de saberes",
-      "text": " que nos permita converger desde las diferencias, generar sinergias para asegurar los pluriversos alimentarios para, desde y a través de la región.",
+      "title": "El encuentro nos permitirá visibilizar y reflexionar sobre la diversidad alimentaria del territorio latinoamericano",
+      "text": " y busca poner en valor, visibilizar acciones en pos del cuidado de la vida. Además se buscará comprender las formas en que la gastronomía, sus prácticas y sus actores (más allá de las artes culinarias) se desarrollan dentro de los ecosistemas alimentarios.",
       "key": 2
     },
     {
-      "title": "Buscamos expandir la pluralidad de miradas y sabidurías existentes en nuestros territorios, por ello, resulta necesario dinamizar las conversaciones y colaboraciones que muevan hacia acciones colectivas",
-      "text": " que nutran y fortalezcan la participación confluyente (sociedad–academia-estado). Que busque enaltecer la diversidad de sabores, texturas, aromas y sobre todo saberes que configuran la riqueza de las culturas alimentarias humanas.",
+      "title": "Invita:",
+      "text": " Red Latinoamericana de Diseño y Alimentos.",
       "key": 3
+    },
+    {
+      "title": "Organiza:",
+      "text": " Universidad del Azuay - Facultad de Diseño, Arquitectura y Arte.",
+      "key": 4
     }
   ],
   "link": {
     "text": "Si te interesa saber/hacer, contáctate con nosotros a: ",
-    "href": "https://fada.una.py/fooddesign2023/",
-    "link": "Encuentro 2023"
+    "href": "https://www.disuda.net/disenoyalimentos2024/",
+    "link": "Encuentro 2024"
   }
 }
