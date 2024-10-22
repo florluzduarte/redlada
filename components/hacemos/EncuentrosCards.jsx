@@ -8,6 +8,7 @@ import cardsData from "../../data/hacemos/cardEncuentros.json";
 import styles from "../../styles/hacemos/EncuentrosCards.module.css";
 
 //Images
+import paraguay from "../../public/encuentros/2023-paraguay.png";
 import montevideo from "../../public/encuentros/2022-montevideo.png";
 import curitiba from "../../public/encuentros/2021-curitiba.png";
 import virtual from "../../public/encuentros/2020-virtual.png";
@@ -21,6 +22,7 @@ import montevideoTrece from "../../public/encuentros/2013-montevideo.png";
 
 const EncuentrosCards = () => {
   const images = [
+    paraguay,
     montevideo,
     curitiba,
     virtual,

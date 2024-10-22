@@ -1,5 +1,16 @@
 [
   {
+    "title": "Encuentro 2023",
+    "sede": "San Lorenzo - Paraguay",
+    "concepto": "Tembi'u'andu / Texturas",
+    "href": "/encuentros/2023-san-lorenzo-paraguay",
+    "color": "pink",
+    "type": "withBorder",
+    "imageSrc": "paraguay",
+    "alt": "Logo encuentro 2023",
+    "key": 11
+  },
+  {
     "title": "Encuentro 2022",
     "sede": "Montevideo - Uruguay",
     "concepto": "(Re)encuentro",
