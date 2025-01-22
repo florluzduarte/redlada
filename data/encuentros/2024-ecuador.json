@@ -1,0 +1,122 @@
+{
+  "intro": [
+    {
+      "title": "Territorios Gastronómicos",
+      "paragraphs": [
+        {
+          "text": "La 12º edición del Encuentro Latinoamericano de Diseño y Alimentos (Food Design) invita a reflexionar sobre las prácticas alimentarias en distintos territorios, con un enfoque en la conservación de los ecosistemas alimentarios. Este evento destaca la riqueza y diversidad de la alimentación en Latinoamérica y la importancia de valorar y cuidar estos recursos para el futuro.",
+          "key": 1
+        },
+        {
+          "text": "El diseño y los alimentos se unen como herramientas para apoyar y desarrollar acciones que mejoren los ecosistemas alimentarios, involucrando a decisores, comensales, productores y cocineros. El encuentro busca fomentar el diálogo sobre cómo cuidar estos ecosistemas, reconociendo y valorando los saberes locales para asegurar un futuro sostenible para nuestros territorios gastronómicos.",
+          "key": 2
+        }
+      ],
+      "key": 1
+    }
+  ],
+  "indice": [
+    {
+      "title": "Día 1",
+      "subtitle": "16 d Octubre del 2024",
+      "papers": [
+        {
+          "title": "Charla Magistral",
+          "author": "Dr. Pedro Reissing (Argentina) - UBA",
+          "key": 1
+        },
+        {
+          "title": "Charla Magistral",
+          "author": "Dr. Andres Sicard (Colombia) - UNAL",
+          "key": 2
+        },
+        {
+          "title": "Charla Magistral",
+          "author": "Usina Innovación Alimentaria (Uruguay) - UTEC",
+          "key": 3
+        },
+        {
+          "title": "Lanzamiento del número 5 de la Revista Latinoamericana de Food Design: comes lo que eres",
+          "author": "Dra. Silvana Juri (Uruguay) - Instituto SARAS - Editora Revista RedLADA",
+          "key": 4
+        },
+        {
+          "title": "Exposición Alimentarios: Registros del SurMuestra de Cultura, Diseño y Alimentos y Trabajos de Estudiantes de la Optativa Diseño y Alimento",
+          "author": "Matilde Lombardi (Argentina)"
+        }
+      ],
+      "key": 1
+    },
+    {
+      "title": "Día 2",
+      "subtitle": "17 de Octubre del 2024",
+      "papers": [
+        {
+          "title": "Charla Magistral",
+          "author": "John Valverde (Ecuador) - Instituto San Isidro",
+          "key": 1
+        },
+        {
+          "title": "Charla Magistral",
+          "author": "Daniel Contreras (Ecuador) - Restaurante Dos Sucres",
+          "key": 2
+        },
+        {
+          "title": "Desde la Red (Presentación de proyectos)",
+          "author": "Miembros de RedLaDA",
+          "key": 3
+        },
+        {
+          "title": "FDxE (FoodDesign x Education) - Jornada Posgrados en Diseño y Alimentos",
+          "author": "Ponentes latinoamericanos con investigaciones en programas de maestría y doctorados en el área de diseño y alimentos",
+          "key": 4
+        }
+      ],
+      "key": 2
+    },
+    {
+      "title": "Día 3",
+      "subtitle": "18 de Octubre del 2024",
+      "key": 3,
+      "papers": [
+        {
+          "title": "Charlas magistral / invitados especiales",
+          "author": "Silvana Juri (Uruguay)",
+          "key": 1
+        },
+        {
+          "title": "Charlas magistral / invitados especiales",
+          "author": "Tatiana Rodríguez (Ecuador) - Restaurante La Chichería",
+          "key": 2
+        },
+        {
+          "title": "Jornada Interna de la Red",
+          "author": "Miembros de RedLaDA",
+          "key": 3
+        },
+        {
+          "title": "Sesión Solemne 40 años Facultad DAyA",
+          "author": "Facultad de Diseño, Arquitectura y Arte",
+          "key": 4
+        },
+        {
+          "title": "Exposición de trabajos de alumnos de la materia optativa de Diseño y Alimentos",
+          "author": "Estudiantes UDA",
+          "key": 5
+        }
+      ]
+    },
+    {
+      "title": "Día 4",
+      "subtitle": "19 de Octubre del 2024",
+      "papers": [
+        {
+          "title": "Salida de campo / Visita a cantones del Azuay",
+          "author": "Miembros de RedLaDA / Estudiantes Optativa",
+          "key": 1
+        }
+      ],
+      "key": 4
+    }
+  ]
+}

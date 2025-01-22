@@ -6,14 +6,14 @@ import IndexMemory from "@/components/encuentros/IndexMemory";
 import NavigationMembers from "@/components/general/NavigationMembers";
 
 //Data
-import dataParaguay2023 from "../../data/encuentros/2023-paraguay.json";
+import dataEcuador2024 from "../../data/encuentros/2024-ecuador.json";
 
 const propsHeader = {
   banner: {
-    title: "11vo Encuentro Latinoamericano de Diseño y Alimentos",
+    title: "12vo Encuentro Latinoamericano de Diseño y Alimentos",
     image: {
-      src: "/encuentros/2023-paraguay-banner.png",
-      alt: "Banner encuentro Paraguay 2023",
+      src: "/encuentros/2024-ecuador-banner.png",
+      alt: "Banner encuentro Ecuador 2024",
     },
   },
   btn: {
@@ -26,10 +26,10 @@ const propsHeader = {
     color: "green",
   },
   download:
-    "https://drive.google.com/file/d/1JZ9T6sJ_ILzzelGJqMURegfTMPZ1a5Jl/view?usp=sharing",
+    "https://www.disuda.net/disenoyalimentos2024/",
 };
 
-const Paraguay = () => {
+const Ecuador = () => {
   return (
     <Layout>
       <EncuentrosBanner
@@ -37,11 +37,11 @@ const Paraguay = () => {
         download={propsHeader.download}
         banner={propsHeader.banner}
       />
-      <Intro data={dataParaguay2023} />
-      <IndexMemory data={dataParaguay2023} />
+      <Intro data={dataEcuador2024} />
+      <IndexMemory data={dataEcuador2024} />
       <NavigationMembers btn={propsHeader.btn} />
     </Layout>
   );
 };
 
-export default Paraguay;
+export default Ecuador;

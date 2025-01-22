@@ -1,5 +1,16 @@
 [
   {
+    "title": "Encuentro 2024",
+    "sede": "Cuenca - Ecuador",
+    "concepto": "Territorios Gastronómicos",
+    "href": "/encuentros/2024-ecuador",
+    "color": "pink",
+    "type": "withBorder",
+    "imageSrc": "ecuador",
+    "alt": "Logo encuentro 2024",
+    "key": 12
+  },
+  {
     "title": "Encuentro 2023",
     "sede": "San Lorenzo - Paraguay",
     "concepto": "Tembi'u'andu / Texturas",
