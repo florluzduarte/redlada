@@ -8,7 +8,7 @@ import newsText from "../../data/convocamos/news.json";
 import styles from "../../styles/convocamos/News.module.css";
 
 //Image
-import newsImage from "../../assets/convocamos/territorios-gastronomicos-web.jpg";
+import newsImage from "../../assets/convocamos/news.png";
 
 const altImage =
   "Flyer doceavo encuentro latinoamericano de Diseño y Alimentos";
@@ -34,10 +34,30 @@ const News = () => {
               {newsText.link.link}
             </a>
           </p>
+          <p>
+            {newsText.link2.text}{" "}
+            <a
+              href={newsText.link2.href}
+              className={styles.news__link}
+              target="_blank"
+            >
+              {newsText.link2.link}
+            </a>
+          </p>
+          <p>
+            {newsText.link3.text}{" "}
+            <a
+              href={newsText.link3.href}
+              className={styles.news__link}
+              target="_blank"
+            >
+              {newsText.link3.link}
+            </a>
+          </p>
         </div>
         <div className={styles.news__title__image__wrapper}>
           <h2 className={styles.news__title}>
-            12° Encuentro Latinoamericano de Diseño y Alimentos (2024 - Ecuador)
+            13° Encuentro Latinoamericano de Diseño y Alimentos (2025 - Colombia)
           </h2>
           <Image
             src={newsImage}
