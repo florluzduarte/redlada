@@ -1,29 +1,39 @@
 {
   "introText": [
     {
-      "title": "Nos complace invitarlos al 12° Encuentro Latinoamericano de Diseño y Alimentos",
-      "text": " a realizarse en la ciudad de Cuenca (Ecuador) del 16 al 19 de Octubre del 2024.",
+      "title": "Nos complace invitarlos al 13° Encuentro Latinoamericano de Diseño y Alimentos",
+      "text": " a realizarse en Colombia del 06 al 10 de Octubre del 2025.",
       "key": 1
     },
     {
-      "title": "El encuentro nos permitirá visibilizar y reflexionar sobre la diversidad alimentaria del territorio latinoamericano",
-      "text": " y busca poner en valor, visibilizar acciones en pos del cuidado de la vida. Además se buscará comprender las formas en que la gastronomía, sus prácticas y sus actores (más allá de las artes culinarias) se desarrollan dentro de los ecosistemas alimentarios.",
+      "title": "Echemos a rodar las #arepas, hagamos de Latinoamérica una gran cocina que no conozca fronteras",
+      "text": " , llenemosla de diálogo, sostenibilidad, intercambios, innovación, unión y creatividad.",
       "key": 2
     },
     {
       "title": "Invita:",
-      "text": " Red Latinoamericana de Diseño y Alimentos.",
+      "text": " Red Latinoamericana de Diseño y Alimentos",
       "key": 3
     },
     {
       "title": "Organiza:",
-      "text": " Universidad del Azuay - Facultad de Diseño, Arquitectura y Arte.",
+      "text": " Sabores & Saberes",
       "key": 4
     }
   ],
   "link": {
-    "text": "Si te interesa saber/hacer, contáctate con nosotros a: ",
-    "href": "https://www.disuda.net/disenoyalimentos2024/",
-    "link": "Encuentro 2024"
+    "text": "Si te interesa saber/hacer, revisa todas las novedades del evento en: ",
+    "href": "https://saboressaberes.org/encuentro-latinoamericano-de-diseno-y-alimentos-saberes/",
+    "link": "Encuentro 2025"
+  },
+  "link2": {
+    "text": "Participa en nuestros encuentros virtuales mensuales y explora el significado de la arepa en diferentes dimensiones: ",
+    "href": "https://saboressaberes.org/redisenando-la-arepa/",
+    "link": "Rediseñando la arepa"
+  },
+  "link3": {
+    "text": "Invitamos a todas las personas interesadas en la fotografía y el diseño a participar en Intravistas – Miradas desde el Territorio, una exploración visual donde cada participante construirá un relato propio a través de imágenes.",
+    "href": "https://saboressaberes.org/intravistas-miradas-desde-el-territorio/",
+    "link": "Convocatoria 2025 y condiciones de participación"
   }
 }
