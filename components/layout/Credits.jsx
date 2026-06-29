@@ -5,14 +5,7 @@ const Credits = () => {
   return (
     <div className={styles.credits}>
       <div className={styles.credits__wrapper}>
-        <p className={styles.credits__font}>Coordinación de proyecto:</p>
-        <a
-          href="https://www.linkedin.com/in/malena-pasin-868a6820/"
-          target="_blank"
-          className={styles.credits__link}
-        >
-          Malena Pasin
-        </a>
+        <p className={styles.credits__font}><strong>{`RedLaDA ©${new Date().getFullYear().toString()}`}</strong></p>
       </div>
       <div className={styles.credits__wrapper}>
         <p className={styles.credits__font}>Diseño y Desarrollo Web:</p>

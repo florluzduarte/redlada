@@ -8,6 +8,7 @@ import cardsData from "../../data/hacemos/cardsCulturaMemorias.json";
 import styles from "../../styles/hacemos/CulturaMemorias.module.css";
 
 //Images
+import culturaCompilado from "../../public/cultura/cultura-2020.png";
 import culturaVeinte from "../../public/cultura/cultura-2020.png";
 import culturaDiecinueve from "../../public/cultura/cultura-2019.png";
 import culturaDieciocho from "../../public/cultura/cultura-2018.png";
@@ -16,6 +17,7 @@ import culturaDieciseis from "../../public/cultura/cultura-2016.png";
 
 const CulturaMemorias = () => {
   const images = [
+    culturaCompilado,
     culturaVeinte,
     culturaDiecinueve,
     culturaDieciocho,
