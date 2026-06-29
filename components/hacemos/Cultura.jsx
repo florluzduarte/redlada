@@ -36,17 +36,6 @@ const Cultura = () => {
         </div>
       </div>
       <div className={styles.cultura__video__wrapper}>
-        {/* <iframe
-          width="560"
-          height="315"
-          src="https://www.youtube.com/embed/fttGBzH9Bso"
-          title="YouTube video player"
-          // frameBorder="0"
-          allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowFullScreen
-          loading="lazy"
-          className={styles.cultura__video}
-        ></iframe> */}
         <a href="https://youtu.be/fttGBzH9Bso" target="_blank">
           <Image
             src={videoImage}

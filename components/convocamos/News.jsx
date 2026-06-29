@@ -11,7 +11,7 @@ import styles from "../../styles/convocamos/News.module.css";
 import newsImage from "../../assets/convocamos/news.png";
 
 const altImage =
-  "Flyer doceavo encuentro latinoamericano de Diseño y Alimentos";
+  "Flyer decimocuarto encuentro latinoamericano de Diseño y Alimentos";
 
 const News = () => {
   return (
@@ -24,40 +24,10 @@ const News = () => {
               {text}
             </p>
           ))}
-          <p>
-            {newsText.link.text}{" "}
-            <a
-              href={newsText.link.href}
-              className={styles.news__link}
-              target="_blank"
-            >
-              {newsText.link.link}
-            </a>
-          </p>
-          <p>
-            {newsText.link2.text}{" "}
-            <a
-              href={newsText.link2.href}
-              className={styles.news__link}
-              target="_blank"
-            >
-              {newsText.link2.link}
-            </a>
-          </p>
-          <p>
-            {newsText.link3.text}{" "}
-            <a
-              href={newsText.link3.href}
-              className={styles.news__link}
-              target="_blank"
-            >
-              {newsText.link3.link}
-            </a>
-          </p>
         </div>
         <div className={styles.news__title__image__wrapper}>
           <h2 className={styles.news__title}>
-            13° Encuentro Latinoamericano de Diseño y Alimentos (2025 - Colombia)
+            14° Encuentro Latinoamericano de Diseño y Alimentos (2026 - Oaxaca México)
           </h2>
           <Image
             src={newsImage}
