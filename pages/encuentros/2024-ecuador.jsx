@@ -26,7 +26,7 @@ const propsHeader = {
     color: "green",
   },
   download:
-    "https://www.disuda.net/disenoyalimentos2024/",
+    "https://drive.google.com/file/d/1qvemfzfx65QQOjMzA5sQitF63c4sUykU/view?usp=sharing",
 };
 
 const Ecuador = () => {
