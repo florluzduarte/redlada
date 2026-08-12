@@ -26,7 +26,7 @@ const Cultura = () => {
           <p>
             {link.text}{" "}
             <a
-              href="mailto:alo@lafooddesign.org"
+              href="mailto:hola@lafooddesign.org"
               subject="Contacto%20RedLaDA%20web"
               className={styles.cultura__link__email}
             >
