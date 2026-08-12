@@ -30,11 +30,11 @@ const Alianzas = () => {
         <p>
           {headerDescription.alianzas}{" "}
           <a
-            href="mailto:alo@lafooddesign.org"
+            href="mailto:hola@lafooddesign.org"
             subject="Contacto%20RedLaDA%20alianzas"
             className={styles.alianzas__email__link}
           >
-            alo@lafooddesign.org
+            hola@lafooddesign.org
           </a>
         </p>
       </Header>

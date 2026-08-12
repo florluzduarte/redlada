@@ -32,10 +32,10 @@ const PeopleNodos = ({ country }) => {
             Para más información sobre la actividad de la Red en tu ubicación
             contáctanos a:{" "}
             <a
-              href="mailto:alo@lafooddesign.com"
+              href="mailto:hola@lafooddesign.com"
               className={styles.people__not__found__email}
             >
-              alo@lafooddesign.com
+              hola@lafooddesign.com
             </a>
           </p>
         </div>
