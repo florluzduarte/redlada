@@ -4,11 +4,11 @@
       "title": "Territorios Gastronómicos",
       "paragraphs": [
         {
-          "text": "La 12º edición del Encuentro Latinoamericano de Diseño y Alimentos (Food Design) invita a reflexionar sobre las prácticas alimentarias en distintos territorios, con un enfoque en la conservación de los ecosistemas alimentarios. Este evento destaca la riqueza y diversidad de la alimentación en Latinoamérica y la importancia de valorar y cuidar estos recursos para el futuro.",
+          "text": "La organización del 12o Encuentro Latinoamericano de Diseño y Alimentos agradece de manera especial a la Universidad del Azuay y su Facultad de Diseño, Arquitectura y Arte y a todas las personas e instituciones que hicieron posible este espacio de encuentro, diálogo y construcción colectiva.",
           "key": 1
         },
         {
-          "text": "El diseño y los alimentos se unen como herramientas para apoyar y desarrollar acciones que mejoren los ecosistemas alimentarios, involucrando a decisores, comensales, productores y cocineros. El encuentro busca fomentar el diálogo sobre cómo cuidar estos ecosistemas, reconociendo y valorando los saberes locales para asegurar un futuro sostenible para nuestros territorios gastronómicos.",
+          "text": "Nuestro agradecimiento al Dr. Francisco Salgado Arteaga, Rector; a Rafael Estrella Toral, exDecano de la Facultad; a Fernando Córdova, exDecano Administrativo Financiero, a Jaime Garrido Chauvin y la Compañía de Teatro de la Universidad del Azuay, a Fernando Yukich, Fabián Cordero, Marcelo Espinoza, Danilo Saravia, Oscar Vintimilla, Paúl Carrión, Tania Méndez y el personal de apoyo de la facultad DAyA por su apoyo, colaboración y compromiso durante el desarrollo del Encuentro.",
           "key": 2
         }
       ],
@@ -17,106 +17,329 @@
   ],
   "indice": [
     {
-      "title": "Día 1",
-      "subtitle": "16 d Octubre del 2024",
+      "title": "Parte 1",
+      "subtitle": "El encuentro",
       "papers": [
         {
-          "title": "Charla Magistral",
-          "author": "Dr. Pedro Reissing (Argentina) - UBA",
+          "title": "Cuando el alimento nos reune",
+          "author": "Jhonn Alarcón Morales - Nodo Ecuador Red Latinoamericana de Diseño y Alimentos Profesor Titular de la Facultad de Diseño, Arquitectura y Arte de la Universidad del Azuay",
           "key": 1
         },
         {
-          "title": "Charla Magistral",
-          "author": "Dr. Andres Sicard (Colombia) - UNAL",
+          "title": "Presentación artística inaugural",
+          "author": "Compañía de Teatro de la Universidad del Azuay",
           "key": 2
         },
         {
-          "title": "Charla Magistral",
-          "author": "Usina Innovación Alimentaria (Uruguay) - UTEC",
+          "title": "El encuentro día a día",
+          "author": "RedLaDA",
           "key": 3
-        },
-        {
-          "title": "Lanzamiento del número 5 de la Revista Latinoamericana de Food Design: comes lo que eres",
-          "author": "Dra. Silvana Juri (Uruguay) - Instituto SARAS - Editora Revista RedLADA",
-          "key": 4
-        },
-        {
-          "title": "Exposición Alimentarios: Registros del SurMuestra de Cultura, Diseño y Alimentos y Trabajos de Estudiantes de la Optativa Diseño y Alimento",
-          "author": "Matilde Lombardi (Argentina)"
         }
       ],
       "key": 1
     },
     {
-      "title": "Día 2",
-      "subtitle": "17 de Octubre del 2024",
+      "title": "Parte 2",
+      "subtitle": "Conferencias y charlas magistrales",
       "papers": [
         {
-          "title": "Charla Magistral",
-          "author": "John Valverde (Ecuador) - Instituto San Isidro",
+          "title": "Diseño y Alimentos: Comprendiendo los ecosistemas alimentarios",
+          "author": "Pedro Reissig, PhD",
           "key": 1
         },
         {
-          "title": "Charla Magistral",
-          "author": "Daniel Contreras (Ecuador) - Restaurante Dos Sucres",
+          "title": "Retos y compromisos en las co-custodias de los territorios alimentarios",
+          "author": "Andrés Sicard Currea, PhD",
           "key": 2
         },
         {
-          "title": "Desde la Red (Presentación de proyectos)",
-          "author": "Miembros de RedLaDA",
+          "title": "Usina de innovación alimentaria - Innovación situada para los ecosistemas alimentarios",
+          "author": "Alejandra Martínez y Equipo Usina de Innovación Alimentaria. Universidad Tecnológica del Uruguay. Departamento de Innovación y Emprendimiento - UTEC Innova",
           "key": 3
         },
         {
-          "title": "FDxE (FoodDesign x Education) - Jornada Posgrados en Diseño y Alimentos",
-          "author": "Ponentes latinoamericanos con investigaciones en programas de maestría y doctorados en el área de diseño y alimentos",
+          "title": "Validación académica de la cocina criolla para una adecuada promoción del patrimonio gastronómico ecuatoriano",
+          "author": "John Valverde. Instituto Universitario San Isidro. Cuenca, Ecuador",
           "key": 4
+        },
+        {
+          "title": "Dos sucres. Cocina de territorio, ética y comunidad",
+          "author": "Daniel Contreras. Chef y cofundador del restaurante Dos Sucres. Cuenca, Ecuador",
+          "key": 5
+        },
+        {
+          "title": "Nutriendo la creatividad transformadora de los territorios gastronómicos. Aportes desde el Diseño y Alimentos para el cambio sistémico.",
+          "author": "Silvana Juri, PhD. SARAS Institute (Uruguay). Stockholm Resilience Centre (Suecia)",
+          "key": 6
+        },
+        {
+          "title": "Producción local como base del proceso creativo de la cocina ecuatoriana. La Chichería y la construcción de una gastronomía situada.",
+          "author": "Tatiana Rodríguez. Cocinera e investigadora gastronómica. La Chichería, Ecuador",
+          "key": 7
         }
       ],
       "key": 2
     },
     {
-      "title": "Día 3",
-      "subtitle": "18 de Octubre del 2024",
+      "title": "Parte 3",
+      "subtitle": "Experiencias, exposiciones y muestras",
       "key": 3,
       "papers": [
         {
-          "title": "Charlas magistral / invitados especiales",
-          "author": "Silvana Juri (Uruguay)",
+          "title": "Alimentación a prueba de niñas y niños",
+          "author": "Daniel Bergara - Uruguay",
           "key": 1
         },
         {
-          "title": "Charlas magistral / invitados especiales",
-          "author": "Tatiana Rodríguez (Ecuador) - Restaurante La Chichería",
+          "title": "Alimentos y Diseño",
+          "author": "Mariana Salgado y Andrés Sicard - Colombia",
           "key": 2
         },
         {
-          "title": "Jornada Interna de la Red",
-          "author": "Miembros de RedLaDA",
+          "title": "Bocados visuales",
+          "author": "Matilde Lombardi - Uruguay/Argentina",
           "key": 3
         },
         {
-          "title": "Sesión Solemne 40 años Facultad DAyA",
-          "author": "Facultad de Diseño, Arquitectura y Arte",
+          "title": "Gastronomía Bucal",
+          "author": "Pedro Reissig - Argentina",
           "key": 4
         },
         {
-          "title": "Exposición de trabajos de alumnos de la materia optativa de Diseño y Alimentos",
-          "author": "Estudiantes UDA",
+          "title": "Intravistas Diseño y Alimentos",
+          "author": "Curadora Matilde Lombardi- Uruguay/Argentina",
           "key": 5
+        },
+        {
+          "title": "Memorias Alimentarias de Bella Vista",
+          "author": "Curaduría: REDESS, Redes de Trabajadoras de la Economía Social y Solidaria de San Juan-Argentina - Jimena Andrieu, Karla, Lucero, Gabriela N. Montero, Virginia, Elsa Daniela Nievas, Marianela Eliana Ruarte, Estela Vargas. Fotografía: Sebastián Lampasone. Edición Sonora: Marianela Ruarte - Argentina",
+          "key": 6
+        },
+        {
+          "title": "Ñeque, tradición indígena Zenú",
+          "author": "Erika Solange Imbett Vargas, Eliana Zapata Ruiz, Fausto Zuleta Montoya - Colombia",
+          "key": 7
+        },
+        {
+          "title": "Una experiencia significativa",
+          "author": "Malena Pasin - Argentina",
+          "key": 8
+        },
+        {
+          "title": "Cátedra optativa Diseño y Alimentos",
+          "author": "Profesor Jhonn Alarcón y estudiantes de la cátedra - Ecuador",
+          "key": 9
+        },
+        {
+          "title": "Intravistas UDA - Cátedra Imagen y Movimiento",
+          "author": "Profesor Paúl Carrion - Ecuador y estudiantes de la cátedra",
+          "key": 10
         }
       ]
     },
     {
-      "title": "Día 4",
-      "subtitle": "19 de Octubre del 2024",
+      "title": "Parte 4",
+      "subtitle": "Foro académico",
       "papers": [
         {
-          "title": "Salida de campo / Visita a cantones del Azuay",
-          "author": "Miembros de RedLaDA / Estudiantes Optativa",
+          "title": "Uso de herramientas de Inteligencia Artificial en el desarrollo de recetas para condiciones especiales de alimentación: un enfoque en el diseño y alimentos",
+          "author": "Margéliz Ramírez - Venezuela - Virtual",
           "key": 1
+        },
+        {
+          "title": "Alacena ancestral: exploraciones de la cocina tradicional de Pasto desde la mirada del diseño",
+          "author": "Carlos Caicedo Moncayo - Colombia - Virtual",
+          "key": 2
+        },
+        {
+          "title": "Transformación de los territorios alimentarios en la serranía ecuatoriana: un enfoque multidisciplinario sobre el sistema de riego Chambo-Guano y su impacto en el consumo de alimentos",
+          "author": "Fabián Patricio Romero Jara - Ecuador - Presencial",
+          "key": 3
+        },
+        {
+          "title": "Cocinando país: mujeres, fogones y transformaciones sociales",
+          "author": "Jennifer Marsiglia Pastrana - Colombia - Presencial",
+          "key": 4
+        },
+        {
+          "title": "¿Cómo pueden contribuir los sistemas alimentarios a los desafíos de la lucha contra las drogas? Innovación social para desafiar problemas complejos",
+          "author": "Diana Moreno / Farah Reza - Colombia - Virtual",
+          "key": 5
+        },
+        {
+          "title": "Colectividad natural entre el pueblo de los Pastos y el Banco de la República de Ipiales. Semillas de intercambio y lunaciones, 2021-2024",
+          "author": "Mg. María Fernanda Chamorro R. / Dr. Fernando Palacios - Colombia - Virtual",
+          "key": 6
+        },
+        {
+          "title": "Las culturas alimentarias como territorios de práctica social y potencialmente creativa",
+          "author": "María Cristina Ascuntar Rivera / Carlos Córdoba Cely - Colombia - Presencial",
+          "key": 7
+        },
+        {
+          "title": "Rediseñando sabores con Bleo (Amaranthus hypochondriacus)",
+          "author": "Ingrid Ballestas - Colombia - Presencial",
+          "key": 8
+        },
+        {
+          "title": "La experiencia gastronómica desde la comida callejera urbana: las carretas de mariscos en Ensenada, B.C.",
+          "author": "Samara Lilian Vilchis Medina - México (Baja California) - Virtual",
+          "key": 9
+        },
+        {
+          "title": "El queso: territorio de encuentro rural",
+          "author": "Yudy Pulido - Colombia - Virtual",
+          "key": 10
+        },
+        {
+          "title": "El viche: bebida patrimonial de las comunidades afrodescendientes del Pacífico colombiano",
+          "author": "Sandra Vargas - Colombia - Virtual",
+          "key": 11
+        },
+        {
+          "title": "Biomaterial comestible como estrategia de diversificación del cultivo de nopal en Colombia utilizando como enfoque el diseño sistémico en alimentos",
+          "author": "María del Valle Sarmiento - Colombia - Presencial",
+          "key": 12
+        },
+        {
+          "title": "Conservar el sabor para perdurar el saber a través del diseño de alimentos. Estudio de caso: frutos nativos frianos del corregimiento de Buesaquillo - Pasto",
+          "author": "Danny Muñoz Guachavez / Camilo Potosí Benavides - Colombia - Presencial",
+          "key": 13
+        },
+        {
+          "title": "Re-conociendo el ecosistema de las plantas alimenticias nativas no convencionales (PANNC) para nutrir el territorio colombiano",
+          "author": "Adriana Bolaños Mora - Brasil - Presencial",
+          "key": 14
+        },
+        {
+          "title": "Las hojas naturales, de la chakra a la mesa",
+          "author": "María Cristina Ascuntar Rivera - Colombia - Presencial",
+          "key": 15
+        },
+        {
+          "title": "Diseño de alimentos a partir de la ahuyama “Doan Auyama”, sabores sureños",
+          "author": "Adelaida Barrabaco Rivera - Colombia - Presencial",
+          "key": 16
         }
       ],
       "key": 4
+    },
+    {
+      "title": "Parte 5",
+      "subtitle": "La red en acción",
+      "papers": [
+        {
+          "title": "FDXE Food Design x Education - Jornada de posgrados en Diseño y Alimentos",
+          "author": "Evento organizado por Andrés Sicard y Pedro Reissig",
+          "key": 1
+        },
+        {
+          "title": "Sabidurías Alimentarias a través del diseño: un abordaje interdisciplinario para las transiciones hacia la sostenibilidad",
+          "author": "Silvana Juri, Instituto SARAS (Uruguay)",
+          "key": 2
+        },
+        {
+          "title": "Sistema alimentario tradicional Kumiai: memoria, adaptación y territorio",
+          "author": "Carolina Rodríguez - UABA - México",
+          "key": 3
+        },
+        {
+          "title": "Estudio de caso: frutos nativos fríanos del corregimiento de Buesaquillo - Pasto",
+          "author": "Danny Muñoz Guachavez / Camilo Potosí Benavides - Colombia",
+          "key": 4
+        },
+        {
+          "title": "Rediseñando los sistemas de restoranes: Food Design para una mejor cultura alimentaria",
+          "author": "Ellen González - Brasil",
+          "key": 5
+        },
+        {
+          "title": "El diseño de experiencias gastronómicas: articulación del diseño en el acto de comer en restaurantes de Cuenca",
+          "author": "Jhonn Alarcón - Universidad del Azuay - Ecuador",
+          "key": 6
+        },
+        {
+          "title": "Diseño para cocina sustentable",
+          "author": "Karla Schrerer - Federal University of Paraná - Brasil",
+          "key": 7
+        },
+        {
+          "title": "Territorios creacionales de la cultura alimentaria: Rutas de observación mediadas por el diseño y la creación",
+          "author": "María Cristina Ascuntar Rivera - Universidad de Caldas - Colombia",
+          "key": 8
+        },
+        {
+          "title": "Tejido de diálogos interculturales y su aporte al proceso de diseño desde el modelo de acción comunitaria de las etnias.",
+          "author": "María Fernanda Chamorro R. - Universidad Nacional de Colombia",
+          "key": 9
+        },
+        {
+          "title": "El Gran libro de la cocina colombiana primera edición (1984): auto etnografía e investigación visual en torno a un proyecto editorial",
+          "author": "Liliana Orejuela - Universidad Nacional de Colombia - Colombia",
+          "key": 10
+        },
+        {
+          "title": "Cocinando país: mujeres, fogones y transformaciones sociales",
+          "author": "Jennifer Marsiglia Pastrana - Universidad del Norte - Colombia",
+          "key": 11
+        },
+        {
+          "title": "JORNADA INTERNA DE LA REDLADA",
+          "author": "RedLaDA",
+          "key": 12
+        }
+      ],
+      "key": 5
+    },
+    {
+      "title": "Parte 6",
+      "subtitle": "Estudiantes y comunidad",
+      "papers": [
+        {
+          "title": "Cocinando Ciencia: explorando la química a través de la cocina. ¿O al revés?",
+          "author": "José Vintimilla",
+          "key": 1
+        },
+        {
+          "title": "¿Por qué las personas no tienen un huerto en su departamento?",
+          "author": "Johnny García / Álex Yucailla",
+          "key": 2
+        },
+        {
+          "title": "Hábitos alimenticios saludables en niños mediante técnicas creativas para introducir verduras y legumbres",
+          "author": "Gabriela Fernández / Nancy Morocho",
+          "key": 3
+        },
+        {
+          "title": "Menos desperdicio, más alimento: acceso a alimentos para todos",
+          "author": "Bruno Barrera",
+          "key": 4
+        },
+        {
+          "title": "Casa auto-sustentable en las afueras de la ciudad",
+          "author": "Renato Álvarez",
+          "key": 5
+        }
+      ],
+      "key": 6
+    },
+    {
+      "title": "Parte 7",
+      "subtitle": "Revista latinoamericana de Food Design: Comes lo que eres",
+      "papers": [],
+      "key": 7
+    },
+    {
+      "title": "Parte 8",
+      "subtitle": "Salida de campo / Imagen del encuentro / Registro fotográfico",
+      "papers": [],
+      "key": 8
+    },
+    {
+      "title": "Parte 9",
+      "subtitle": "Cierre del encuentro",
+      "papers": [],
+      "key": 9
     }
   ]
 }
