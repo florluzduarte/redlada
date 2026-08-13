@@ -1,7 +1,7 @@
 [
   {
-    "title": "Publicaciones",
-    "href": "/hacemos/publicaciones",
+    "title": "Biblioteca",
+    "href": "https://drive.google.com/drive/folders/1XvDOMidt0xORHc7e6KB6EBst49dRgu7l?usp=sharing",
     "color": "orange",
     "icon": {
       "position": "right",
@@ -11,7 +11,7 @@
   },
   {
     "title": "Cursos",
-    "href": "/hacemos/cursos",
+    "href": "https://www.fdxe.org",
     "color": "violet",
     "icon": {
       "position": "right",
