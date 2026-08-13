@@ -13,10 +13,10 @@ const Educacion = () => {
     <section className={styles.section}>
       <div className={styles.section__wrapper}>
         <div className={styles.educacion__text__wrapper}>
-          <h2>Educación</h2>
+          <h2>Educación e Investigación</h2>
           <p>
-            <strong>{textEducacion.title}</strong>
-            {textEducacion.text}
+            {textEducacion.title}
+            <strong>{textEducacion.text}</strong>
           </p>
         </div>
         <div className={styles.educacion__buttons__wrapper}>
